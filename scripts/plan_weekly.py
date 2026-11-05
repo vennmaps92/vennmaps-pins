@@ -1,4 +1,4 @@
-# plan_weekly.py - rebuild the Sunday Pinterest upload files (D:\States Project\pintrest).
+# plan_weekly.py - rebuild the Sunday Pinterest upload files (D:\States Project\social\pinterest).
 #
 # Pinterest's bulk uploader only keeps ~100 pins scheduled at once and only ~30 days ahead, so pins go up in
 # weekly batches. This script keeps that plan:
@@ -14,7 +14,7 @@
 # every pin dated after its upload Sunday. Pins that cannot fit before their date are moved to the end of the plan.
 import os, sys, csv, json, glob, shutil, datetime as dt
 
-P = r"D:\States Project\pintrest"
+P = r"D:\States Project\social\pinterest"
 UP = os.path.join(P, "_already_uploaded"); NEW = os.path.join(P, "new_pins")
 DATES = os.path.join(UP, "uploaded_dates.json")
 CAP, WINDOW, RATE = 96, 29, 3
@@ -22,6 +22,7 @@ SLOTS = [(16, 0), (23, 0), (2, 0)]   # UTC = 9:00, 16:00, 19:00 Denver (MST); fr
 COLS = ["Title", "Media URL", "Pinterest board", "Thumbnail", "Description", "Link", "Publish date", "Keywords"]
 os.makedirs(UP, exist_ok=True); os.makedirs(NEW, exist_ok=True)
 P_ = lambda r: dt.datetime.fromisoformat(r["Publish date"])
+HOL = lambda r: "Christmas Gift Idea" in r["Title"]   # Nov 20-Dec 13 2026 holiday sale pins (make_holiday_pins.py)
 
 def read(f): return list(csv.DictReader(open(f, encoding="utf-8")))
 def write(f, rows):
@@ -42,7 +43,7 @@ now = dt.datetime.now()                               # PC clock (Denver)
 today = now.date(); sun = today + dt.timedelta(days=(6 - today.weekday()) % 7)
 if sun == today and now.hour >= 12: sun += dt.timedelta(days=7)   # Sunday afternoon: plan from next Sunday
 day = sun + dt.timedelta(days=1); k = 0
-for r in new:                                         # date the new pins, RATE per day, from the day after the next upload
+for r in [r for r in new if not r.get("Publish date")]:   # date the new pins (rows that already have a date keep it), RATE per day, from the day after the next upload
     h, m = SLOTS[k]; t = dt.datetime(day.year, day.month, day.day, h, m) + (dt.timedelta(days=1) if h < 12 else dt.timedelta())
     r["Publish date"] = t.strftime("%Y-%m-%dT%H:%M:%S"); k += 1
     if k == RATE: k = 0; day += dt.timedelta(days=1)
@@ -55,7 +56,7 @@ sched = [dt.datetime.fromisoformat(d) for d in uploaded]; out = []
 while rest:
     free = CAP - len([d for d in sched if d > S]); lim = S + dt.timedelta(days=WINDOW)
     take, titles, keep = [], set(), []
-    for r in rest:
+    for r in sorted(rest, key=lambda r: (not HOL(r), P_(r))):   # holiday-sale pins first, so they keep their dates
         if len(take) < free and S < P_(r) <= lim and r["Title"] not in titles: take.append(r); titles.add(r["Title"])
         else: keep.append(r)
     rest = [r for r in keep if P_(r) > S] + [r for r in keep if P_(r) <= S]
