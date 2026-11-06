@@ -1,0 +1,46 @@
+name: Instagram poster
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Upload and check the next video but do NOT publish"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-poster
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: ig
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Post due Reels
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: python ig/post_due.py
+      - name: Save posting log
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain ig/posted.json)" ]; then
+            git config user.name "vennmaps-bot"
+            git config user.email "vennmaps-bot@users.noreply.github.com"
+            git add ig/posted.json
+            git commit -m "Instagram: update posted log"
+            git pull --rebase -q
+            git push -q
+          fi
