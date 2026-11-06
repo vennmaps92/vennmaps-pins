@@ -1,1 +1,7 @@
-{}
+{
+ "2027-01-24_2300_pennsylvania_geology_map_poster_detail_geologic_wall_art_wit": {
+  "status": "error",
+  "tries": 1,
+  "last_error": "HTTP 422 {\"statusCode\": 422, \"message\": \"Your Pinterest still looks pretty new. You MUST warm it up for 2 weeks before connecting to 3rd party posting tools like Blotato. Failing to do this often results in being shadowbanned or flagged by Pinterest. Start posting 1 pin per day manually, then gradually ramp up to 2, then 3, etc. pins per day. Once you get 100+ views per month, then reconnect your Pinterest"
+ }
+}
