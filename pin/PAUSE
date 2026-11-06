@@ -1,0 +1,6 @@
+Paused Nov 6 2026: Blotato refused the first test pin (HTTP 422) because the
+Pinterest account is too new. Blotato wants ~2 weeks of manual posting and
+100+ monthly views before it will post. Keep uploading the weekly CSVs until then.
+
+Before deleting this file: rebuild pin/schedule.json from ONLY the weekly CSVs
+that have NOT been uploaded yet, or pins already scheduled on Pinterest will post twice.
