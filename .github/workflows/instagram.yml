@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Upload and check the next video but do NOT publish"
+        description: "Check everything but do NOT publish"
         type: boolean
         default: true
 
@@ -20,27 +20,43 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
         with:
-          sparse-checkout: ig
+          sparse-checkout: |
+            ig
+            tt
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Post due Reels
+      - name: Post due Instagram Reels
+        id: ig
+        continue-on-error: true
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
         run: python ig/post_due.py
-      - name: Save posting log
+      - name: Post due TikToks
+        id: tt
+        continue-on-error: true
+        env:
+          BLOTATO_API_KEY: ${{ secrets.BLOTATO_API_KEY }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
+        run: python tt/post_due.py
+      - name: Save posting logs
         if: always()
         run: |
-          if [ -n "$(git status --porcelain ig/posted.json)" ]; then
+          if [ -n "$(git status --porcelain ig/posted.json tt/posted.json)" ]; then
             git config user.name "vennmaps-bot"
             git config user.email "vennmaps-bot@users.noreply.github.com"
-            git add ig/posted.json
-            git commit -m "Instagram: update posted log"
+            git add ig/posted.json tt/posted.json
+            git commit -m "Update posted logs"
             git pull --rebase -q
             git push -q
           fi
+      - name: Report failures
+        if: steps.ig.outcome == 'failure' || steps.tt.outcome == 'failure'
+        run: |
+          echo "Instagram: ${{ steps.ig.outcome }}  TikTok: ${{ steps.tt.outcome }}"
+          exit 1
