@@ -25,5 +25,11 @@
   "submission_id": "77320c21-83b5-4a0b-8684-0e4c7e9c4b5e",
   "for_local": "2026-11-07 17:00",
   "tries": 0
+ },
+ "2026-11-08_0900_MT_how_close_tiktok": {
+  "status": "scheduled",
+  "submission_id": "8788599b-4291-47fe-a2dd-77af3c157726",
+  "for_local": "2026-11-08 09:00",
+  "tries": 0
  }
 }
