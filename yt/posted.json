@@ -18,5 +18,11 @@
   "submission_id": "7e7d5e50-6d0d-4f4f-9bde-2173ace0d84e",
   "for_local": "2026-11-07 12:00",
   "tries": 0
+ },
+ "2026-11-07_1700_UT_loading_reveal_tiktok": {
+  "status": "scheduled",
+  "submission_id": "563caf40-36fe-4e9f-8f06-59160a08f708",
+  "for_local": "2026-11-07 17:00",
+  "tries": 0
  }
 }
