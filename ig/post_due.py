@@ -55,8 +55,9 @@ def save(name, obj):
 
 def make_container(item):
     url = VIDEO_BASE + urllib.parse.quote(item["video"])
+    extra = {"location_id": item["location_id"]} if item.get("location_id") else {}
     c = call("POST", IG_USER + "/media", media_type="REELS", video_url=url,
-             caption=item["caption"], share_to_feed="true")
+             caption=item["caption"], share_to_feed="true", **extra)
     if "id" not in c:
         return None, c
     for _ in range(40):  # up to ~10 minutes

@@ -78,8 +78,9 @@ def make_carousel(item):
         ok, s = wait_ready(k)
         if not ok:
             return None, s
+    extra = {"location_id": item["location_id"]} if item.get("location_id") else {}
     c = call("POST", IG_USER + "/media", media_type="CAROUSEL", children=",".join(kids),
-             caption=item["caption"])
+             caption=item["caption"], **extra)
     if "id" not in c:
         return None, c
     ok, s = wait_ready(c["id"])
