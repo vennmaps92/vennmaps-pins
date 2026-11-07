@@ -17,7 +17,8 @@ def state_detail(path, aspect):
     sm = big.resize((900, int(900 * H0 / W0)), Image.BILINEAR); h, w = sm.size[1], sm.size[0]
     inside = state_mask(sm).astype(float)
     ink = (np.asarray(sm).astype(float).mean(2) < 120).astype(float)
-    ww = int(w * 0.34); wh = int(ww / aspect)
+    if aspect >= 1: ww = int(w * 0.34); wh = int(ww / aspect)
+    else: wh = int(h * 0.42); ww = int(wh * aspect)
     ii = np.pad(inside, ((1, 0), (1, 0))).cumsum(0).cumsum(1); ik = np.pad(ink, ((1, 0), (1, 0))).cumsum(0).cumsum(1)
     def S(I, x, y): return I[y + wh, x + ww] - I[y, x + ww] - I[y + wh, x] + I[y, x]
     ys, xs = np.nonzero(inside); cy, cx = ys.mean(), xs.mean()
