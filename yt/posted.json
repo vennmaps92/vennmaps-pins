@@ -28,10 +28,11 @@
   "url": "https://www.youtube.com/watch?v=KESCHiVSK2w"
  },
  "2026-11-08_0900_MT_how_close_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "e38df673-9182-4a39-bcf1-b0c6200d1ca3",
   "for_local": "2026-11-08 09:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=eiIzKQVabQg"
  },
  "2026-11-08_1900_PA_geology_legend_tiktok": {
   "status": "scheduled",

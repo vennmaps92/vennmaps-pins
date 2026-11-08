@@ -28,10 +28,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7705583775731748127"
  },
  "2026-11-08_0900_MT_how_close_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "8788599b-4291-47fe-a2dd-77af3c157726",
   "for_local": "2026-11-08 09:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7705831274530884894"
  },
  "2026-11-08_1900_PA_geology_legend_tiktok": {
   "status": "scheduled",
