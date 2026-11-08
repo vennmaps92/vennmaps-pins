@@ -1,0 +1,114 @@
+{
+ "ST": "KS",
+ "state": "Kansas",
+ "cover_sub": "Dig down through 340 million years",
+ "caption_hook": "Under the flat wheat fields, Kansas hides a chalk sea, a salt mine and the Flint Hills.",
+ "layers": [
+  {
+   "name": "SMOKY HILL CHALK",
+   "age": "About 85 million years ago",
+   "short": "85 Myr",
+   "period": "Cretaceous",
+   "kind": "lime",
+   "hook": "The chalk towers of a dead sea",
+   "what": "A warm sea left layers of fine white chalk, now carved into the rock towers of Monument Rocks. Its fossils include huge fish and sea reptiles. The chalk is soft enough to scratch with a fingernail.",
+   "bonus": "Monument Rocks became one of the first National Natural Landmarks in 1968.",
+   "pins": [
+    [
+     "Monument Rocks",
+     -100.76,
+     38.8
+    ]
+   ]
+  },
+  {
+   "name": "GREENHORN LIMESTONE",
+   "age": "About 93 million years ago",
+   "short": "93 Myr",
+   "period": "Cretaceous",
+   "kind": "lime",
+   "hook": "The fence-post stone",
+   "what": "One hard bed of this limestone is just the right thickness to cut into posts. With few trees on the prairie, settlers quarried it instead of using wood.",
+   "bonus": "Post Rock Country still has stone fence posts, and La Crosse has a museum to them.",
+   "pins": [
+    [
+     "La Crosse",
+     -99.31,
+     38.53
+    ]
+   ]
+  },
+  {
+   "name": "DAKOTA SANDSTONE",
+   "age": "About 100 million years ago",
+   "short": "100 Myr",
+   "period": "Cretaceous",
+   "kind": "sand",
+   "hook": "Beach sand turned to stone",
+   "what": "Shorelines and rivers beside the seaway laid down this sand. Wind and water carved it into mushroom-shaped rocks at Mushroom Rock State Park. The sandstone is iron-stained and rusty tan.",
+   "bonus": "Its leaf fossils include some of the earliest flowering plants in North America.",
+   "pins": [
+    [
+     "Mushroom Rock",
+     -98.03,
+     38.73
+    ]
+   ]
+  },
+  {
+   "name": "HUTCHINSON SALT",
+   "age": "About 270 million years ago",
+   "short": "270 Myr",
+   "period": "Permian",
+   "kind": "salt",
+   "hook": "A sea that dried up",
+   "what": "A shallow sea evaporated under a hot desert sun and left a salt bed hundreds of feet thick. Miners still dig it out beneath the city of Hutchinson. The salt is nearly pure and is mined for table and road salt.",
+   "bonus": "About 650 feet down, a salt mine is now the Strataca museum.",
+   "pins": [
+    [
+     "Hutchinson",
+     -97.93,
+     38.06
+    ]
+   ]
+  },
+  {
+   "name": "CHASE GROUP LIMESTONE",
+   "age": "About 280 million years ago",
+   "short": "280 Myr",
+   "period": "Permian",
+   "kind": "lime",
+   "hook": "The flinty Flint Hills",
+   "what": "Limestone full of hard flint nodules resists erosion, so it holds up the Flint Hills. Its thin soil kept the plow away from the last big tallgrass prairie.",
+   "bonus": "Tallgrass Prairie National Preserve protects some of the last big tallgrass prairie.",
+   "pins": [
+    [
+     "Strong City",
+     -96.54,
+     38.4
+    ]
+   ]
+  },
+  {
+   "name": "BOONE FORMATION",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "Limestone with ore inside",
+   "what": "A clear Mississippian sea left this cherty limestone in the far southeast corner of the state. Zinc and lead ore later formed in its cracks. Nodules of hard chert are scattered through it.",
+   "bonus": "Mines near Galena once made Kansas a major lead and zinc producer.",
+   "pins": [
+    [
+     "Galena",
+     -94.63,
+     37.08
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://kgs.ku.edu/",
+  "https://www.nps.gov/tapr/learn/nature/geology.htm"
+ ]
+}

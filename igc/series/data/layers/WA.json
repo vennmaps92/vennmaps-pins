@@ -1,0 +1,125 @@
+{
+ "ST": "WA",
+ "state": "Washington",
+ "cover_sub": "Dig down through 1.4 billion years",
+ "caption_hook": "Washington was swept by giant floods, buried in lava and built from islands bolted onto the coast.",
+ "layers": [
+  {
+   "name": "MISSOULA FLOOD GRAVEL",
+   "age": "About 15,000 years ago",
+   "short": "15K yrs",
+   "period": "Pleistocene",
+   "kind": "gravel",
+   "hook": "Floods that carved a desert",
+   "what": "Ice dams in Montana burst again and again, sending walls of water across eastern Washington. The floods ripped out the Channeled Scablands and dumped giant gravel bars and boulders.",
+   "bonus": "Dry Falls, left by those floods, was once a waterfall about five times wider than Niagara.",
+   "pins": [
+    [
+     "Dry Falls",
+     -119.37,
+     47.6
+    ],
+    [
+     "Palouse Falls",
+     -118.22,
+     46.66
+    ]
+   ]
+  },
+  {
+   "name": "COLUMBIA RIVER BASALT",
+   "age": "About 16 million years ago",
+   "short": "16 Myr",
+   "period": "Miocene",
+   "kind": "volcanic",
+   "hook": "Lava floods that buried a region",
+   "what": "Runny lava poured from long cracks in the ground, flood after flood, until eastern Washington lay under thousands of feet of black basalt. Cooling split it into tall columns.",
+   "bonus": "Some of the flows ran all the way to the Pacific coast, about 300 miles away.",
+   "pins": [
+    [
+     "Vantage",
+     -119.99,
+     47.1
+    ],
+    [
+     "Steamboat Rock",
+     -119.12,
+     47.85
+    ]
+   ]
+  },
+  {
+   "name": "CHUCKANUT FORMATION",
+   "age": "About 50 million years ago",
+   "short": "50 Myr",
+   "period": "Eocene",
+   "kind": "sand",
+   "hook": "A palm-filled river delta",
+   "what": "Rivers wound across a warm, swampy delta here, and their sand buried palm fronds, ferns and giant leaves. Now sandstone, it holds fossil leaf prints in cliffs near Bellingham.",
+   "bonus": "Scenic Chuckanut Drive winds along the cliffs of this very sandstone.",
+   "pins": [
+    [
+     "Chuckanut Drive",
+     -122.48,
+     48.65
+    ]
+   ]
+  },
+  {
+   "name": "CRESCENT FORMATION",
+   "age": "About 55 million years ago",
+   "short": "55 Myr",
+   "period": "Eocene",
+   "kind": "volcanic",
+   "hook": "An island chain bolted on",
+   "what": "Undersea volcanoes and islands drifted in and were scraped onto the edge of North America. Their dark lavas now form the rugged mountains ringing the Olympic Peninsula.",
+   "bonus": "The rock is named after Lake Crescent in Olympic National Park.",
+   "pins": [
+    [
+     "Lake Crescent",
+     -123.82,
+     48.05
+    ]
+   ]
+  },
+  {
+   "name": "MOUNT STUART BATHOLITH",
+   "age": "About 93 million years ago",
+   "short": "93 Myr",
+   "period": "Cretaceous",
+   "kind": "granite",
+   "hook": "Magma that never reached the sky",
+   "what": "Deep underground, a huge body of molten rock cooled slowly into granite. Uplift and glaciers later exposed it as the jagged Stuart Range and the Enchantments.",
+   "bonus": "Mount Stuart, 9,415 ft, is the second-highest non-volcanic peak in Washington.",
+   "pins": [
+    [
+     "Mount Stuart",
+     -120.9,
+     47.48
+    ]
+   ]
+  },
+  {
+   "name": "BELT SUPERGROUP",
+   "age": "About 1.4 billion years ago",
+   "short": "1.4 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Mud from a lost inland sea",
+   "what": "Long before animals, rivers fed mud and sand into a vast basin in what is now the Northern Rockies. Squeezed into hard slate and quartzite, those layers reach northeast Washington.",
+   "bonus": "The same family of rock forms the soaring cliffs of Glacier National Park in Montana.",
+   "pins": [
+    [
+     "Chewelah",
+     -117.72,
+     48.28
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://dnr.wa.gov/geology",
+  "https://www.nps.gov/olym/learn/nature/geologic-formations.htm",
+  "https://parks.state.wa.us/"
+ ]
+}

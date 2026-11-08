@@ -1,0 +1,108 @@
+{
+ "ST": "OR",
+ "state": "Oregon",
+ "cover_sub": "Dig down through 230 million years",
+ "caption_hook": "Oregon has a volcano that blew its top, a rainbow of ash hills and a chain of lost tropical islands.",
+ "layers": [
+  {
+   "name": "MOUNT MAZAMA",
+   "age": "About 7,700 years ago",
+   "short": "8K yrs",
+   "period": "Holocene",
+   "kind": "volcanic",
+   "hook": "A mountain that blew its top",
+   "what": "Mount Mazama erupted so violently that its summit collapsed into a giant pit. Rain and snow filled it, making the deepest lake in the United States, at 1,943 ft.",
+   "bonus": "Its ash blanketed much of the Northwest, and layers of it turn up as far away as Canada.",
+   "pins": [
+    [
+     "Crater Lake",
+     -122.11,
+     42.94
+    ]
+   ]
+  },
+  {
+   "name": "COLUMBIA RIVER BASALT",
+   "age": "About 16 million years ago",
+   "short": "16 Myr",
+   "period": "Miocene",
+   "kind": "volcanic",
+   "hook": "Lava floods that reached the coast",
+   "what": "Enormous floods of runny lava poured out of cracks in the ground, again and again. They filled the Columbia River valley and left the black cliffs seen across northern and eastern Oregon.",
+   "bonus": "Multnomah Falls, 620 ft high, tumbles down a cliff of this old lava.",
+   "pins": [
+    [
+     "Multnomah Falls",
+     -122.12,
+     45.58
+    ],
+    [
+     "Picture Gorge",
+     -119.63,
+     44.52
+    ]
+   ]
+  },
+  {
+   "name": "JOHN DAY FORMATION",
+   "age": "About 35 million years ago",
+   "short": "35 Myr",
+   "period": "Oligocene",
+   "kind": "mud",
+   "hook": "Rainbow hills of volcanic ash",
+   "what": "Ash from erupting volcanoes drifted over a warm, wooded plain and weathered into soft, colorful claystone. Its layers hold fossils of early horses, camels, rhino-like beasts and saber-toothed cats.",
+   "bonus": "The Painted Hills get their stripes of red, gold and black from ancient soils in this rock.",
+   "pins": [
+    [
+     "Painted Hills",
+     -120.27,
+     44.66
+    ],
+    [
+     "Sheep Rock",
+     -119.62,
+     44.59
+    ]
+   ]
+  },
+  {
+   "name": "WALLOWA BATHOLITH",
+   "age": "About 150 million years ago",
+   "short": "150 Myr",
+   "period": "Jurassic",
+   "kind": "granite",
+   "hook": "The granite heart of the Wallowas",
+   "what": "Far underground, huge bodies of molten rock cooled slowly into granite. Later uplift and ice-age glaciers carved it into the sharp, pale peaks of northeast Oregon.",
+   "bonus": "Because of those peaks, the Wallowas are nicknamed the Alps of Oregon.",
+   "pins": [
+    [
+     "Wallowa Lake",
+     -117.2,
+     45.27
+    ]
+   ]
+  },
+  {
+   "name": "WALLOWA TERRANE",
+   "age": "About 230 million years ago",
+   "short": "230 Myr",
+   "period": "Triassic",
+   "kind": "lime",
+   "hook": "Tropical islands that crashed in",
+   "what": "Once a chain of volcanic islands ringed by coral reefs far out in the Pacific, it drifted east and slammed into North America. Its limestone and lavas now form much of northeast Oregon.",
+   "bonus": "Nearby Hells Canyon, North America's deepest river gorge, cuts through the same island rocks.",
+   "pins": [
+    [
+     "Hells Canyon",
+     -116.75,
+     45.35
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/crla/learn/nature/geology.htm",
+  "https://www.nps.gov/joda/learn/nature/geology.htm",
+  "https://www.oregongeology.org/"
+ ]
+}

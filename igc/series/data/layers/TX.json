@@ -1,0 +1,119 @@
+{
+ "ST": "TX",
+ "state": "Texas",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "Texas has dinosaur tracks, a fossil reef, a salt dome and the granite of Enchanted Rock.",
+ "layers": [
+  {
+   "name": "OGALLALA FORMATION",
+   "age": "About 8 million years ago",
+   "short": "8 Myr",
+   "period": "Miocene",
+   "kind": "gravel",
+   "hook": "The sand sheet under the plains",
+   "what": "Rivers from the Rockies spread sand and gravel into a hard cap that holds up the Llano Estacado. The Ogallala Aquifer below waters much of the Panhandle.",
+   "bonus": "Farmers pump the aquifer far faster than rain can refill it.",
+   "pins": [
+    [
+     "Palo Duro Canyon",
+     -101.65,
+     34.94
+    ],
+    [
+     "Lubbock",
+     -101.84,
+     33.58
+    ]
+   ]
+  },
+  {
+   "name": "GLEN ROSE LIMESTONE",
+   "age": "About 113 million years ago",
+   "short": "113 Myr",
+   "period": "Cretaceous",
+   "kind": "lime",
+   "hook": "Footprints on a shoreline",
+   "what": "Dinosaurs walked a muddy tidal flat that later turned into limestone. Their tracks are still visible in the Paluxy River at Dinosaur Valley State Park.",
+   "bonus": "Both a long-necked sauropod and a three-toed predator left tracks side by side.",
+   "pins": [
+    [
+     "Glen Rose",
+     -97.82,
+     32.25
+    ]
+   ]
+  },
+  {
+   "name": "LOUANN SALT",
+   "age": "About 165 million years ago",
+   "short": "165 Myr",
+   "period": "Jurassic",
+   "kind": "salt",
+   "hook": "The salt that pushed up oil",
+   "what": "The young Gulf of Mexico basin dried up and left a thick salt bed. Salt flows slowly upward like toothpaste, doming the rock above it and trapping oil.",
+   "bonus": "Spindletop, a salt dome near Beaumont, gushed in 1901 and launched the Texas oil boom.",
+   "pins": [
+    [
+     "Spindletop",
+     -94.05,
+     30.02
+    ]
+   ]
+  },
+  {
+   "name": "CAPITAN LIMESTONE",
+   "age": "About 265 million years ago",
+   "short": "265 Myr",
+   "period": "Permian",
+   "kind": "lime",
+   "hook": "A fossil reef you can hike",
+   "what": "A giant reef grew along the edge of a Permian sea, and it now stands in the Guadalupe Mountains. It is one of the best-preserved fossil reefs on Earth.",
+   "bonus": "Guadalupe Peak, at 8,751 feet, is the tallest point in Texas.",
+   "pins": [
+    [
+     "Guadalupe Peak",
+     -104.86,
+     31.89
+    ]
+   ]
+  },
+  {
+   "name": "BARNETT SHALE",
+   "age": "About 330 million years ago",
+   "short": "330 Myr",
+   "period": "Mississippian",
+   "kind": "shale",
+   "hook": "The shale under Fort Worth",
+   "what": "A black, gas-rich shale from an ancient sea lies deep under North Texas. In the late 1990s, drillers cracked it open and kicked off the modern shale boom.",
+   "bonus": "Fort Worth sits right on top of it, with wells even in city parks.",
+   "pins": [
+    [
+     "Fort Worth",
+     -97.33,
+     32.75
+    ]
+   ]
+  },
+  {
+   "name": "TOWN MOUNTAIN GRANITE",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "A dome of pink granite",
+   "what": "Molten rock cooled underground as ancient continents collided. Erosion has since exposed Enchanted Rock, a huge bare granite dome in the Hill Country.",
+   "bonus": "At night the rock groans as it cools, which gave it its name.",
+   "pins": [
+    [
+     "Enchanted Rock",
+     -98.82,
+     30.5
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.beg.utexas.edu/",
+  "https://www.nps.gov/gumo/learn/nature/geology.htm"
+ ]
+}

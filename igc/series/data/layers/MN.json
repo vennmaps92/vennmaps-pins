@@ -1,0 +1,139 @@
+{
+ "ST": "MN",
+ "state": "Minnesota",
+ "cover_sub": "Dig down through 3.5 billion years",
+ "caption_hook": "Minnesota holds a lost giant lake, a failed continental split and some of the oldest rock in America.",
+ "layers": [
+  {
+   "name": "LAKE AGASSIZ CLAY",
+   "age": "About 12,000 years ago",
+   "short": "12K yrs",
+   "period": "Quaternary",
+   "kind": "mud",
+   "hook": "The floor of a giant lost lake",
+   "what": "As the ice sheet melted, Lake Agassiz grew larger than all of today's Great Lakes combined. When it drained, it left the flat, rich-soiled Red River Valley.",
+   "bonus": "Its leftover puddles include Red Lake and Lake of the Woods.",
+   "pins": [
+    [
+     "Moorhead",
+     -96.76,
+     46.87
+    ],
+    [
+     "Crookston",
+     -96.61,
+     47.77
+    ]
+   ]
+  },
+  {
+   "name": "ST. PETER SANDSTONE",
+   "age": "About 470 million years ago",
+   "short": "470 Myr",
+   "period": "Ordovician",
+   "kind": "sand",
+   "hook": "Sand so pure it makes glass",
+   "what": "A warm shallow sea washed over the Midwest and left a thick blanket of nearly pure quartz sand. It is so soft you can dig it by hand, and so clean it is mined for glass.",
+   "bonus": "Saint Paul's Wabasha Street Caves were dug into it and once hosted a 1930s speakeasy.",
+   "pins": [
+    [
+     "Wabasha Caves",
+     -93.1,
+     44.94
+    ]
+   ]
+  },
+  {
+   "name": "NORTH SHORE LAVA",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "volcanic",
+   "hook": "A continent that nearly split",
+   "what": "North America tried to rip apart here, and lava poured out for millions of years. The basalt stacked up miles thick and now forms the cliffs along Lake Superior.",
+   "bonus": "The same rift runs buried underground all the way down to Kansas.",
+   "pins": [
+    [
+     "Palisade Head",
+     -91.21,
+     47.34
+    ],
+    [
+     "Gooseberry Falls",
+     -91.47,
+     47.14
+    ]
+   ]
+  },
+  {
+   "name": "SIOUX QUARTZITE",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Pink stone for sacred pipes",
+   "what": "Ancient river sands were buried, cooked and squeezed until the grains fused into pink quartzite, one of the toughest rocks around. Thin seams of soft red pipestone lie between its layers.",
+   "bonus": "Native nations have quarried that red pipestone for pipes at Pipestone National Monument for centuries.",
+   "pins": [
+    [
+     "Pipestone",
+     -96.32,
+     43.84
+    ],
+    [
+     "Jeffers Rock Art",
+     -95.05,
+     43.98
+    ]
+   ]
+  },
+  {
+   "name": "MESABI IRON RANGE",
+   "age": "About 1.9 billion years ago",
+   "short": "1.9 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Rust-red rock that built America",
+   "what": "Iron-rich mud settled in a shallow sea when Earth's air first held oxygen, then hardened into the Biwabik Iron Formation. It fed the steel mills for over a century.",
+   "bonus": "Hibbing's Hull-Rust mine pit is over 3 miles long and nicknamed the Grand Canyon of the North.",
+   "pins": [
+    [
+     "Hibbing",
+     -92.94,
+     47.43
+    ],
+    [
+     "Virginia",
+     -92.54,
+     47.52
+    ]
+   ]
+  },
+  {
+   "name": "MORTON GNEISS",
+   "age": "About 3.5 billion years ago",
+   "short": "3.5 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Among America's oldest rock",
+   "what": "Heat and pressure deep in the crust twisted this rock into swirling pink and black bands. It is one of the oldest rocks in the U.S. and shows up along the Minnesota River.",
+   "bonus": "Quarried near Morton, it is polished and sold as Rainbow Gneiss for buildings and countertops.",
+   "pins": [
+    [
+     "Morton",
+     -94.99,
+     44.56
+    ],
+    [
+     "Granite Falls",
+     -95.51,
+     44.81
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://mnopedia.org/thing/morton-gneiss",
+  "https://cse.umn.edu/mgs/precambrian-geology"
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "pair": "GA-FL",
+ "a": "GA",
+ "b": "FL",
+ "a_name": "Georgia",
+ "b_name": "Florida",
+ "tagline": "Peach State versus Sunshine State.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Brasstown Bald",
+    4784,
+    "4,784 ft"
+   ],
+   "b": [
+    "Britton Hill",
+    345,
+    "345 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Blue Ridge to coast",
+    600,
+    "600 ft"
+   ],
+   "b": [
+    "pancake flat",
+    100,
+    "100 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "dots",
+   "a": [
+    "no national park",
+    0,
+    "0"
+   ],
+   "b": [
+    "Everglades and more",
+    3,
+    "3"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "TIDAL SHORELINE",
+   "kind": "bar",
+   "a": [
+    "marsh and sea islands",
+    2344,
+    "2,344 mi"
+   ],
+   "b": [
+    "two coasts",
+    8436,
+    "8,436 mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "rivers and reservoirs",
+    1912,
+    "1,912 sq mi"
+   ],
+   "b": [
+    "lakes, swamps, bays",
+    12133,
+    "12,133 sq mi"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "SWAMP SHOWDOWN",
+  "sub": "Two wild wetlands",
+  "a": [
+   "Okefenokee",
+   "the “land of trembling",
+   "earth” of peat"
+  ],
+  "b": [
+   "Everglades",
+   "a slow river of",
+   "grass"
+  ],
+  "mid": [
+   "Both are home to",
+   "alligators. Only one",
+   "is a river of grass."
+  ],
+  "q": "Which swamp wins?",
+  "cta": "Comment “OKEE” or “GLADES”"
+ },
+ "caption_hook": "Georgia vs Florida: mountains, coasts and swamps, scored.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_by_elevation",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline",
+  "https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States",
+  "https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States"
+ ]
+}

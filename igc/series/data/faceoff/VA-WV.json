@@ -1,0 +1,114 @@
+{
+ "pair": "VA-WV",
+ "a": "VA",
+ "b": "WV",
+ "a_name": "Virginia",
+ "b_name": "West Virginia",
+ "tagline": "Mountain State versus Old Dominion.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Mount Rogers",
+    5729,
+    "5,729 ft"
+   ],
+   "b": [
+    "Spruce Knob",
+    4863,
+    "4,863 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Blue Ridge to bay",
+    950,
+    "950 ft"
+   ],
+   "b": [
+    "all hills, all state",
+    1500,
+    "1,500 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "PERCENT FORESTED",
+   "kind": "bar",
+   "a": [
+    "63% tree cover",
+    62.93,
+    "63%"
+   ],
+   "b": [
+    "79% tree cover",
+    79.01,
+    "79%"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "TIDAL SHORELINE",
+   "kind": "bar",
+   "a": [
+    "Chesapeake Bay shores",
+    3315,
+    "3,315 mi"
+   ],
+   "b": [
+    "landlocked",
+    0,
+    "0 mi"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "bays and rivers",
+    3285,
+    "3,285 sq mi"
+   ],
+   "b": [
+    "rivers and creeks",
+    192,
+    "192 sq mi"
+   ],
+   "win": "a"
+  }
+ ],
+ "bonus": {
+  "title": "ROAD TRIP OR RAFT",
+  "sub": "Two Appalachian icons",
+  "a": [
+   "Skyline Drive",
+   "105 miles along the",
+   "crest of the Blue Ridge"
+  ],
+  "b": [
+   "New River Gorge",
+   "whitewater under a",
+   "876-foot-high bridge"
+  ],
+  "mid": [
+   "Same Appalachians.",
+   "Drive the ridge or",
+   "raft the gorge."
+  ],
+  "q": "Drive it or raft it?",
+  "cta": "Comment “DRIVE” or “RAFT”"
+ },
+ "caption_hook": "Virginia vs West Virginia: peaks, forests and shores, scored.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_by_elevation",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline",
+  "https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States",
+  "https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States"
+ ]
+}

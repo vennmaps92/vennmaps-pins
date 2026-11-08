@@ -1,0 +1,131 @@
+{
+ "ST": "WY",
+ "state": "Wyoming",
+ "cover_sub": "Dig down through 2.7 billion years",
+ "caption_hook": "Wyoming has a supervolcano, a tower of cooled magma, ancient fish lakes and some of the oldest rock around.",
+ "layers": [
+  {
+   "name": "LAVA CREEK TUFF",
+   "age": "About 640,000 years ago",
+   "short": "640K yrs",
+   "period": "Pleistocene",
+   "kind": "volcanic",
+   "hook": "A supervolcano's last big blast",
+   "what": "Yellowstone's most recent giant eruption spread hot ash across much of North America. It left a vast crater, called a caldera, roughly 30 by 45 miles across.",
+   "bonus": "The heat still left under it powers Yellowstone's geysers and hot springs.",
+   "pins": [
+    [
+     "Gibbon Falls",
+     -110.78,
+     44.65
+    ],
+    [
+     "Yellowstone Lake",
+     -110.37,
+     44.42
+    ]
+   ]
+  },
+  {
+   "name": "DEVILS TOWER",
+   "age": "About 40 million years ago",
+   "short": "40 Myr",
+   "period": "Eocene",
+   "kind": "volcanic",
+   "hook": "Magma frozen into giant columns",
+   "what": "Molten rock pushed into older layers and cooled slowly, cracking into six-sided columns. Erosion stripped away the softer rock and left the tower rising 867 ft from its base.",
+   "bonus": "In 1906 it became the first national monument in the United States.",
+   "pins": [
+    [
+     "Devils Tower",
+     -104.72,
+     44.59
+    ]
+   ]
+  },
+  {
+   "name": "GREEN RIVER FORMATION",
+   "age": "About 50 million years ago",
+   "short": "50 Myr",
+   "period": "Eocene",
+   "kind": "lime",
+   "hook": "Fossil fish from subtropical lakes",
+   "what": "Warm, calm lakes once covered southwest Wyoming. Their fine mud preserved fish, turtles, crocodiles, bats and palm leaves in astonishing detail, now split from slabs of stone.",
+   "bonus": "Nearby, Wyoming sits on the world's largest known deposit of trona, used to make glass.",
+   "pins": [
+    [
+     "Fossil Butte",
+     -110.77,
+     41.86
+    ],
+    [
+     "Green River",
+     -109.47,
+     41.53
+    ]
+   ]
+  },
+  {
+   "name": "MORRISON FORMATION",
+   "age": "About 150 million years ago",
+   "short": "150 Myr",
+   "period": "Jurassic",
+   "kind": "mud",
+   "hook": "Floodplains full of giants",
+   "what": "Rivers, swamps and mudflats where the biggest dinosaurs ever lived left bones by the ton. Wyoming's quarries here have supplied museums around the world.",
+   "bonus": "A shepherd near Como Bluff once built a cabin out of dinosaur bones.",
+   "pins": [
+    [
+     "Como Bluff",
+     -106.02,
+     41.75
+    ],
+    [
+     "Thermopolis",
+     -108.21,
+     43.65
+    ]
+   ]
+  },
+  {
+   "name": "TENSLEEP SANDSTONE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Dunes beside an ancient sea",
+   "what": "Sandy beaches and wind-blown dunes at the edge of a shallow sea turned to tough stone. It is named for the town of Ten Sleep in the Bighorn Mountains.",
+   "bonus": "Its porous sand is also a major oil reservoir under Wyoming's basins.",
+   "pins": [
+    [
+     "Ten Sleep",
+     -107.45,
+     44.03
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 2.7 billion years ago",
+   "short": "2.7 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "The ancient core of a continent",
+   "what": "Beneath Wyoming lies some of the oldest crust in North America. In the Tetons, banded gneiss about 2.7 billion years old was lifted into the sharp peaks of Grand Teton.",
+   "bonus": "The rock is ancient, but the Teton peaks began rising less than 10 million years ago.",
+   "pins": [
+    [
+     "Grand Teton",
+     -110.8,
+     43.74
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/yell/learn/nature/geology.htm",
+  "https://www.nps.gov/deto/learn/nature/geology.htm",
+  "https://www.nps.gov/fobu/learn/nature/geology.htm",
+  "https://www.nps.gov/grte/learn/nature/geology.htm"
+ ]
+}

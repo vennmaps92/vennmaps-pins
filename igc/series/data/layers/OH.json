@@ -1,0 +1,112 @@
+{
+ "ST": "OH",
+ "state": "Ohio",
+ "cover_sub": "Dig down through 445 million years",
+ "caption_hook": "Ohio has been scraped by glaciers, lapped by tropical seas and ruled by a giant armored fish.",
+ "layers": [
+  {
+   "name": "GLACIAL TILL",
+   "age": "Up to 2 million years ago",
+   "short": "2 Myr",
+   "period": "Pleistocene",
+   "kind": "glacial",
+   "hook": "Scraped smooth by the ice",
+   "what": "Ice sheets pushed down from the north and left a thick blanket of clay, sand and boulders over much of Ohio. On Lake Erie's Kelleys Island the ice also carved giant grooves into the limestone below.",
+   "bonus": "Kelleys Island's Glacial Grooves rank among the largest in the world.",
+   "pins": [
+    [
+     "Kelleys Island",
+     -82.7,
+     41.6
+    ]
+   ]
+  },
+  {
+   "name": "BLACK HAND SANDSTONE",
+   "age": "About 350 million years ago",
+   "short": "350 Myr",
+   "period": "Mississippian",
+   "kind": "sand",
+   "hook": "The rock of Hocking Hills",
+   "what": "Rivers laid down thick beds of coarse sand that hardened into soft sandstone. Wind and water have since carved it into recess caves, gorges and waterfalls.",
+   "bonus": "Black Hand Gorge near Newark is named for a Native American rock carving of a black hand.",
+   "pins": [
+    [
+     "Old Man's Cave",
+     -82.54,
+     39.43
+    ],
+    [
+     "Black Hand Gorge",
+     -82.37,
+     40.07
+    ]
+   ]
+  },
+  {
+   "name": "BEREA SANDSTONE",
+   "age": "About 360 million years ago",
+   "short": "360 Myr",
+   "period": "Mississippian",
+   "kind": "sand",
+   "hook": "Sand from an ancient river delta",
+   "what": "Rivers dumped sand into a shallow sea, building a delta that hardened into sandstone. Quarried around Berea and Amherst, it was cut into grindstones and building blocks.",
+   "bonus": "Amherst, Ohio, calls itself the Sandstone Capital of the World.",
+   "pins": [
+    [
+     "Berea",
+     -81.86,
+     41.37
+    ],
+    [
+     "Amherst",
+     -82.22,
+     41.4
+    ]
+   ]
+  },
+  {
+   "name": "CLEVELAND SHALE",
+   "age": "About 365 million years ago",
+   "short": "365 Myr",
+   "period": "Devonian",
+   "kind": "shale",
+   "hook": "Home of the armored sea monster",
+   "what": "A warm sea covered Ohio, its bottom starved of oxygen, which left black mud that became shale. It holds Dunkleosteus, a giant armored fish with bladelike jaw plates instead of teeth.",
+   "bonus": "Dunkleosteus fossils are found in Cleveland's rivers and creeks.",
+   "pins": [
+    [
+     "Cleveland",
+     -81.69,
+     41.5
+    ]
+   ]
+  },
+  {
+   "name": "WAYNESVILLE FORMATION",
+   "age": "About 445 million years ago",
+   "short": "445 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "Trilobites of the Cincinnati area",
+   "what": "Alternating limestone and shale from a shallow sea crowd with fossils: lampshells, corals and trilobites. Collectors dig them at Caesar Creek and in hillsides around Cincinnati.",
+   "bonus": "The trilobite Isotelus is Ohio's official state fossil, found around Cincinnati.",
+   "pins": [
+    [
+     "Caesar Creek",
+     -84.05,
+     39.5
+    ],
+    [
+     "Cincinnati",
+     -84.51,
+     39.1
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/geological-survey",
+  "https://www.nps.gov/"
+ ]
+}

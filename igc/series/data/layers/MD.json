@@ -1,0 +1,97 @@
+{
+ "ST": "MD",
+ "state": "Maryland",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "Maryland has shark-tooth cliffs, a dinosaur, a mountain folded like a smile and Washington's marble.",
+ "layers": [
+  {
+   "name": "CALVERT FORMATION",
+   "age": "About 15 million years ago",
+   "short": "15 Myr",
+   "period": "Neogene",
+   "kind": "mud",
+   "hook": "The shark-tooth cliffs",
+   "what": "A warm Miocene sea once covered southern Maryland, teeming with sharks, whales and shellfish. Its mud and sand now crumble out of the Calvert Cliffs along the Chesapeake Bay.",
+   "bonus": "Fossil Ecphora, a snail-like shell from these cliffs, is Maryland's state fossil shell.",
+   "pins": [
+    [
+     "Calvert Cliffs",
+     -76.44,
+     38.4
+    ]
+   ]
+  },
+  {
+   "name": "ARUNDEL FORMATION",
+   "age": "About 115 million years ago",
+   "short": "115 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "Where Maryland's dinosaur lived",
+   "what": "Rivers and swamps once crossed what is now the Washington-Baltimore corridor. Dinosaur bones and fossil wood are preserved in the clay, long dug for iron ore and brick.",
+   "bonus": "Astrodon, a long-necked dinosaur found here, is Maryland's state dinosaur.",
+   "pins": [
+    [
+     "Dinosaur Park",
+     -76.88,
+     39.06
+    ]
+   ]
+  },
+  {
+   "name": "PURSLANE SANDSTONE",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "sand",
+   "hook": "A mountain folded like a smile",
+   "what": "River sand and pebbles built up here, then continental collision squeezed the layers into a giant U-shaped fold. A highway cut slices right through it for drivers to see.",
+   "bonus": "Interstate 68 cuts straight through Sideling Hill, showing the fold from the car window.",
+   "pins": [
+    [
+     "Sideling Hill",
+     -78.34,
+     39.63
+    ]
+   ]
+  },
+  {
+   "name": "COCKEYSVILLE MARBLE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "lime",
+   "hook": "Limestone baked into marble",
+   "what": "An ancient sea laid down limestone that was later heated and squeezed into sparkling white marble. Quarried near Baltimore, it built some of the nation's most famous monuments.",
+   "bonus": "Maryland marble from Texas, Maryland, faces the Washington Monument in D.C.",
+   "pins": [
+    [
+     "Cockeysville",
+     -76.64,
+     39.48
+    ]
+   ]
+  },
+  {
+   "name": "BALTIMORE GNEISS",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The oldest rock around Baltimore",
+   "what": "Deep roots of an ancient mountain range, cooked and stretched into banded gneiss. Pushed back up into domes, it pokes out of stream valleys across the Baltimore area.",
+   "bonus": "Quarrymen called it blue stone, and it built early Baltimore foundations and curbs.",
+   "pins": [
+    [
+     "Towson",
+     -76.6,
+     39.4
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://mgs.md.gov/geology/geology_tour/sideling_hill_detail.html",
+  "https://mgs.md.gov/geology/building_stones_of_maryland.html"
+ ]
+}

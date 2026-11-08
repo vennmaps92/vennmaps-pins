@@ -1,0 +1,119 @@
+{
+ "ST": "NM",
+ "state": "New Mexico",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "New Mexico has been a coastal swamp, a tropical reef and a rift valley with supervolcanoes.",
+ "layers": [
+  {
+   "name": "BANDELIER TUFF",
+   "age": "About 1.6 million years ago",
+   "short": "1.6 Myr",
+   "period": "Quaternary",
+   "kind": "volcanic",
+   "hook": "A volcano blew its top",
+   "what": "Two giant eruptions in the Jemez Mountains spread hot ash across the region and left the Valles Caldera. The ash welded into soft tuff, hundreds of feet thick.",
+   "bonus": "Ancestral Puebloans carved homes and cave rooms right into the cliffs at Bandelier.",
+   "pins": [
+    [
+     "Bandelier",
+     -106.27,
+     35.78
+    ]
+   ]
+  },
+  {
+   "name": "FRUITLAND FORMATION",
+   "age": "About 75 million years ago",
+   "short": "75 Myr",
+   "period": "Cretaceous",
+   "kind": "coal",
+   "hook": "Swamps along an old seashore",
+   "what": "Along the edge of a retreating sea, swamps built up plant material that became coal. Wind and rain now carve the soft layers into hoodoos and strange mushroom shapes.",
+   "bonus": "Bisti and De-Na-Zin badlands are sculpted from it and its neighbors.",
+   "pins": [
+    [
+     "Bisti Badlands",
+     -108.25,
+     36.29
+    ]
+   ]
+  },
+  {
+   "name": "CHINLE FORMATION",
+   "age": "About 210 million years ago",
+   "short": "210 Myr",
+   "period": "Triassic",
+   "kind": "mud",
+   "hook": "Dinosaur pack in the red mud",
+   "what": "Colorful mudstones record rivers and floodplains early in the Age of Dinosaurs. At Ghost Ranch, hundreds of small Coelophysis dinosaurs were buried together.",
+   "bonus": "Coelophysis, a speedy little hunter, became New Mexico's state fossil in 1981.",
+   "pins": [
+    [
+     "Ghost Ranch",
+     -106.47,
+     36.34
+    ]
+   ]
+  },
+  {
+   "name": "CAPITAN LIMESTONE",
+   "age": "About 265 million years ago",
+   "short": "265 Myr",
+   "period": "Permian",
+   "kind": "lime",
+   "hook": "A reef you can walk through",
+   "what": "A giant horseshoe-shaped reef grew in a warm sea. Acid-rich water later dissolved caves into the limestone, and uplift raised the whole reef into the Guadalupe Mountains.",
+   "bonus": "Carlsbad Caverns holds a cave room called the Big Room, nearly 4,000 feet long.",
+   "pins": [
+    [
+     "Carlsbad Caverns",
+     -104.44,
+     32.18
+    ]
+   ]
+  },
+  {
+   "name": "MADERA LIMESTONE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "lime",
+   "hook": "Sea shells on a mountain crest",
+   "what": "A shallow sea covered this region, building thick beds of gray limestone full of shells, corals and sea lilies. Uplift later raised them high above the valley.",
+   "bonus": "It caps the Sandia Mountains above Albuquerque, over 10,000 feet up.",
+   "pins": [
+    [
+     "Sandia Crest",
+     -106.45,
+     35.21
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "1.4 to 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "Granite and gneiss under it all",
+   "what": "The oldest rocks in New Mexico are granite, gneiss and schist that formed deep in the crust. They form the bones of the Sandia and Sangre de Cristo ranges.",
+   "bonus": "Wheeler Peak, 13,161 ft and the state's highest summit, stands on Precambrian rock.",
+   "pins": [
+    [
+     "Wheeler Peak",
+     -105.42,
+     36.56
+    ],
+    [
+     "Sandia Mountains",
+     -106.4,
+     35.18
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://geoinfo.nmt.edu/",
+  "https://www.nps.gov/"
+ ]
+}

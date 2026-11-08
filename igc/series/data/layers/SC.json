@@ -1,0 +1,107 @@
+{
+ "ST": "SC",
+ "state": "South Carolina",
+ "cover_sub": "Dig down through 550 million years",
+ "caption_hook": "South Carolina's ground holds shark-tooth marl, a famous fossil, blue granite and old gold-country rock.",
+ "layers": [
+  {
+   "name": "COOPER MARL",
+   "age": "About 30 million years ago",
+   "short": "30 Myr",
+   "period": "Oligocene",
+   "kind": "lime",
+   "hook": "Shark-tooth country",
+   "what": "A warm sea covered the Lowcountry, and its lime-rich mud turned into fossil-filled marl. Megalodon teeth, whale bones and shells wash out along rivers and creeks.",
+   "bonus": "Soft sediments like these amplified the shaking in Charleston's 1886 earthquake.",
+   "pins": [
+    [
+     "Charleston",
+     -79.93,
+     32.78
+    ],
+    [
+     "Summerville",
+     -80.18,
+     33.02
+    ]
+   ]
+  },
+  {
+   "name": "PEEDEE FORMATION",
+   "age": "About 70 million years ago",
+   "short": "70 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "A fossil that set a world standard",
+   "what": "Late Cretaceous seas left sandy, shell-rich mud along the coast just before the dinosaurs died out. It is named for the Pee Dee River, where it is exposed.",
+   "bonus": "A belemnite fossil from it became a long-used standard for measuring carbon in rocks.",
+   "pins": [
+    [
+     "Florence",
+     -79.76,
+     34.2
+    ]
+   ]
+  },
+  {
+   "name": "MIDDENDORF FORMATION",
+   "age": "About 90 million years ago",
+   "short": "90 Myr",
+   "period": "Cretaceous",
+   "kind": "sand",
+   "hook": "Sand and clay from lost mountains",
+   "what": "Rivers washed sand and clay out of the Appalachians onto an ancient coastal plain. Those pale sandy layers now run across the middle of the state, where the longleaf pine grows.",
+   "bonus": "Kaolin clay from this belt goes into glossy paper, ceramics and paint.",
+   "pins": [
+    [
+     "Aiken",
+     -81.72,
+     33.56
+    ],
+    [
+     "Cheraw",
+     -79.91,
+     34.7
+    ]
+   ]
+  },
+  {
+   "name": "WINNSBORO GRANITE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "granite",
+   "hook": "Blue-gray stone for building",
+   "what": "Hot magma cooled slowly underground in the Piedmont and formed a hard, blue-gray granite. Quarries near Winnsboro cut it into blocks for buildings and monuments.",
+   "bonus": "Winnsboro Blue Granite is one of South Carolina's best-known building stones.",
+   "pins": [
+    [
+     "Winnsboro",
+     -81.09,
+     34.37
+    ]
+   ]
+  },
+  {
+   "name": "CAROLINA SLATE BELT",
+   "age": "About 550 million years ago",
+   "short": "550 Myr",
+   "period": "Precambrian",
+   "kind": "volcanic",
+   "hook": "Ancient volcanoes and gold",
+   "what": "Long before the Appalachians, a chain of volcanic islands erupted offshore. Their ash and lava were later squeezed into slate-like rock, with gold in veins running through it.",
+   "bonus": "The Haile Gold Mine near Kershaw has produced gold since the 1820s.",
+   "pins": [
+    [
+     "Kershaw",
+     -80.58,
+     34.55
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Peedee_Formation",
+  "https://www.scencyclopedia.org/"
+ ]
+}

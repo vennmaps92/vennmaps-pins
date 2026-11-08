@@ -1,0 +1,107 @@
+{
+ "ST": "AL",
+ "state": "Alabama",
+ "cover_sub": "Dig down through 500 million years",
+ "caption_hook": "Alabama holds a chalk sea floor, coal swamps, iron ore, cave country and famous white marble.",
+ "layers": [
+  {
+   "name": "DEMOPOLIS CHALK",
+   "age": "About 80 million years ago",
+   "short": "80 Myr",
+   "period": "Cretaceous",
+   "kind": "lime",
+   "hook": "A pale sea floor in the Black Belt",
+   "what": "A warm sea once covered central Alabama, and the shells of tiny plankton settled into soft white chalk. Mosasaurs, giant sea turtles and sharks left their bones in it.",
+   "bonus": "Its dark, rich soil is a big reason the Black Belt region got its name.",
+   "pins": [
+    [
+     "Demopolis",
+     -87.84,
+     32.52
+    ],
+    [
+     "Selma",
+     -87.02,
+     32.41
+    ]
+   ]
+  },
+  {
+   "name": "POTTSVILLE FORMATION",
+   "age": "About 315 million years ago",
+   "short": "315 Myr",
+   "period": "Pennsylvanian",
+   "kind": "coal",
+   "hook": "Steamy swamps that became coal",
+   "what": "Giant ferns and club-mosses grew in swamps on a low, flat coast. Buried and squeezed for ages, their remains turned into the coal seams of the Warrior coalfield.",
+   "bonus": "Birmingham grew up because coal, iron ore and limestone all lay within a few miles.",
+   "pins": [
+    [
+     "Jasper",
+     -87.28,
+     33.83
+    ]
+   ]
+  },
+  {
+   "name": "BANGOR LIMESTONE",
+   "age": "About 325 million years ago",
+   "short": "325 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "A shallow sea full of future caves",
+   "what": "Warm, shallow seas piled up limy mud and shells that hardened into thick limestone. Rain slowly dissolved it into the sinkholes, springs and caves of northern Alabama.",
+   "bonus": "Cathedral Caverns near Grant has a giant stalagmite called Goliath, about 45 feet tall.",
+   "pins": [
+    [
+     "Cathedral Caverns",
+     -86.22,
+     34.57
+    ],
+    [
+     "Russell Cave",
+     -85.81,
+     34.98
+    ]
+   ]
+  },
+  {
+   "name": "RED MOUNTAIN FORMATION",
+   "age": "About 430 million years ago",
+   "short": "430 Myr",
+   "period": "Silurian",
+   "kind": "sand",
+   "hook": "Iron-rich rock that built a city",
+   "what": "Sand and mud on an ancient sea floor, rich in iron minerals, formed a long red ridge. Miners dug out the ore, and Birmingham's furnaces turned it into iron and steel.",
+   "bonus": "Vulcan, the world's largest cast-iron statue, stands on this ridge in Birmingham.",
+   "pins": [
+    [
+     "Vulcan Park",
+     -86.8,
+     33.49
+    ]
+   ]
+  },
+  {
+   "name": "SYLACAUGA MARBLE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "meta",
+   "hook": "The state rock, whiter than snow",
+   "what": "Ancient sea-floor limestone was baked and squeezed deep underground as mountains rose, recrystallizing into pure white marble. It is prized worldwide, and marble is Alabama's state rock.",
+   "bonus": "In 1954 a meteorite crashed through a roof in Sylacauga and bruised a woman napping on her couch.",
+   "pins": [
+    [
+     "Sylacauga",
+     -86.25,
+     33.17
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://ngmdb.usgs.gov/Geolex/Units/Jumbo_2268.html",
+  "https://encyclopediaofalabama.org/?p=15483"
+ ]
+}

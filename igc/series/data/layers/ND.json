@@ -1,0 +1,102 @@
+{
+ "ST": "ND",
+ "state": "North Dakota",
+ "cover_sub": "Dig down through 2.5 billion years",
+ "caption_hook": "North Dakota hides glacier rubble, dinosaur bones and an oil-rich shale two miles down.",
+ "layers": [
+  {
+   "name": "COLEHARBOR GROUP",
+   "age": "Up to 2.6 million years ago",
+   "short": "2.6 Myr",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "Left behind by the ice sheets",
+   "what": "Ice-age glaciers bulldozed across the state and dumped a blanket of clay, sand and boulders. Meltwater lakes added flat silt beds, like the old Lake Agassiz floor around Fargo.",
+   "bonus": "Devils Lake has no natural outlet, so it keeps rising and falling with the rain.",
+   "pins": [
+    [
+     "Devils Lake",
+     -98.87,
+     48.11
+    ],
+    [
+     "Fargo",
+     -96.79,
+     46.88
+    ]
+   ]
+  },
+  {
+   "name": "SENTINEL BUTTE FM.",
+   "age": "About 58 million years ago",
+   "short": "58 Myr",
+   "period": "Paleocene",
+   "kind": "mud",
+   "hook": "Swamps, coal and a painted canyon",
+   "what": "Warm, wet forests once covered western North Dakota. Their mud and coal built the banded buttes of Theodore Roosevelt National Park, where petrified wood weathers out.",
+   "bonus": "Burning coal seams baked the clay into red scoria, now used to surface local roads.",
+   "pins": [
+    [
+     "Medora",
+     -103.52,
+     46.91
+    ]
+   ]
+  },
+  {
+   "name": "HELL CREEK FORMATION",
+   "age": "About 66 million years ago",
+   "short": "66 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "Dinosaurs on their last day",
+   "what": "River floodplains where Triceratops and T. rex roamed in the final years of the dinosaurs. The top of the formation records the asteroid impact that ended their reign.",
+   "bonus": "Near Marmarth you can see the thin boundary layer from the extinction itself.",
+   "pins": [
+    [
+     "Marmarth",
+     -103.92,
+     46.3
+    ]
+   ]
+  },
+  {
+   "name": "BAKKEN FORMATION",
+   "age": "About 360 million years ago",
+   "short": "360 Myr",
+   "period": "Devonian",
+   "kind": "shale",
+   "hook": "The shale that sparked an oil rush",
+   "what": "A black, oil-rich shale laid down in a warm sea, now buried about two miles deep in the Williston Basin. Horizontal drilling and fracking unlocked it in the 2000s.",
+   "bonus": "It is named for Henry Bakken, whose farm near Tioga was drilled in 1951.",
+   "pins": [
+    [
+     "Tioga",
+     -102.94,
+     48.4
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "1.8 to 2.5 billion years ago",
+   "short": "2.5 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "Ancient rock under it all",
+   "what": "Beneath every layer lies old crystalline rock, the roots of an ancient continent. None of it reaches the surface in North Dakota; we know it only from deep drill holes.",
+   "bonus": "The Williston Basin sagged so slowly that it kept collecting layers for hundreds of millions of years.",
+   "pins": [
+    [
+     "Williston",
+     -103.62,
+     48.15
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.dmr.nd.gov/ndgs/",
+  "https://www.nps.gov/thro/learn/nature/geology.htm"
+ ]
+}

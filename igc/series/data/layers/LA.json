@@ -1,0 +1,102 @@
+{
+ "ST": "LA",
+ "state": "Louisiana",
+ "cover_sub": "Dig down through 160 million years",
+ "caption_hook": "Louisiana is built from Mississippi River mud and sits on top of ancient buried salt.",
+ "layers": [
+  {
+   "name": "RIVER DELTA MUD",
+   "age": "Less than 7,000 years old",
+   "short": "10K yrs",
+   "period": "Holocene",
+   "kind": "mud",
+   "hook": "Land built by the Mississippi",
+   "what": "The Mississippi has shifted its mouth again and again, dropping mud to build the delta. Each shift left a new lobe of soft, wet ground stretching into the Gulf.",
+   "bonus": "New Orleans sits on this soft mud, which is why parts of the city are slowly sinking.",
+   "pins": [
+    [
+     "New Orleans",
+     -90.07,
+     29.95
+    ],
+    [
+     "Venice",
+     -89.35,
+     29.28
+    ]
+   ]
+  },
+  {
+   "name": "MISSISSIPPI LOESS",
+   "age": "About 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Pleistocene",
+   "kind": "mud",
+   "hook": "Dust from melting glaciers",
+   "what": "Ice Age winds blew fine rock dust off the Mississippi's gravel plains and piled it in thick bluffs. The loess has silty soil that erodes into steep ravines and bluffs.",
+   "bonus": "Mastodon and ground sloth bones turn up in the Tunica Hills region.",
+   "pins": [
+    [
+     "St. Francisville",
+     -91.38,
+     30.78
+    ]
+   ]
+  },
+  {
+   "name": "CATAHOULA FORMATION",
+   "age": "About 30 million years ago",
+   "short": "30 Myr",
+   "period": "Oligocene",
+   "kind": "sand",
+   "hook": "Forests turned to stone",
+   "what": "Streams and ash falls buried forests across central Louisiana. Silica-rich water slowly replaced the logs and palm trunks with stone, grain by grain, into petrified wood.",
+   "bonus": "Petrified palmwood is Louisiana's official state fossil, a stone-hard palm trunk.",
+   "pins": [
+    [
+     "Catahoula Lake",
+     -92.12,
+     31.5
+    ]
+   ]
+  },
+  {
+   "name": "CLAIBORNE GROUP",
+   "age": "About 45 million years ago",
+   "short": "45 Myr",
+   "period": "Eocene",
+   "kind": "sand",
+   "hook": "Sandy hills in pine country",
+   "what": "Rivers and shallow seas laid sand and clay across northern and central Louisiana. Where the sandstone resists erosion, it makes the hills of Kisatchie National Forest.",
+   "bonus": "Kisatchie is Louisiana's only national forest, over 600,000 acres.",
+   "pins": [
+    [
+     "Kisatchie Hills",
+     -93.05,
+     31.55
+    ]
+   ]
+  },
+  {
+   "name": "LOUANN SALT",
+   "age": "About 160 million years ago",
+   "short": "160 Myr",
+   "period": "Jurassic",
+   "kind": "salt",
+   "hook": "A dried-up ancient Gulf",
+   "what": "The early Gulf of Mexico dried out again and again, leaving salt layers thousands of feet thick. The buried salt later pushed up through the rock above in plugs called salt domes.",
+   "bonus": "Tabasco sauce is made on Avery Island, a hill that is really the top of a salt dome.",
+   "pins": [
+    [
+     "Avery Island",
+     -91.91,
+     29.9
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.lsu.edu/lgs/",
+  "https://www.nps.gov/"
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "pair": "ND-MN",
+ "a": "ND",
+ "b": "MN",
+ "a_name": "North Dakota",
+ "b_name": "Minnesota",
+ "tagline": "Prairie vs Land of 10,000 Lakes.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "White Butte",
+    3506,
+    "3,506 ft"
+   ],
+   "b": [
+    "Eagle Mountain",
+    2301,
+    "2,301 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Great Plains",
+    1900,
+    "1,900 ft"
+   ],
+   "b": [
+    "Lakes and forests",
+    1200,
+    "1,200 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "LARGEST HOME LAKE",
+   "kind": "bar",
+   "a": [
+    "Sakakawea (reservoir)",
+    520,
+    "about 520 sq mi"
+   ],
+   "b": [
+    "Red Lake",
+    450,
+    "about 450 sq mi"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "rivers and lakes",
+    1700,
+    "about 1,700 sq mi"
+   ],
+   "b": [
+    "10,000+ lakes",
+    7300,
+    "about 7,300 sq mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "LAKE SUPERIOR SHORE",
+   "kind": "bar",
+   "a": [
+    "landlocked",
+    0,
+    "0 miles"
+   ],
+   "b": [
+    "North Shore",
+    189,
+    "189 miles"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "ROAD TRIP START",
+  "sub": "You're the judge on this one",
+  "a": [
+   "ND Badlands",
+   "wild horses, bison and",
+   "painted canyons"
+  ],
+  "b": [
+   "Lake Itasca",
+   "where the Mississippi",
+   "begins as a trickle"
+  ],
+  "mid": [
+   "Where would you rather",
+   "start your road trip?",
+   ""
+  ],
+  "q": "Source or Badlands?",
+  "cta": "Comment “ITASCA” or “BADLANDS”"
+ },
+ "caption_hook": "North Dakota vs Minnesota: peaks, lakes and water, scored.",
+ "sources": [
+  "https://www.usgs.gov",
+  "https://www.nps.gov",
+  "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html",
+  "https://www.noaa.gov"
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "ST": "IN",
+ "state": "Indiana",
+ "cover_sub": "Dig down through 450 million years",
+ "caption_hook": "Indiana is ice-flattened farmland sitting on a warm tropical sea floor full of coral and fossils.",
+ "layers": [
+  {
+   "name": "GLACIAL TILL",
+   "age": "Up to 2 million years ago",
+   "short": "2 Myr",
+   "period": "Pleistocene",
+   "kind": "glacial",
+   "hook": "Bulldozed flat by mile-thick ice",
+   "what": "Ice Age glaciers crept south over Indiana several times. They ground up rock and dumped it as a blanket of clay, sand and boulders that leveled most of the northern and central state.",
+   "bonus": "Indiana's highest point, Hoosier Hill at 1,257 ft, is just a gentle rise in this glacial plain.",
+   "pins": [
+    [
+     "Hoosier Hill",
+     -84.85,
+     40.0
+    ]
+   ]
+  },
+  {
+   "name": "MANSFIELD FORMATION",
+   "age": "About 310 million years ago",
+   "short": "310 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Sandy rivers and coal swamps",
+   "what": "Rivers dragged sand across a swampy lowland covered in giant fern-like trees. The sand hardened into a tough sandstone that streams now cut into steep, mossy canyons.",
+   "bonus": "Meltwater from the last Ice Age helped carve the deep canyons at Turkey Run State Park.",
+   "pins": [
+    [
+     "Turkey Run",
+     -87.21,
+     39.89
+    ]
+   ]
+  },
+  {
+   "name": "SALEM LIMESTONE",
+   "age": "About 335 million years ago",
+   "short": "335 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "Skyscrapers made of seafloor",
+   "what": "A warm, shallow sea piled up broken shells and tiny round grains of lime. The pale, easily carved stone is called Indiana Limestone and is quarried near Bedford and Bloomington.",
+   "bonus": "Indiana Limestone clads the Empire State Building and the Pentagon.",
+   "pins": [
+    [
+     "Bedford",
+     -86.49,
+     38.86
+    ],
+    [
+     "Stinesville",
+     -86.65,
+     39.31
+    ]
+   ]
+  },
+  {
+   "name": "JEFFERSONVILLE LIMEST.",
+   "age": "About 390 million years ago",
+   "short": "390 Myr",
+   "period": "Devonian",
+   "kind": "lime",
+   "hook": "A coral reef in the Midwest",
+   "what": "Indiana sat in warm seas near the equator, and corals built reefs on the bottom. Those fossil reefs are exposed along the Ohio River, among the largest Devonian coral beds in the world.",
+   "bonus": "When the river runs low you can walk the fossil beds. Lewis and Clark met up here in 1803.",
+   "pins": [
+    [
+     "Falls of the Ohio",
+     -85.77,
+     38.28
+    ]
+   ]
+  },
+  {
+   "name": "DILLSBORO FORMATION",
+   "age": "About 450 million years ago",
+   "short": "450 Myr",
+   "period": "Ordovician",
+   "kind": "shale",
+   "hook": "Mud packed with ancient sea life",
+   "what": "Layers of muddy limestone and shale built up on a shallow sea floor. They are crammed with the shells of lampshells, moss animals and other tiny creatures.",
+   "bonus": "These fossils lived before the first trees existed. Southeast Indiana hillsides are a fossil hunter's favorite.",
+   "pins": [
+    [
+     "Versailles SP",
+     -85.23,
+     39.07
+    ],
+    [
+     "Clifty Falls",
+     -85.42,
+     38.74
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.in.gov/dnr/state-parks/",
+  "https://www.nps.gov/"
+ ]
+}

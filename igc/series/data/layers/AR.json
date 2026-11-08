@@ -1,0 +1,97 @@
+{
+ "ST": "AR",
+ "state": "Arkansas",
+ "cover_sub": "Dig down through 470 million years",
+ "caption_hook": "Arkansas has a diamond-bearing volcano, giant quartz crystals and the first national river.",
+ "layers": [
+  {
+   "name": "PRAIRIE CREEK PIPE",
+   "age": "About 106 million years ago",
+   "short": "106 Myr",
+   "period": "Cretaceous",
+   "kind": "volcanic",
+   "hook": "Diamonds from a volcano",
+   "what": "A volcano blasted up from deep underground, carrying diamonds with it. Its rock, called lamproite, cooled in the vent, and erosion has since exposed it near Murfreesboro.",
+   "bonus": "Visitors keep what they find. The 40-carat Uncle Sam is the largest diamond found in the U.S.",
+   "pins": [
+    [
+     "Crater of Diamonds",
+     -93.67,
+     34.03
+    ]
+   ]
+  },
+  {
+   "name": "HARTSHORNE SANDSTONE",
+   "age": "About 310 million years ago",
+   "short": "310 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Sand from a vanished river system",
+   "what": "River sands piled up thickly in a basin south of the old Ozarks and hardened into a tough sandstone. It caps the flat-topped mountains of the Arkansas River Valley.",
+   "bonus": "Petit Jean Mountain, topped by this sandstone, hosts Arkansas's first state park.",
+   "pins": [
+    [
+     "Petit Jean",
+     -92.93,
+     35.11
+    ]
+   ]
+  },
+  {
+   "name": "BOONE FORMATION",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "The Ozark cliffs and caves",
+   "what": "A warm shallow sea left layers of limestone with bands of hard chert. Rivers like the Buffalo have carved it into tall bluffs and caves across the Ozarks.",
+   "bonus": "The Buffalo became the first National River in the U.S. in 1972.",
+   "pins": [
+    [
+     "Ponca",
+     -93.36,
+     36.03
+    ]
+   ]
+  },
+  {
+   "name": "ARKANSAS NOVACULITE",
+   "age": "About 370 million years ago",
+   "short": "370 Myr",
+   "period": "Devonian",
+   "kind": "sand",
+   "hook": "The stone that sharpens knives",
+   "what": "A very fine-grained, glassy rock made mostly of microscopic quartz. It is hard and evenly gritty, so it has been used for centuries as a sharpening stone.",
+   "bonus": "Native Americans quarried it for tools long before Hot Springs became a spa town.",
+   "pins": [
+    [
+     "Hot Springs",
+     -93.05,
+     34.5
+    ]
+   ]
+  },
+  {
+   "name": "CRYSTAL MTN SANDSTONE",
+   "age": "About 470 million years ago",
+   "short": "470 Myr",
+   "period": "Ordovician",
+   "kind": "sand",
+   "hook": "Where the quartz crystals grow",
+   "what": "Ouachita Mountain rocks were folded and squeezed when continents collided. Hot, silica-rich water seeped into cracks in them and slowly grew clear quartz crystals.",
+   "bonus": "Mount Ida calls itself the Quartz Crystal Capital of the World.",
+   "pins": [
+    [
+     "Mount Ida",
+     -93.63,
+     34.55
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.geology.arkansas.gov/",
+  "https://www.arkansasstateparks.com/parks/crater-of-diamonds-state-park"
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "ST": "MT",
+ "state": "Montana",
+ "cover_sub": "Dig down through 3 billion years",
+ "caption_hook": "Montana has been a coal swamp, a dinosaur nursery, a tropical sea and a mountain of ancient gneiss.",
+ "layers": [
+  {
+   "name": "FORT UNION FORMATION",
+   "age": "About 60 million years ago",
+   "short": "60 Myr",
+   "period": "Paleocene",
+   "kind": "coal",
+   "hook": "Swamps that became coal",
+   "what": "Warm, wet forests and swamps spread over eastern Montana after the dinosaurs died out. Buried plants piled up into thick seams of coal, still mined near Colstrip.",
+   "bonus": "Montana is thought to have the biggest coal reserves of any state.",
+   "pins": [
+    [
+     "Colstrip",
+     -106.63,
+     45.88
+    ]
+   ]
+  },
+  {
+   "name": "HELL CREEK FORMATION",
+   "age": "About 66 million years ago",
+   "short": "66 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "Where T. rex ruled",
+   "what": "The last dinosaurs roamed these river floodplains just before an asteroid struck. Tyrannosaurus, Triceratops and duck-billed dinosaurs left their bones in the muddy sand.",
+   "bonus": "Fossil hunter Barnum Brown found the first T. rex skeleton here in 1902.",
+   "pins": [
+    [
+     "Jordan",
+     -106.91,
+     47.32
+    ],
+    [
+     "Fort Peck",
+     -106.45,
+     48.01
+    ]
+   ]
+  },
+  {
+   "name": "TWO MEDICINE FORMATION",
+   "age": "About 75 million years ago",
+   "short": "75 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "A dinosaur nursery",
+   "what": "Floodplains by the shore of an inland sea were crowded with duck-billed dinosaurs. Scientists found whole nests, eggs and hatchlings of Maiasaura here.",
+   "bonus": "Maiasaura means good mother lizard and is Montana's state dinosaur.",
+   "pins": [
+    [
+     "Choteau",
+     -112.18,
+     47.81
+    ]
+   ]
+  },
+  {
+   "name": "MADISON LIMESTONE",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "A warm, shallow tropical sea",
+   "what": "A clear, warm sea covered Montana and left thick beds of limestone full of fossil corals and sea lilies. Acidic groundwater later dissolved caves and springs out of it.",
+   "bonus": "Lewis and Clark Caverns, Montana's first state park, formed inside it.",
+   "pins": [
+    [
+     "L&C Caverns",
+     -111.85,
+     45.83
+    ],
+    [
+     "Giant Springs",
+     -111.2,
+     47.53
+    ]
+   ]
+  },
+  {
+   "name": "BELT SUPERGROUP",
+   "age": "About 1.4 billion years ago",
+   "short": "1.4 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Mud of a vanished inland sea",
+   "what": "Over a billion years ago, rivers and tides piled up mud, sand and lime in a huge shallow sea. The red, green and white layers now form the cliffs of Glacier National Park.",
+   "bonus": "Wavy stromatolites in it are fossil mats of some of the earliest life on Earth.",
+   "pins": [
+    [
+     "Logan Pass",
+     -113.72,
+     48.7
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 3 billion years ago",
+   "short": "3 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "Rock from the planet's early days",
+   "what": "Under it all lies some of the oldest rock in the United States. In the Beartooth Mountains, granite and gneiss billions of years old were shoved up into a high, icy plateau.",
+   "bonus": "Granite Peak, Montana's highest point at 12,807 ft, is carved from it.",
+   "pins": [
+    [
+     "Granite Peak",
+     -109.81,
+     45.16
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/glac/learn/nature/geology.htm",
+  "https://www.mbmg.mtech.edu/",
+  "https://www.fs.usda.gov/"
+ ]
+}

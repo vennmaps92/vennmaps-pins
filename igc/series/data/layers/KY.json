@@ -1,0 +1,107 @@
+{
+ "ST": "KY",
+ "state": "Kentucky",
+ "cover_sub": "Dig down through 465 million years",
+ "caption_hook": "Kentucky has coal swamps, a record-long cave and the limestone that grows champion horses.",
+ "layers": [
+  {
+   "name": "BREATHITT GROUP",
+   "age": "About 310 million years ago",
+   "short": "310 Myr",
+   "period": "Pennsylvanian",
+   "kind": "coal",
+   "hook": "Swamp forests turned to black rock",
+   "what": "Giant ferns and scale trees grew in steamy swamps and were buried again and again. Squeezed and heated, the plants became the coal seams of eastern Kentucky.",
+   "bonus": "Coal is Kentucky's official state mineral, and the region still mines it today.",
+   "pins": [
+    [
+     "Hazard",
+     -83.19,
+     37.25
+    ],
+    [
+     "Pikeville",
+     -82.52,
+     37.48
+    ]
+   ]
+  },
+  {
+   "name": "CORBIN SANDSTONE",
+   "age": "About 315 million years ago",
+   "short": "315 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Cliffs built from river sand",
+   "what": "Big rivers spread coarse sand and pebbles across the land. Today that tough sandstone forms the cliffs, rock shelters and sandstone arches of the Red River Gorge.",
+   "bonus": "The Red River Gorge area holds more than 100 natural stone arches.",
+   "pins": [
+    [
+     "Natural Bridge",
+     -83.68,
+     37.77
+    ]
+   ]
+  },
+  {
+   "name": "ST. LOUIS LIMESTONE",
+   "age": "About 335 million years ago",
+   "short": "335 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "The rock that makes the longest cave",
+   "what": "A warm shallow sea left thick layers of limestone, which rainwater slowly dissolved from below. Mammoth Cave is mostly carved into this stone and its neighbor, the Ste. Genevieve Limestone.",
+   "bonus": "Mammoth Cave is the longest known cave system, with more than 400 miles mapped.",
+   "pins": [
+    [
+     "Mammoth Cave",
+     -86.1,
+     37.19
+    ]
+   ]
+  },
+  {
+   "name": "LEXINGTON LIMESTONE",
+   "age": "About 450 million years ago",
+   "short": "450 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "Horse country's secret ingredient",
+   "what": "Fossil-rich limestone built up on a warm sea floor full of shells and corals. It weathers into soil rich in calcium and phosphorus, a big reason the Bluegrass is horse country.",
+   "bonus": "Thoroughbred farms around Lexington grow on top of this old sea floor.",
+   "pins": [
+    [
+     "Lexington",
+     -84.5,
+     38.04
+    ],
+    [
+     "Frankfort",
+     -84.87,
+     38.2
+    ]
+   ]
+  },
+  {
+   "name": "HIGH BRIDGE GROUP",
+   "age": "About 465 million years ago",
+   "short": "465 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "Kentucky's oldest visible rock",
+   "what": "Thick beds of gray limestone from an early Paleozoic sea, laid down in warm, shallow water. The Kentucky River sliced through them to make the tall, sheer cliffs called the Palisades.",
+   "bonus": "These are the oldest rocks you can see at the surface anywhere in Kentucky.",
+   "pins": [
+    [
+     "High Bridge",
+     -84.71,
+     37.81
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.uky.edu/KGS/",
+  "https://www.nps.gov/maca/"
+ ]
+}

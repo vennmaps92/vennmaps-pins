@@ -1,0 +1,113 @@
+{
+ "pair": "WY-SD",
+ "a": "WY",
+ "b": "SD",
+ "a_name": "Wyoming",
+ "b_name": "South Dakota",
+ "tagline": "Big sky, big rock. Who stands taller?",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Gannett Peak",
+    13804,
+    "13,804 ft"
+   ],
+   "b": [
+    "Black Elk Peak",
+    7242,
+    "7,242 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "the High Plains",
+    6700,
+    "6,700 ft"
+   ],
+   "b": [
+    "Great Plains",
+    2200,
+    "2,200 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "LARGEST NATURAL LAKE",
+   "kind": "bar",
+   "a": [
+    "Yellowstone Lake",
+    136,
+    "136 sq mi"
+   ],
+   "b": [
+    "Lake Poinsett",
+    12,
+    "about 12 sq mi"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "rivers and reservoirs",
+    720,
+    "about 720 sq mi"
+   ],
+   "b": [
+    "Missouri River dams",
+    1300,
+    "about 1,300 sq mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "CAVES OVER 100 MILES",
+   "kind": "dots",
+   "a": [
+    "none this long",
+    0,
+    "0"
+   ],
+   "b": [
+    "Jewel Cave & Wind Cave",
+    2,
+    "2"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "FAMOUS LANDMARK",
+  "sub": "You're the judge on this one",
+  "a": [
+   "Devils Tower",
+   "America's first national",
+   "monument, 1906"
+  ],
+  "b": [
+   "Mount Rushmore",
+   "faces carved into",
+   "ancient granite"
+  ],
+  "mid": [
+   "One is a column of",
+   "volcanic rock, the other",
+   "a mountain of granite."
+  ],
+  "q": "Which stop is first?",
+  "cta": "Comment “TOWER” or “RUSHMORE”"
+ },
+ "caption_hook": "Wyoming vs South Dakota: peaks, lakes and caves, scored.",
+ "sources": [
+  "https://www.usgs.gov",
+  "https://www.nps.gov",
+  "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html",
+  "https://www.noaa.gov"
+ ]
+}

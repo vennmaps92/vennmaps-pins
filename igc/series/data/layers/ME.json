@@ -1,0 +1,97 @@
+{
+ "ST": "ME",
+ "state": "Maine",
+ "cover_sub": "Dig down through 1.4 billion years",
+ "caption_hook": "Maine has been a drowned coast, a forest of the first land plants and a sea of molten granite.",
+ "layers": [
+  {
+   "name": "PRESUMPSCOT CLAY",
+   "age": "About 13,000 years ago",
+   "short": "13K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "The sea floor that rose",
+   "what": "When the ice sheet melted, the ocean flooded the pressed-down land and laid gray clay along the coast. The land then rebounded, lifting that sea-floor mud high above today's shoreline.",
+   "bonus": "Seashells turn up in these clays far inland, well above present sea level.",
+   "pins": [
+    [
+     "Portland",
+     -70.26,
+     43.66
+    ]
+   ]
+  },
+  {
+   "name": "TROUT VALLEY FORMATION",
+   "age": "About 390 million years ago",
+   "short": "390 Myr",
+   "period": "Devonian",
+   "kind": "sand",
+   "hook": "Home of the state fossil",
+   "what": "River sand and mud buried early land plants near today's Mount Katahdin. Their stems and spores, still found in this rock, show what the first plant-covered landscapes looked like.",
+   "bonus": "Pertica quadrifaria, a leafless plant from this rock, is Maine's official state fossil.",
+   "pins": [
+    [
+     "Baxter State Park",
+     -68.95,
+     46.0
+    ]
+   ]
+  },
+  {
+   "name": "KATAHDIN GRANITE",
+   "age": "About 405 million years ago",
+   "short": "405 Myr",
+   "period": "Devonian",
+   "kind": "granite",
+   "hook": "Maine's tallest peak",
+   "what": "Molten rock cooled into granite beneath older rock. Glaciers later scraped the surrounding land away, leaving Mount Katahdin standing as a bare granite peak 5,269 feet high.",
+   "bonus": "Katahdin is the northern end of the Appalachian Trail, which runs more than 2,000 miles.",
+   "pins": [
+    [
+     "Mount Katahdin",
+     -68.92,
+     45.9
+    ]
+   ]
+  },
+  {
+   "name": "CADILLAC GRANITE",
+   "age": "About 420 million years ago",
+   "short": "420 Myr",
+   "period": "Silurian",
+   "kind": "granite",
+   "hook": "The pink granite of the coast",
+   "what": "Magma cooled slowly under Mount Desert Island into pink granite. The great ice sheet later scoured it, rounding the peaks and carving the bays of Acadia National Park.",
+   "bonus": "At 1,530 feet, Cadillac Mountain is the tallest peak on the U.S. Atlantic coast.",
+   "pins": [
+    [
+     "Cadillac Mountain",
+     -68.23,
+     44.35
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 1.4 billion years ago",
+   "short": "1.4 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Maine's oldest known rocks",
+   "what": "In the western mountains, a block of gneiss and granite called the Chain Lakes Massif holds some of Maine's oldest known rock. It was welded onto North America during ancient plate collisions.",
+   "bonus": "Plate collisions carried this fragment in from far away before the Appalachians rose.",
+   "pins": [
+    [
+     "Chain Lakes area",
+     -70.65,
+     45.33
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.maine.gov/dacf/mgs/explore/fossils/stfossil.htm",
+  "https://www.nps.gov/acad/learn/nature/geology.htm"
+ ]
+}

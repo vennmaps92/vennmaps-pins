@@ -1,0 +1,111 @@
+{
+ "ST": "IA",
+ "state": "Iowa",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "Iowa has dust hills, crystal-filled geodes, an ancient coral sea and a sliver of billion-year-old rock.",
+ "layers": [
+  {
+   "name": "LOESS HILLS",
+   "age": "Up to 25,000 years ago",
+   "short": "25K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "Hills built by dust",
+   "what": "Ice-age winds blew fine silt off glacial floodplains and piled it hundreds of feet deep along the Missouri River. The soft, fine dust still forms steep, ragged bluffs.",
+   "bonus": "Only China has loess deposits this deep, which makes the Loess Hills globally rare.",
+   "pins": [
+    [
+     "Loess Hills",
+     -96.05,
+     41.84
+    ],
+    [
+     "Waubonsie",
+     -95.7,
+     40.65
+    ]
+   ]
+  },
+  {
+   "name": "KEOKUK FORMATION",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "Hollow rocks lined with crystals",
+   "what": "A warm, shallow sea left muddy limestone full of sea lilies. Over time, quartz crystals grew inside hollow pockets in the rock, forming the geodes that collectors crack open.",
+   "bonus": "The geode is Iowa's official state rock, picked by the legislature in 1967.",
+   "pins": [
+    [
+     "Geode State Park",
+     -91.2,
+     40.83
+    ],
+    [
+     "Keokuk",
+     -91.41,
+     40.4
+    ]
+   ]
+  },
+  {
+   "name": "CEDAR VALLEY LIMESTONE",
+   "age": "About 375 million years ago",
+   "short": "375 Myr",
+   "period": "Devonian",
+   "kind": "lime",
+   "hook": "A coral reef under the Corn Belt",
+   "what": "A tropical sea covered Iowa and grew reefs of coral and sea creatures. At Devonian Fossil Gorge near Iowa City, a 2008 flood scoured away soil and exposed the old seafloor.",
+   "bonus": "Fossil Gorge reveals tens of thousands of fossils in one flat limestone surface.",
+   "pins": [
+    [
+     "Fossil Gorge",
+     -91.52,
+     41.72
+    ],
+    [
+     "Rockford Fossils",
+     -92.95,
+     43.05
+    ]
+   ]
+  },
+  {
+   "name": "GALENA DOLOMITE",
+   "age": "About 460 million years ago",
+   "short": "460 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "The lead rock of Dubuque",
+   "what": "Cracks in this seafloor rock filled with lead ore. Miners dug it from the bluffs above the Mississippi, and the town of Dubuque grew around the mines.",
+   "bonus": "Dubuque is named for Julien Dubuque, who mined lead here in the 1780s.",
+   "pins": [
+    [
+     "Dubuque",
+     -90.66,
+     42.5
+    ]
+   ]
+  },
+  {
+   "name": "SIOUX QUARTZITE",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Iowa's oldest exposed rock",
+   "what": "Ancient river sand was buried and squeezed into rock-hard pink quartzite. It pokes out of the prairie only in Iowa's far northwest corner, where it is among the state's oldest visible rock.",
+   "bonus": "Deeper down, a billion-year-old failed rift runs hidden under central Iowa.",
+   "pins": [
+    [
+     "Gitchie Manitou",
+     -96.57,
+     43.5
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.iowadnr.gov/"
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "pair": "MS-AL",
+ "a": "MS",
+ "b": "AL",
+ "a_name": "Mississippi",
+ "b_name": "Alabama",
+ "tagline": "Two Deep South neighbors. Who has more?",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Woodall Mountain",
+    806,
+    "806 ft"
+   ],
+   "b": [
+    "Cheaha Mountain",
+    2413,
+    "2,413 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "delta and piney woods",
+    300,
+    "300 ft"
+   ],
+   "b": [
+    "Appalachian foothills",
+    500,
+    "500 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "TIDAL SHORELINE",
+   "kind": "bar",
+   "a": [
+    "Mississippi Sound",
+    359,
+    "359 mi"
+   ],
+   "b": [
+    "Mobile Bay and Gulf",
+    607,
+    "607 mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "NATIONAL FOREST LAND",
+   "kind": "bar",
+   "a": [
+    "6 national forests",
+    1190408,
+    "1.19M acres"
+   ],
+   "b": [
+    "4 national forests",
+    670326,
+    "0.67M acres"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "rivers and oxbows",
+    1509,
+    "1,509 sq mi"
+   ],
+   "b": [
+    "rivers and reservoirs",
+    1775,
+    "1,775 sq mi"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "STATE FOSSIL",
+  "sub": "Same whale, two names",
+  "a": [
+   "Zeuglodon",
+   "a prehistoric whale",
+   "with a snake-like body"
+  ],
+  "b": [
+   "Basilosaurus",
+   "a prehistoric whale",
+   "with a snake-like body"
+  ],
+  "mid": [
+   "Both states picked the",
+   "same ancient whale, from",
+   "about 40 million years ago."
+  ],
+  "q": "Whose whale is it?",
+  "cta": "Comment “MISS” or “BAMA”"
+ },
+ "caption_hook": "Mississippi vs Alabama: peaks, shores and forests, scored.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_by_elevation",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline",
+  "https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States",
+  "https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States"
+ ]
+}

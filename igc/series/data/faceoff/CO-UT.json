@@ -1,0 +1,9 @@
+{"pair":"CO-UT","a":"CO","b":"UT","a_name":"Colorado","b_name":"Utah","tagline":"Neighbors. Rivals. Who has the better ground?",
+"rounds":[
+{"t":"HIGHEST PEAK","kind":"peak","a":["Mount Elbert",14440,"14,440 ft"],"b":["Kings Peak",13528,"13,528 ft"],"win":"a"},
+{"t":"AVERAGE ELEVATION","kind":"bar","a":["highest of any state",6800,"6,800 ft"],"b":["still way up there",6100,"6,100 ft"],"win":"a"},
+{"t":"OLDEST ROCK","kind":"bar","a":["Front Range gneiss",1.8,"1.8 billion yrs"],"b":["Raft River Mountains",2.5,"2.5+ billion yrs"],"win":"b"},
+{"t":"NATIONAL PARKS","kind":"dots","a":["incl. Rocky Mountain",4,"4"],"b":["the “Mighty 5”",5,"5"],"win":"b"},
+{"t":"PEAKS OVER 14,000 FT","kind":"bar","a":["the famous “14ers”",58,"58"],"b":["tallest is 13,528 ft",0,"0"],"win":"a"}],
+"bonus":{"title":"STATE FOSSIL","sub":"You're the judge on this one","a":["Stegosaurus","plates, spikes, brain","the size of a walnut"],"b":["Allosaurus","the top predator of","the Jurassic West"],"mid":["Both lived in the same","Morrison Formation rocks,","150 million years ago."],"q":"Who wins the fight?","cta":"Comment “STEGO” or “ALLO”"},
+"caption_hook":"Colorado vs Utah: peaks, rocks and parks, scored.","sources":[]}

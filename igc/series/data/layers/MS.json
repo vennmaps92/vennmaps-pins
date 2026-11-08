@@ -1,0 +1,107 @@
+{
+ "ST": "MS",
+ "state": "Mississippi",
+ "cover_sub": "Dig down through 350 million years",
+ "caption_hook": "Mississippi's ground holds Ice Age dust, a giant whale and swamps older than the dinosaurs.",
+ "layers": [
+  {
+   "name": "PEORIA LOESS",
+   "age": "About 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Pleistocene",
+   "kind": "glacial",
+   "hook": "Glacier dust piled into bluffs",
+   "what": "Ice Age glaciers ground rock into flour, and winds blew it off the Mississippi floodplain onto the east bank. The silt stacked up into tall, steep-sided bluffs that still line the river.",
+   "bonus": "During the 1863 siege of Vicksburg, residents dug cave shelters into the soft bluffs.",
+   "pins": [
+    [
+     "Vicksburg",
+     -90.88,
+     32.35
+    ],
+    [
+     "Natchez",
+     -91.4,
+     31.56
+    ]
+   ]
+  },
+  {
+   "name": "YAZOO CLAY",
+   "age": "About 35 million years ago",
+   "short": "35 Myr",
+   "period": "Eocene",
+   "kind": "mud",
+   "hook": "A giant whale swam over Jackson",
+   "what": "A warm, shallow sea once covered central Mississippi, and its mud settled into thick clay. It holds the bones of Basilosaurus, a snake-shaped whale up to 60 feet long.",
+   "bonus": "Mississippi's state fossil is a prehistoric whale, and this clay swells and cracks Jackson's roads.",
+   "pins": [
+    [
+     "Jackson",
+     -90.18,
+     32.3
+    ]
+   ]
+  },
+  {
+   "name": "SELMA CHALK",
+   "age": "About 80 million years ago",
+   "short": "80 Myr",
+   "period": "Cretaceous",
+   "kind": "lime",
+   "hook": "A pale, chalky sea floor",
+   "what": "Warm, clear seas covered eastern Mississippi, and the tiny shells of plankton drifted down to form soft white chalk. Sharks, giant sea turtles and mosasaurs left their bones in it.",
+   "bonus": "Weathered, it makes the rich black soil of the Black Prairie around Columbus.",
+   "pins": [
+    [
+     "Columbus",
+     -88.43,
+     33.5
+    ],
+    [
+     "Starkville",
+     -88.82,
+     33.45
+    ]
+   ]
+  },
+  {
+   "name": "POTTSVILLE FORMATION",
+   "age": "About 315 million years ago",
+   "short": "315 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Swamp-delta sand in the hills",
+   "what": "In the far northeast corner, rivers once spread sand across a flat, swampy coast. It hardened into sandstone that now forms rocky hills and creek gorges, a taste of the Appalachians in Mississippi.",
+   "bonus": "Tishomingo State Park's boulder-strewn trails and swinging bridge sit on this sandstone.",
+   "pins": [
+    [
+     "Tishomingo SP",
+     -88.19,
+     34.61
+    ]
+   ]
+  },
+  {
+   "name": "FORT PAYNE CHERT",
+   "age": "About 350 million years ago",
+   "short": "350 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "Flint-hard rock from a warm sea",
+   "what": "Long before the Pottsville sands, a warm sea covered the northeast. The glassy skeletons of tiny sea creatures hardened into chert, a flint-like stone that breaks into sharp edges.",
+   "bonus": "Native Americans chipped chert like this into tools and arrow points for thousands of years.",
+   "pins": [
+    [
+     "Iuka",
+     -88.19,
+     34.81
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.mdeq.ms.gov/geology/",
+  "https://pubs.usgs.gov/publication/70187227"
+ ]
+}

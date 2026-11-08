@@ -1,0 +1,126 @@
+{
+ "ST": "CO",
+ "state": "Colorado",
+ "cover_sub": "Dig down through 1.8 billion years",
+ "caption_hook": "Colorado has been a seafloor, a Sahara-style desert and a mountain range that vanished.",
+ "layers": [
+  {
+   "name": "PIERRE SHALE",
+   "age": "About 80 million years ago",
+   "short": "80 Myr",
+   "period": "Cretaceous",
+   "kind": "shale",
+   "hook": "Colorado was the bottom of the sea",
+   "what": "A shallow seaway once split North America in two. Its mud piled up thousands of feet thick and hardened into this shale, packed with ammonites and sea-reptile bones.",
+   "bonus": "It's also the swelling clay behind cracked basements along the Front Range.",
+   "pins": [
+    [
+     "Denver",
+     -104.99,
+     39.74
+    ]
+   ]
+  },
+  {
+   "name": "DAKOTA SANDSTONE",
+   "age": "About 100 million years ago",
+   "short": "100 Myr",
+   "period": "Cretaceous",
+   "kind": "sand",
+   "hook": "The beaches of that sea",
+   "what": "As the seaway crept west, its shoreline left a sheet of tough beach sand. Tilted up by the Rockies, it now stands as the Dakota Hogback ridge west of Denver.",
+   "bonus": "Dinosaur footprints are still pressed into it at Dinosaur Ridge.",
+   "pins": [
+    [
+     "Dinosaur Ridge",
+     -105.19,
+     39.68
+    ]
+   ]
+  },
+  {
+   "name": "MORRISON FORMATION",
+   "age": "About 150 million years ago",
+   "short": "150 Myr",
+   "period": "Jurassic",
+   "kind": "mud",
+   "hook": "Floodplains full of giants",
+   "what": "Rivers, swamps and mudflats where the biggest dinosaurs ever lived. In 1877 the first Stegosaurus bones were dug out of this layer near the town of Morrison.",
+   "bonus": "Stegosaurus is now Colorado's official state fossil.",
+   "pins": [
+    [
+     "Morrison",
+     -105.19,
+     39.65
+    ],
+    [
+     "Garden Park",
+     -105.22,
+     38.53
+    ]
+   ]
+  },
+  {
+   "name": "LYONS SANDSTONE",
+   "age": "About 280 million years ago",
+   "short": "280 Myr",
+   "period": "Permian",
+   "kind": "sand",
+   "hook": "A sea of desert dunes",
+   "what": "Before the dinosaurs, Colorado was a Sahara. Wind-blown dunes turned to stone, and you can still see their sweeping slanted layers in the rock.",
+   "bonus": "Quarried near Lyons, it gives CU Boulder its pink-red buildings.",
+   "pins": [
+    [
+     "Lyons",
+     -105.27,
+     40.22
+    ]
+   ]
+  },
+  {
+   "name": "FOUNTAIN FORMATION",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "gravel",
+   "hook": "Rubble from a lost mountain range",
+   "what": "Gravel and sand shed off the Ancestral Rockies, mountains that rose and wore away long before today's Rockies. Tipped on end, it makes the state's most famous red rocks.",
+   "bonus": "Red Rocks Amphitheatre, the Flatirons and Garden of the Gods are all this one layer.",
+   "pins": [
+    [
+     "Flatirons",
+     -105.29,
+     39.99
+    ],
+    [
+     "Red Rocks",
+     -105.21,
+     39.665
+    ],
+    [
+     "Garden of the Gods",
+     -104.88,
+     38.88
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "1.1 to 1.8 billion years ago",
+   "short": "1.8 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "The granite under everything",
+   "what": "Below all the layers sits ancient granite and gneiss. Pikes Peak itself is about 1.1-billion-year-old granite, pushed up to 14,115 ft.",
+   "bonus": "At Manitou Springs, 500-million-year-old sandstone sits right on it: the Great Unconformity, with over half a billion years missing.",
+   "pins": [
+    [
+     "Pikes Peak",
+     -105.04,
+     38.84
+    ]
+   ]
+  }
+ ],
+ "sources": []
+}

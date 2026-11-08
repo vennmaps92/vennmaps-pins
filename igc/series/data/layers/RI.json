@@ -1,0 +1,97 @@
+{
+ "ST": "RI",
+ "state": "Rhode Island",
+ "cover_sub": "Dig down through 600 million years",
+ "caption_hook": "Rhode Island is tiny, but it holds ice-age leftovers, an old coal basin and a drifted-in continent.",
+ "layers": [
+  {
+   "name": "BLOCK ISLAND MORAINE",
+   "age": "About 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "An island of ice-age rubble",
+   "what": "The ice sheet stopped at the coast and dumped its load of clay, sand and boulders. Waves have since trimmed that pile into the steep cliffs of Block Island.",
+   "bonus": "Mohegan Bluffs rise about 150 feet above the beach and keep eroding.",
+   "pins": [
+    [
+     "Mohegan Bluffs",
+     -71.55,
+     41.15
+    ]
+   ]
+  },
+  {
+   "name": "WESTERLY GRANITE",
+   "age": "About 275 million years ago",
+   "short": "275 Myr",
+   "period": "Permian",
+   "kind": "granite",
+   "hook": "The granite geologists test",
+   "what": "Magma cooled slowly underground into a fine, evenly grained granite. Quarried near Westerly since the 1800s, it was carved into countless monuments and gravestones across the country.",
+   "bonus": "Its steady grain makes it a standard rock for lab experiments on how rocks break.",
+   "pins": [
+    [
+     "Westerly",
+     -71.83,
+     41.38
+    ]
+   ]
+  },
+  {
+   "name": "RHODE ISLAND FORMATION",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "coal",
+   "hook": "A swampy basin full of plants",
+   "what": "Rivers and swamps filled a sinking basin around today's Narragansett Bay with sand, mud and rotting plants. Crushed and cooked later, those plants became coal and left fossil ferns in the rock.",
+   "bonus": "Its coal got so squeezed and heated that it partly turned to graphite, so it was hard to burn.",
+   "pins": [
+    [
+     "Portsmouth",
+     -71.25,
+     41.6
+    ]
+   ]
+  },
+  {
+   "name": "PURGATORY CONGLOMERATE",
+   "age": "About 310 million years ago",
+   "short": "310 Myr",
+   "period": "Pennsylvanian",
+   "kind": "gravel",
+   "hook": "Pebbles cemented by floods",
+   "what": "Fast, flooding rivers dumped coarse pebbles and cobbles that hardened into conglomerate. At Purgatory Chasm in Middletown, waves and frost have split the rock into a narrow gorge by the sea.",
+   "bonus": "The pebbles come in many rock types, a record of how wild those old floods were.",
+   "pins": [
+    [
+     "Purgatory Chasm",
+     -71.28,
+     41.49
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 600 million years ago",
+   "short": "600 Myr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "A crust that drifted in",
+   "what": "Much of the state sits on a strip of crust called Avalonia, which began near Africa and later fused onto North America. Its ancient granite and gneiss lie beneath the younger layers.",
+   "bonus": "The same drifted-in crust shows up in coastal Massachusetts, New Hampshire and Maine.",
+   "pins": [
+    [
+     "Hope Valley",
+     -71.72,
+     41.5
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Geology_of_Rhode_Island",
+  "https://ngmdb.usgs.gov/Geolex/"
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "ST": "PA",
+ "state": "Pennsylvania",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "Pennsylvania has frozen magma, coal that still burns underground and one of the first leg-walkers.",
+ "layers": [
+  {
+   "name": "GETTYSBURG DIABASE",
+   "age": "About 200 million years ago",
+   "short": "200 Myr",
+   "period": "Jurassic",
+   "kind": "volcanic",
+   "hook": "Molten rock that froze in place",
+   "what": "As Pangaea cracked apart, hot magma pushed into the red rock beneath southern Pennsylvania and cooled into hard, dark diabase. It weathers into huge, rounded boulders.",
+   "bonus": "Soldiers took cover behind these boulders at Devil's Den in the 1863 battle.",
+   "pins": [
+    [
+     "Devil's Den",
+     -77.24,
+     39.79
+    ]
+   ]
+  },
+  {
+   "name": "LLEWELLYN FORMATION",
+   "age": "About 310 million years ago",
+   "short": "310 Myr",
+   "period": "Pennsylvanian",
+   "kind": "coal",
+   "hook": "Swamps that became hard coal",
+   "what": "Tropical swamp forests were buried, then squeezed until they turned into anthracite, the hardest and cleanest-burning coal. The Pennsylvanian Period is named for this state.",
+   "bonus": "The Centralia mine fire has smoldered underground since 1962.",
+   "pins": [
+    [
+     "Scranton",
+     -75.66,
+     41.41
+    ],
+    [
+     "Centralia",
+     -76.34,
+     40.8
+    ]
+   ]
+  },
+  {
+   "name": "CATSKILL FORMATION",
+   "age": "About 365 million years ago",
+   "short": "365 Myr",
+   "period": "Devonian",
+   "kind": "mud",
+   "hook": "Red mud and the first leg-walkers",
+   "what": "Muddy red floodplains and slow rivers once ran here. In that rock, scientists found Hynerpeton, one of the earliest four-limbed animals to crawl from water.",
+   "bonus": "Its shoulder bones came from a road cut near Hyner, found in 1993.",
+   "pins": [
+    [
+     "Hyner",
+     -77.62,
+     41.33
+    ]
+   ]
+  },
+  {
+   "name": "MARCELLUS SHALE",
+   "age": "About 390 million years ago",
+   "short": "390 Myr",
+   "period": "Devonian",
+   "kind": "shale",
+   "hook": "Black mud rich in natural gas",
+   "what": "A deep, oxygen-poor sea once trapped dead plankton in black mud on the seafloor. Over time it turned into a shale that holds enormous amounts of natural gas.",
+   "bonus": "It helped make Pennsylvania the second-biggest natural gas state, after Texas.",
+   "pins": [
+    [
+     "Montrose",
+     -75.88,
+     41.83
+    ]
+   ]
+  },
+  {
+   "name": "CHICKIES QUARTZITE",
+   "age": "About 530 million years ago",
+   "short": "530 Myr",
+   "period": "Cambrian",
+   "kind": "sand",
+   "hook": "Beach sand turned to glass-hard rock",
+   "what": "Sand from an ancient beach was cemented into quartzite, one of the toughest rocks around. Today it forms steep cliffs high above the Susquehanna River.",
+   "bonus": "Chickies Rock Park gives wide views of the river from the top.",
+   "pins": [
+    [
+     "Chickies Rock",
+     -76.52,
+     40.05
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Gneiss from a lost mountain range",
+   "what": "Old gneiss and granite lie under Pennsylvania's younger layers and surface in the Reading Prong near Reading. They are the roots of a mountain range from over a billion years ago.",
+   "bonus": "Reading Prong rock carries natural uranium, a known source of radon in nearby homes.",
+   "pins": [
+    [
+     "Mount Penn",
+     -75.9,
+     40.33
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.dcnr.pa.gov/Geology/",
+  "https://en.wikipedia.org/wiki/Hynerpeton"
+ ]
+}

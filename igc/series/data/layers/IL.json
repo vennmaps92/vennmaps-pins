@@ -1,0 +1,101 @@
+{
+ "ST": "IL",
+ "state": "Illinois",
+ "cover_sub": "Dig down through 470 million years",
+ "caption_hook": "Illinois was built from glacier mud, swamp monsters, tropical seas and a sandstone canyon.",
+ "layers": [
+  {
+   "name": "GLACIAL TILL",
+   "age": "Up to 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "The flat land that ice made",
+   "what": "Glaciers ground up rock from the north and spread it across Illinois like a blanket. The thick, fertile soil on top is a big reason the state is so good at farming.",
+   "bonus": "Downtown Chicago sits on the old bed of Glacial Lake Chicago.",
+   "pins": [
+    [
+     "Chicago",
+     -87.63,
+     41.88
+    ],
+    [
+     "Springfield",
+     -89.65,
+     39.8
+    ]
+   ]
+  },
+  {
+   "name": "FRANCIS CREEK SHALE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "shale",
+   "hook": "Where the Tully Monster lived",
+   "what": "A swampy river delta buried creatures fast in mud, and iron-rich nodules grew around them. Crack one open at Mazon Creek and you may find a fern, a shrimp or a monster.",
+   "bonus": "The Tully Monster, found nowhere else, is Illinois' official state fossil.",
+   "pins": [
+    [
+     "Mazon Creek",
+     -88.27,
+     41.24
+    ]
+   ]
+  },
+  {
+   "name": "POUNDS SANDSTONE",
+   "age": "About 315 million years ago",
+   "short": "315 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Giant stone towers in the south",
+   "what": "Rivers once carried sand across a swampy coast, and it hardened into thick sandstone. Wind and rain later sculpted it into odd bluffs and arches in the Shawnee Hills.",
+   "bonus": "Garden of the Gods in Shawnee National Forest is carved from this layer.",
+   "pins": [
+    [
+     "Garden of the Gods",
+     -88.41,
+     37.61
+    ]
+   ]
+  },
+  {
+   "name": "GALENA DOLOMITE",
+   "age": "About 450 million years ago",
+   "short": "450 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "The rock behind the lead boom",
+   "what": "A shallow sea laid down thick limestone later turned to dolomite. Lead ore in its cracks drew miners to far northwest Illinois in the 1820s, and the town grew from the rush.",
+   "bonus": "The town of Galena took its name from the lead ore, galena, and shipped much of the nation's lead.",
+   "pins": [
+    [
+     "Galena",
+     -90.43,
+     42.42
+    ]
+   ]
+  },
+  {
+   "name": "ST. PETER SANDSTONE",
+   "age": "About 470 million years ago",
+   "short": "470 Myr",
+   "period": "Ordovician",
+   "kind": "sand",
+   "hook": "Sand so pure it builds canyons",
+   "what": "A sea beach left nearly pure quartz sand that hardened into soft sandstone. Glacial floods carved it into canyons and bluffs along the Illinois River.",
+   "bonus": "Starved Rock's tall sandstone bluffs rise from the Illinois River.",
+   "pins": [
+    [
+     "Starved Rock",
+     -88.99,
+     41.32
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://isgs.illinois.edu/"
+ ]
+}

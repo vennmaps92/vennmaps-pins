@@ -1,0 +1,113 @@
+{
+ "pair": "AZ-NM",
+ "a": "AZ",
+ "b": "NM",
+ "a_name": "Arizona",
+ "b_name": "New Mexico",
+ "tagline": "Desert neighbors. Canyons and caverns.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Humphreys Peak",
+    12633,
+    "12,633 ft"
+   ],
+   "b": [
+    "Wheeler Peak",
+    13161,
+    "13,161 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Colorado Plateau and desert",
+    4100,
+    "4,100 ft"
+   ],
+   "b": [
+    "Land of Enchantment",
+    5700,
+    "5,700 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "dots",
+   "a": [
+    "Grand Canyon & more",
+    3,
+    "3"
+   ],
+   "b": [
+    "Carlsbad & White Sands",
+    2,
+    "2"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "CANYON DEPTH",
+   "kind": "bar",
+   "a": [
+    "Grand Canyon",
+    6000,
+    "about 6,000 ft"
+   ],
+   "b": [
+    "Rio Grande Gorge",
+    800,
+    "about 800 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "WATER AREA",
+   "kind": "bar",
+   "a": [
+    "rivers and reservoirs",
+    396,
+    "396 sq mi"
+   ],
+   "b": [
+    "rivers and reservoirs",
+    292,
+    "292 sq mi"
+   ],
+   "win": "a"
+  }
+ ],
+ "bonus": {
+  "title": "NATURAL WONDER",
+  "sub": "You're the judge on this one",
+  "a": [
+   "Grand Canyon",
+   "277 river miles long,",
+   "carved by a river"
+  ],
+  "b": [
+   "White Sands",
+   "the world's largest",
+   "gypsum dune field"
+  ],
+  "mid": [
+   "A river carved one.",
+   "Wind piled up the other.",
+   ""
+  ],
+  "q": "Which is more epic?",
+  "cta": "Comment “CANYON” or “DUNES”"
+ },
+ "caption_hook": "Arizona vs New Mexico: peaks, parks and canyons, scored.",
+ "sources": [
+  "https://www.usgs.gov",
+  "https://www.nps.gov",
+  "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html",
+  "https://www.noaa.gov"
+ ]
+}

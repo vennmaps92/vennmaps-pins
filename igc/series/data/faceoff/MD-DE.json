@@ -1,0 +1,114 @@
+{
+ "pair": "MD-DE",
+ "a": "MD",
+ "b": "DE",
+ "a_name": "Maryland",
+ "b_name": "Delaware",
+ "tagline": "Two small states, one big rivalry.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Backbone Mountain",
+    3360,
+    "3,360 ft"
+   ],
+   "b": [
+    "Ebright Azimuth",
+    448,
+    "448 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "mountains to the bay",
+    350,
+    "350 ft"
+   ],
+   "b": [
+    "lowest of any state",
+    60,
+    "60 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TIDAL SHORELINE",
+   "kind": "bar",
+   "a": [
+    "Chesapeake Bay shores",
+    3190,
+    "3,190 mi"
+   ],
+   "b": [
+    "Delaware Bay and sea",
+    381,
+    "381 mi"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "bays and rivers",
+    2699,
+    "2,699 sq mi"
+   ],
+   "b": [
+    "bays and creeks",
+    540,
+    "540 sq mi"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "PERCENT FORESTED",
+   "kind": "bar",
+   "a": [
+    "39% tree cover",
+    39.36,
+    "39%"
+   ],
+   "b": [
+    "27% tree cover",
+    27.26,
+    "27%"
+   ],
+   "win": "a"
+  }
+ ],
+ "bonus": {
+  "title": "BAY BATTLE",
+  "sub": "Two big bays, two crabs",
+  "a": [
+   "Chesapeake Bay",
+   "the biggest estuary",
+   "in the whole U.S."
+  ],
+  "b": [
+   "Delaware Bay",
+   "the horseshoe crab",
+   "capital of the world"
+  ],
+  "mid": [
+   "Blue crabs or",
+   "horseshoe crabs?",
+   "Pick your bay."
+  ],
+  "q": "Which bay is better?",
+  "cta": "Comment “CHES” or “DEL”"
+ },
+ "caption_hook": "Maryland vs Delaware: peaks, bays and shores, scored.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_by_elevation",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline",
+  "https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States",
+  "https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States"
+ ]
+}

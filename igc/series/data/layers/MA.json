@@ -1,0 +1,97 @@
+{
+ "ST": "MA",
+ "state": "Massachusetts",
+ "cover_sub": "Dig down through 600 million years",
+ "caption_hook": "Massachusetts has been an ice-age sand pile, a lava field and a coast that drifted in from Africa.",
+ "layers": [
+  {
+   "name": "SANDWICH MORAINE",
+   "age": "About 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "Cape Cod is a glacier's leftover",
+   "what": "A great lobe of ice stopped here and piled up sand, gravel and boulders in a long ridge. When it melted, rising seas drowned the lowlands around the ridge, shaping Cape Cod.",
+   "bonus": "The Cape Cod Canal cuts through this glacial ridge near Sandwich.",
+   "pins": [
+    [
+     "Sandwich",
+     -70.5,
+     41.76
+    ]
+   ]
+  },
+  {
+   "name": "HOLYOKE BASALT",
+   "age": "About 200 million years ago",
+   "short": "200 Myr",
+   "period": "Jurassic",
+   "kind": "volcanic",
+   "hook": "Lava that split a supercontinent",
+   "what": "As Pangaea tore apart, lava flooded the Connecticut Valley and cooled into dark basalt. Tilted and eroded, the hard flows now make ridges such as Mount Tom and the Mount Holyoke Range.",
+   "bonus": "Amherst professor Edward Hitchcock studied the valley's dinosaur tracks and thought giant birds made them.",
+   "pins": [
+    [
+     "Mount Holyoke",
+     -72.58,
+     42.25
+    ]
+   ]
+  },
+  {
+   "name": "QUINCY GRANITE",
+   "age": "About 440 million years ago",
+   "short": "440 Myr",
+   "period": "Silurian",
+   "kind": "granite",
+   "hook": "The stone of Bunker Hill",
+   "what": "Hot magma cooled slowly into a blue-gray granite with a speckled grain. Quincy granite was cut from quarries south of Boston and became a major building stone of the 1800s.",
+   "bonus": "The Granite Railway, built in 1826 near Quincy, hauled stone for the Bunker Hill Monument.",
+   "pins": [
+    [
+     "Quincy Quarries",
+     -71.05,
+     42.26
+    ]
+   ]
+  },
+  {
+   "name": "STOCKBRIDGE MARBLE",
+   "age": "About 480 million years ago",
+   "short": "480 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "A tropical sea turned to marble",
+   "what": "Lime mud and shells piled up in a warm sea, then were buried and baked into white marble. Ancient mountain building later pushed it up into the Berkshire valleys.",
+   "bonus": "Marble from Lee went into the extension of the U.S. Capitol.",
+   "pins": [
+    [
+     "Lee",
+     -73.25,
+     42.3
+    ]
+   ]
+  },
+  {
+   "name": "DEDHAM GRANODIORITE",
+   "age": "About 600 million years ago",
+   "short": "600 Myr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "A rock from the edge of Africa",
+   "what": "East of Boston, the bedrock belongs to Avalonia, a strip of crust that began near Africa and later fused onto North America. Plymouth Rock is a boulder of this coarse, gray granodiorite.",
+   "bonus": "Plymouth Rock split in two in 1774 while being moved, and now sits under a portico on the shore.",
+   "pins": [
+    [
+     "Plymouth Rock",
+     -70.66,
+     41.96
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Dedham_Granite",
+  "https://www.scientificamerican.com/blog/rosetta-stones/the-real-story-of-plymouth-rock/"
+ ]
+}

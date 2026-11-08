@@ -1,0 +1,108 @@
+{
+ "ST": "FL",
+ "state": "Florida",
+ "cover_sub": "Dig down through 550 million years",
+ "caption_hook": "Florida is a limestone slab with a base from Africa, fossil reefs, shell-rock forts and bone beds.",
+ "layers": [
+  {
+   "name": "ANASTASIA FORMATION",
+   "age": "Over 100,000 years ago",
+   "short": "100K yrs",
+   "period": "Pleistocene",
+   "kind": "lime",
+   "hook": "Seashells squeezed into a fort",
+   "what": "Tiny coquina clams piled up on ancient beaches and cemented into soft, speckled rock. Workers cut blocks of it on Anastasia Island to build St. Augustine's fort.",
+   "bonus": "Castillo de San Marcos shrugged off cannon fire because the soft shell rock absorbed it.",
+   "pins": [
+    [
+     "St. Augustine",
+     -81.31,
+     29.9
+    ]
+   ]
+  },
+  {
+   "name": "KEY LARGO LIMESTONE",
+   "age": "About 125,000 years ago",
+   "short": "125K yrs",
+   "period": "Pleistocene",
+   "kind": "lime",
+   "hook": "A fossil reef you can walk on",
+   "what": "When seas were higher between Ice Age glaciers, a coral reef grew along Florida's southern edge. That dead reef now forms the upper Florida Keys, with coral heads still visible.",
+   "bonus": "Windley Key's old railway quarry is now a state park with sawn walls full of fossil coral.",
+   "pins": [
+    [
+     "Windley Key",
+     -80.65,
+     24.96
+    ]
+   ]
+  },
+  {
+   "name": "BONE VALLEY FORMATION",
+   "age": "About 5 million years ago",
+   "short": "5 Myr",
+   "period": "Pliocene",
+   "kind": "mud",
+   "hook": "Where Florida's bones pile up",
+   "what": "Phosphate-rich sand and clay near Tampa Bay are packed with the remains of sea creatures and land animals. Miners digging for fertilizer rock keep turning up shark teeth and whale bones.",
+   "bonus": "Florida mines most of America's phosphate, a key ingredient in crop fertilizer.",
+   "pins": [
+    [
+     "Mulberry",
+     -81.97,
+     27.9
+    ],
+    [
+     "Arcadia",
+     -81.86,
+     27.22
+    ]
+   ]
+  },
+  {
+   "name": "OCALA LIMESTONE",
+   "age": "About 35 million years ago",
+   "short": "35 Myr",
+   "period": "Eocene",
+   "kind": "lime",
+   "hook": "The rock that holds Florida up",
+   "what": "Warm, shallow seas covered Florida, and countless tiny shelled creatures settled on the bottom. They hardened into limestone that now lies beneath much of the state.",
+   "bonus": "Water slowly dissolves it, carving Florida's famous springs, caves and sinkholes.",
+   "pins": [
+    [
+     "Silver Springs",
+     -82.05,
+     29.22
+    ],
+    [
+     "Ichetucknee",
+     -82.76,
+     29.98
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 550 million years ago",
+   "short": "550 Myr",
+   "period": "Precambrian",
+   "kind": "volcanic",
+   "hook": "Florida began as part of Africa",
+   "what": "Thousands of feet below north Florida lie volcanic and granite rocks that match those of West Africa. Florida's foundation was left behind when the Atlantic Ocean opened.",
+   "bonus": "No one can see it: it is known only from deep drill holes and cores.",
+   "pins": [
+    [
+     "Lake City wells",
+     -82.64,
+     30.19
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Anastasia_Formation",
+  "https://en.wikipedia.org/wiki/Suwannee_terrane",
+  "https://www.usgs.gov/publications/precambrian-zircons-florida-basement-gondwanan-connection"
+ ]
+}

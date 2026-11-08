@@ -1,0 +1,113 @@
+{
+ "pair": "WA-OR",
+ "a": "WA",
+ "b": "OR",
+ "a_name": "Washington",
+ "b_name": "Oregon",
+ "tagline": "Pacific neighbors. Two volcano chains.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Mount Rainier",
+    14411,
+    "14,411 ft"
+   ],
+   "b": [
+    "Mount Hood",
+    11249,
+    "11,249 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "dots",
+   "a": [
+    "Olympic, Rainier & more",
+    3,
+    "3"
+   ],
+   "b": [
+    "Crater Lake",
+    1,
+    "1"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "DEEPEST LAKE",
+   "kind": "bar",
+   "a": [
+    "Lake Chelan",
+    1486,
+    "1,486 ft"
+   ],
+   "b": [
+    "Crater Lake",
+    1943,
+    "1,943 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "COASTLINE",
+   "kind": "bar",
+   "a": [
+    "Pacific coast",
+    157,
+    "157 miles"
+   ],
+   "b": [
+    "Pacific coast",
+    296,
+    "296 miles"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Puget Sound lowlands",
+    1700,
+    "1,700 ft"
+   ],
+   "b": [
+    "High desert east side",
+    3300,
+    "3,300 ft"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "SIGNATURE VOLCANO",
+  "sub": "You're the judge on this one",
+  "a": [
+   "Mount St. Helens",
+   "blew its top in 1980",
+   "and lost 1,300 feet"
+  ],
+  "b": [
+   "Crater Lake",
+   "Mount Mazama collapsed",
+   "7,700 years ago"
+  ],
+  "mid": [
+   "Both belong to the Cascade",
+   "volcano chain, part of the",
+   "Pacific Ring of Fire."
+  ],
+  "q": "Which blast is wilder?",
+  "cta": "Comment “HELENS” or “CRATER”"
+ },
+ "caption_hook": "Washington vs Oregon: peaks, parks and volcanoes, scored.",
+ "sources": [
+  "https://www.usgs.gov",
+  "https://www.nps.gov",
+  "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html",
+  "https://www.noaa.gov"
+ ]
+}

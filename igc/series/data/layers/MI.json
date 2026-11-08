@@ -1,0 +1,128 @@
+{
+ "ST": "MI",
+ "state": "Michigan",
+ "cover_sub": "Dig down through 3.6 billion years",
+ "caption_hook": "Michigan has Great Lakes carved by ice, buried salt, fossil coral and some of the oldest rock in America.",
+ "layers": [
+  {
+   "name": "GLACIAL DRIFT",
+   "age": "10,000 to 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "Ice scraped out the Great Lakes",
+   "what": "Mile-thick ice sheets bulldozed the land, then melted and left sand, gravel and clay across the state. The meltwater filled basins the ice had gouged deep.",
+   "bonus": "Michigan touches four of the five Great Lakes, all gouged out by ice.",
+   "pins": [
+    [
+     "Sleeping Bear",
+     -86.06,
+     44.88
+    ],
+    [
+     "Silver Lake",
+     -86.5,
+     43.67
+    ]
+   ]
+  },
+  {
+   "name": "TRAVERSE GROUP",
+   "age": "About 380 million years ago",
+   "short": "380 Myr",
+   "period": "Devonian",
+   "kind": "lime",
+   "hook": "Home of the Petoskey stone",
+   "what": "A warm, shallow sea teemed with honeycomb corals. Their fossils are packed into this limestone, and glaciers later scattered the pieces along Lake Michigan beaches.",
+   "bonus": "The fossil coral Petoskey stone is Michigan's official state stone.",
+   "pins": [
+    [
+     "Petoskey",
+     -84.95,
+     45.37
+    ],
+    [
+     "Alpena",
+     -83.43,
+     45.06
+    ]
+   ]
+  },
+  {
+   "name": "SALINA SALT",
+   "age": "About 420 million years ago",
+   "short": "420 Myr",
+   "period": "Silurian",
+   "kind": "salt",
+   "hook": "A dried-up sea under Detroit",
+   "what": "A sea cut off from the ocean slowly evaporated, leaving thick beds of rock salt. They lie buried deep under the middle of Michigan and the Detroit region.",
+   "bonus": "Miles of tunnels run beneath Detroit, over 1,000 feet down, mined for road salt.",
+   "pins": [
+    [
+     "Detroit",
+     -83.1,
+     42.33
+    ]
+   ]
+  },
+  {
+   "name": "MUNISING SANDSTONE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "sand",
+   "hook": "The painted cliffs of Superior",
+   "what": "Beach sand from an ancient shoreline hardened into sandstone. Along Lake Superior, waves have carved it into arches, caves and cliffs up to 200 feet tall.",
+   "bonus": "Seeping groundwater stains the cliffs red, orange, green and black with minerals.",
+   "pins": [
+    [
+     "Pictured Rocks",
+     -86.55,
+     46.55
+    ]
+   ]
+  },
+  {
+   "name": "PORTAGE LAKE LAVA",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "volcanic",
+   "hook": "Lava pockets full of pure copper",
+   "what": "When the continent tried to split, lava flooded the Keweenaw Peninsula. Hot fluids later filled gas bubbles and cracks in it with nearly pure copper metal.",
+   "bonus": "People mined this native copper for thousands of years before Europeans arrived.",
+   "pins": [
+    [
+     "Quincy Mine",
+     -88.58,
+     47.14
+    ],
+    [
+     "Copper Harbor",
+     -87.89,
+     47.47
+    ]
+   ]
+  },
+  {
+   "name": "WATERSMEET GNEISS",
+   "age": "At least 3.6 billion years ago",
+   "short": "3.6 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The oldest known rock in the U.S.",
+   "what": "Deep-crust rock squeezed and baked into striped gneiss. Studies of the Watersmeet area in the Upper Peninsula date it to at least 3.6 billion years old.",
+   "bonus": "That is nearly four-fifths of the way back to when Earth formed.",
+   "pins": [
+    [
+     "Watersmeet",
+     -89.18,
+     46.27
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.sciencenews.org/article/united-states-oldest-known-rock"
+ ]
+}

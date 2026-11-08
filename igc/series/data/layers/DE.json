@@ -1,0 +1,97 @@
+{
+ "ST": "DE",
+ "state": "Delaware",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "Delaware may be the lowest state, but its rocks run from ice-age sand to a billion-year-old gneiss.",
+ "layers": [
+  {
+   "name": "COLUMBIA FORMATION",
+   "age": "Over the last 2 million years",
+   "short": "2 Myr",
+   "period": "Quaternary",
+   "kind": "gravel",
+   "hook": "The flat sand blanket",
+   "what": "During the Ice Age, rivers and rising and falling seas spread sand and gravel across the coastal plain. That thin blanket is the ground under most of Delaware.",
+   "bonus": "Delaware's high point, Ebright Azimuth, is just 448 ft: the lowest high point of any state.",
+   "pins": [
+    [
+     "Georgetown",
+     -75.39,
+     38.69
+    ]
+   ]
+  },
+  {
+   "name": "CALVERT FORMATION",
+   "age": "About 17 million years ago",
+   "short": "17 Myr",
+   "period": "Miocene",
+   "kind": "sand",
+   "hook": "A warm sea, then whales",
+   "what": "A shallow Miocene sea once covered central Delaware. Its sands hold fossil whales, sharks and shellfish, plus a few land animals washed in from nearby shores.",
+   "bonus": "At Pollack Farm in Kent County, a dig 17 million years deep found Delaware's first land-mammal fossils.",
+   "pins": [
+    [
+     "Dover",
+     -75.52,
+     39.16
+    ]
+   ]
+  },
+  {
+   "name": "POTOMAC FORMATION",
+   "age": "About 110 million years ago",
+   "short": "110 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "The oldest coastal layer",
+   "what": "Rivers from the rising Appalachians spread clay and sand across the land in the dinosaur age. It is the oldest sediment layer of Delaware's coastal plain.",
+   "bonus": "It holds scattered lignite, a soft, young kind of coal that never fully matured.",
+   "pins": [
+    [
+     "Wilmington",
+     -75.55,
+     39.74
+    ]
+   ]
+  },
+  {
+   "name": "WILMINGTON COMPLEX",
+   "age": "About 480 million years ago",
+   "short": "480 Myr",
+   "period": "Ordovician",
+   "kind": "meta",
+   "hook": "A chain of volcanic islands",
+   "what": "A chain of volcanic islands in an ancient ocean crashed into North America and was welded on. Its dark, baked rocks now underlie the hills around Wilmington.",
+   "bonus": "The Brandywine Creek valley cuts straight through these ancient volcanic roots.",
+   "pins": [
+    [
+     "Brandywine Creek",
+     -75.57,
+     39.8
+    ]
+   ]
+  },
+  {
+   "name": "BALTIMORE GNEISS",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Delaware's one ancient rock",
+   "what": "In the northwest corner, banded gneiss from deep inside an ancient mountain chain pokes through. It is the only Precambrian rock unit in Delaware's Piedmont.",
+   "bonus": "Its age, about 1.1 billion years, is nearly a quarter of the Earth's entire history.",
+   "pins": [
+    [
+     "Hockessin",
+     -75.69,
+     39.79
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.dgs.udel.edu/delaware-geology",
+  "https://en.wikipedia.org/wiki/Geology_of_Delaware"
+ ]
+}

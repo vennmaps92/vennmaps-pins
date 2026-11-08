@@ -1,0 +1,113 @@
+{
+ "pair": "ID-MT",
+ "a": "ID",
+ "b": "MT",
+ "a_name": "Idaho",
+ "b_name": "Montana",
+ "tagline": "Two Rocky Mountain heavyweights.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Borah Peak",
+    12662,
+    "12,662 ft"
+   ],
+   "b": [
+    "Granite Peak",
+    12807,
+    "12,807 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "the Gem State",
+    5000,
+    "5,000 ft"
+   ],
+   "b": [
+    "Big Sky Country",
+    3400,
+    "3,400 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "LARGEST NATURAL LAKE",
+   "kind": "bar",
+   "a": [
+    "Lake Pend Oreille",
+    148,
+    "148 sq mi"
+   ],
+   "b": [
+    "Flathead Lake",
+    191,
+    "191 sq mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "DEEPEST LAKE",
+   "kind": "bar",
+   "a": [
+    "Lake Pend Oreille",
+    1158,
+    "1,158 ft"
+   ],
+   "b": [
+    "Flathead Lake",
+    370,
+    "370 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "dots",
+   "a": [
+    "just Yellowstone's edge",
+    1,
+    "1"
+   ],
+   "b": [
+    "Glacier + Yellowstone",
+    2,
+    "2"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "STATE GEM",
+  "sub": "You're the judge on this one",
+  "a": [
+   "Star garnet",
+   "found in only two",
+   "places on Earth"
+  ],
+  "b": [
+   "Montana sapphire",
+   "the cornflower-blue",
+   "Yogo Gulch gems"
+  ],
+  "mid": [
+   "Both formed deep in the",
+   "crust and were dug out",
+   "of Rocky Mountain rock."
+  ],
+  "q": "Which gem would you wear?",
+  "cta": "Comment “GARNET” or “SAPPHIRE”"
+ },
+ "caption_hook": "Idaho vs Montana: peaks, lakes and parks, scored.",
+ "sources": [
+  "https://www.usgs.gov",
+  "https://www.nps.gov",
+  "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html",
+  "https://www.noaa.gov"
+ ]
+}

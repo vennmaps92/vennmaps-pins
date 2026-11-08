@@ -1,0 +1,115 @@
+{
+ "ST": "ID",
+ "state": "Idaho",
+ "cover_sub": "Dig down through 2.5 billion years",
+ "caption_hook": "Idaho has black lava fields, a giant granite heart and some of the oldest rock in the West.",
+ "layers": [
+  {
+   "name": "SNAKE RIVER BASALT",
+   "age": "2,000 to 15,000 years ago",
+   "short": "15K yrs",
+   "period": "Holocene",
+   "kind": "volcanic",
+   "hook": "Black lava, hardly cold yet",
+   "what": "Along a long crack called the Great Rift, lava spilled across southern Idaho as recently as 2,000 years ago. It left lava tubes, cinder cones and fields of jagged black rock.",
+   "bonus": "Apollo astronauts trained at Craters of the Moon in 1969 before heading to the real Moon.",
+   "pins": [
+    [
+     "Craters of Moon",
+     -113.52,
+     43.42
+    ]
+   ]
+  },
+  {
+   "name": "SNAKE RIVER RHYOLITE",
+   "age": "About 10 million years ago",
+   "short": "10 Myr",
+   "period": "Miocene",
+   "kind": "volcanic",
+   "hook": "The trail of a hot spot",
+   "what": "As North America slid over the Yellowstone hot spot, gigantic eruptions blanketed southern Idaho in glassy ash and lava. Younger basalt later buried most of it.",
+   "bonus": "Shoshone Falls, at 212 ft, drops over this rock and is taller than Niagara.",
+   "pins": [
+    [
+     "Shoshone Falls",
+     -114.4,
+     42.6
+    ]
+   ]
+  },
+  {
+   "name": "IDAHO BATHOLITH",
+   "age": "About 80 million years ago",
+   "short": "80 Myr",
+   "period": "Cretaceous",
+   "kind": "granite",
+   "hook": "A mountain range of frozen magma",
+   "what": "Molten rock welled up beneath ancient volcanoes and cooled into a vast mass of granite. It underlies much of the wild, rugged mountain country of central Idaho.",
+   "bonus": "It is one of the largest exposed bodies of granite in North America.",
+   "pins": [
+    [
+     "Idaho City",
+     -115.83,
+     43.83
+    ]
+   ]
+  },
+  {
+   "name": "PHOSPHORIA FORMATION",
+   "age": "About 270 million years ago",
+   "short": "270 Myr",
+   "period": "Permian",
+   "kind": "shale",
+   "hook": "Seafloor mud rich in phosphate",
+   "what": "Cold, nutrient-rich water welled up in an ancient sea, feeding plankton that piled up as phosphate-rich mud. Today it is mined near Soda Springs to make fertilizer.",
+   "bonus": "Soda Springs' famous geyser was an accident, set off by drilling in 1937.",
+   "pins": [
+    [
+     "Soda Springs",
+     -111.6,
+     42.65
+    ]
+   ]
+  },
+  {
+   "name": "BELT SUPERGROUP",
+   "age": "About 1.45 billion years ago",
+   "short": "1.45 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Mud and sand of a lost sea",
+   "what": "A mile-deep stack of mud and sand settled in a vast shallow sea, then hardened into slate and quartzite. Folded and faulted, it forms the mountains of the Idaho panhandle.",
+   "bonus": "Mines in this rock made the Silver Valley one of the richest silver districts ever.",
+   "pins": [
+    [
+     "Wallace",
+     -115.92,
+     47.47
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 2.5 billion years ago",
+   "short": "2.5 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "Some of Idaho's oldest rock",
+   "what": "In southern Idaho, granite and gneiss about 2.5 billion years old poke up at City of Rocks. Weathering has shaped it and its younger granite neighbors into domes and towers.",
+   "bonus": "Wagon trains on the California Trail rolled right through City of Rocks.",
+   "pins": [
+    [
+     "City of Rocks",
+     -113.72,
+     42.07
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/crmo/learn/nature/geology.htm",
+  "https://www.nps.gov/ciro/learn/nature/geology.htm",
+  "https://www.idahogeology.org/"
+ ]
+}

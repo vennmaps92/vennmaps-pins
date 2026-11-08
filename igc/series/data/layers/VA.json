@@ -1,0 +1,97 @@
+{
+ "ST": "VA",
+ "state": "Virginia",
+ "cover_sub": "Dig down through 1.05 billion years",
+ "caption_hook": "Virginia has been a shell-filled seafloor, a coal swamp and the roots of an ancient mountain chain.",
+ "layers": [
+  {
+   "name": "YORKTOWN FORMATION",
+   "age": "About 4 million years ago",
+   "short": "4 Myr",
+   "period": "Neogene",
+   "kind": "sand",
+   "hook": "A warm sea packed with shells",
+   "what": "Not long ago in geologic terms, a warm shallow sea covered eastern Virginia. Its shells, shark teeth and sand settled into the Yorktown Formation, which lines river banks near the Chesapeake Bay.",
+   "bonus": "A fossil scallop from this layer, Chesapecten, is Virginia's official state fossil.",
+   "pins": [
+    [
+     "Yorktown",
+     -76.51,
+     37.235
+    ]
+   ]
+  },
+  {
+   "name": "POCAHONTAS FORMATION",
+   "age": "About 320 million years ago",
+   "short": "320 Myr",
+   "period": "Pennsylvanian",
+   "kind": "coal",
+   "hook": "Swamp forests turned to coal",
+   "what": "Giant ferns and scale trees grew in steamy coastal swamps. Buried and squeezed for millions of years, they became the thick coal seams of Virginia's far southwest.",
+   "bonus": "The Pocahontas Exhibition Mine lets visitors walk inside the old coal workings.",
+   "pins": [
+    [
+     "Pocahontas",
+     -81.35,
+     37.31
+    ]
+   ]
+  },
+  {
+   "name": "MASSANUTTEN SANDSTONE",
+   "age": "About 430 million years ago",
+   "short": "430 Myr",
+   "period": "Silurian",
+   "kind": "sand",
+   "hook": "Ancient beach sand, now a ridge",
+   "what": "Rivers and shorelines spread clean sand across the region long before the dinosaurs. Pressed into tough sandstone, it now caps a long ridge in the middle of the Shenandoah Valley.",
+   "bonus": "Massanutten Mountain is a 50-mile ridge that splits the valley's river in two.",
+   "pins": [
+    [
+     "Massanutten Mtn",
+     -78.65,
+     38.62
+    ]
+   ]
+  },
+  {
+   "name": "CATOCTIN FORMATION",
+   "age": "About 570 million years ago",
+   "short": "570 Myr",
+   "period": "Precambrian",
+   "kind": "volcanic",
+   "hook": "Lava from a splitting continent",
+   "what": "When an ancient supercontinent tore apart, lava poured across the land in huge floods. Later baked and squeezed, it became the green-tinged rock that forms the high Blue Ridge crest.",
+   "bonus": "Hawksbill, the tallest peak in Shenandoah National Park at 4,051 ft, is capped by it.",
+   "pins": [
+    [
+     "Hawksbill",
+     -78.39,
+     38.55
+    ]
+   ]
+  },
+  {
+   "name": "OLD RAG GRANITE",
+   "age": "About 1.05 billion years ago",
+   "short": "1.05 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "The roots of a lost mountain range",
+   "what": "Over a billion years ago, molten rock cooled deep underground during a continental collision. Millions of years of erosion have exposed it as the rounded, boulder-strewn summit of Old Rag.",
+   "bonus": "Old Rag's rock scramble is one of the most-hiked trails in Virginia.",
+   "pins": [
+    [
+     "Old Rag",
+     -78.31,
+     38.57
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.dmme.virginia.gov/dgmr/",
+  "https://www.nps.gov/shen/learn/nature/geology.htm"
+ ]
+}

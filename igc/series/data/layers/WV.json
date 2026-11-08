@@ -1,0 +1,97 @@
+{
+ "ST": "WV",
+ "state": "West Virginia",
+ "cover_sub": "Dig down through 530 million years",
+ "caption_hook": "West Virginia's hills hold coal swamps, a canyon-cutting sandstone and a cave-riddled seabed.",
+ "layers": [
+  {
+   "name": "PITTSBURGH COAL",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "coal",
+   "hook": "The swamp that fueled steel",
+   "what": "Vast peat swamps once covered the northern part of the state. Buried and compressed, they became the Pittsburgh coal bed, one of the most heavily mined coal beds in America.",
+   "bonus": "West Virginia is still one of the two biggest coal-producing states in the U.S.",
+   "pins": [
+    [
+     "Fairmont",
+     -80.14,
+     39.485
+    ]
+   ]
+  },
+  {
+   "name": "NUTTALL SANDSTONE",
+   "age": "About 320 million years ago",
+   "short": "320 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "The cliffs of the New River Gorge",
+   "what": "Rivers dumped sand and gravel across an ancient lowland. Hardened into thick, tough sandstone, it forms the cliffs that line the New River Gorge, prized by rock climbers.",
+   "bonus": "The New River Gorge Bridge crosses it, towering 876 ft above the river.",
+   "pins": [
+    [
+     "New River Gorge",
+     -81.08,
+     38.07
+    ]
+   ]
+  },
+  {
+   "name": "GREENBRIER LIMESTONE",
+   "age": "About 335 million years ago",
+   "short": "335 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "A warm sea turned to cave country",
+   "what": "A clear tropical sea once covered the area, and shells and coral built up thick beds of limestone. Rainwater has been dissolving it ever since, hollowing out caves and sinkholes.",
+   "bonus": "The Greenbrier Valley is full of caves, including Lost World Caverns near Lewisburg.",
+   "pins": [
+    [
+     "Lewisburg",
+     -80.45,
+     37.8
+    ]
+   ]
+  },
+  {
+   "name": "TUSCARORA SANDSTONE",
+   "age": "About 440 million years ago",
+   "short": "440 Myr",
+   "period": "Silurian",
+   "kind": "sand",
+   "hook": "A knife-edge fin of white rock",
+   "what": "Beach sand piled up along an ancient shoreline and cemented into very hard, quartz-rich rock. Folded and tilted by mountain-building, it now juts skyward as a towering stone fin.",
+   "bonus": "Seneca Rocks rises roughly 900 ft above the North Fork River.",
+   "pins": [
+    [
+     "Seneca Rocks",
+     -79.37,
+     38.835
+    ]
+   ]
+  },
+  {
+   "name": "HARPERS FORMATION",
+   "age": "About 530 million years ago",
+   "short": "530 Myr",
+   "period": "Cambrian",
+   "kind": "meta",
+   "hook": "Squeezed mud at Harpers Ferry",
+   "what": "Ancient seafloor mud and sand were baked and squeezed during mountain building into shiny, layered phyllite. This is the rock where the Shenandoah meets the Potomac.",
+   "bonus": "Jefferson Rock, with its famous view, sits on this layered stone.",
+   "pins": [
+    [
+     "Harpers Ferry",
+     -77.73,
+     39.325
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/neri/learn/nature/geology.htm",
+  "https://www.wvgs.wvnet.edu/"
+ ]
+}

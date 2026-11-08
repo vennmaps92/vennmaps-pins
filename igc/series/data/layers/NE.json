@@ -1,0 +1,112 @@
+{
+ "ST": "NE",
+ "state": "Nebraska",
+ "cover_sub": "Dig down through 300 million years",
+ "caption_hook": "Nebraska has been a coal swamp, a chalk seafloor and a grassland full of rhinos.",
+ "layers": [
+  {
+   "name": "SAND HILLS DUNES",
+   "age": "Thousands of years ago",
+   "short": "Recent",
+   "period": "Quaternary",
+   "kind": "sand",
+   "hook": "Grass-covered sand ocean",
+   "what": "Wind piled up sand into dunes across the middle of the state, covering about a quarter of Nebraska. Grass now holds them in place, but they can wake up in a drought.",
+   "bonus": "It is the largest dune field in the Western Hemisphere, and it sits on top of the Ogallala Aquifer.",
+   "pins": [
+    [
+     "Valentine",
+     -100.55,
+     42.87
+    ],
+    [
+     "Mullen",
+     -101.04,
+     42.04
+    ]
+   ]
+  },
+  {
+   "name": "OGALLALA GROUP",
+   "age": "About 12 million years ago",
+   "short": "12 Myr",
+   "period": "Miocene",
+   "kind": "sand",
+   "hook": "Rivers of sand and a rhino pit",
+   "what": "Rivers off the Rockies spread gravel and sand over the High Plains. It now holds the Ogallala Aquifer, which waters farms from South Dakota to Texas. Some of that water fell as rain long ago.",
+   "bonus": "At Ashfall, rhinos and camels were buried alive by ash from a volcano in Idaho.",
+   "pins": [
+    [
+     "Ogallala",
+     -101.72,
+     41.13
+    ],
+    [
+     "Ashfall Beds",
+     -98.16,
+     42.42
+    ]
+   ]
+  },
+  {
+   "name": "BRULE FORMATION",
+   "age": "About 32 million years ago",
+   "short": "32 Myr",
+   "period": "Oligocene",
+   "kind": "mud",
+   "hook": "The clay beneath the landmarks",
+   "what": "Soft clay and ash mudstone that forms the base of Chimney Rock and Scotts Bluff. Oregon Trail pioneers used both towers as signposts on the long road west.",
+   "bonus": "Chimney Rock appears on Nebraska's state quarter, minted in 2006.",
+   "pins": [
+    [
+     "Chimney Rock",
+     -103.35,
+     41.7
+    ],
+    [
+     "Scotts Bluff",
+     -103.71,
+     41.83
+    ]
+   ]
+  },
+  {
+   "name": "NIOBRARA CHALK",
+   "age": "About 85 million years ago",
+   "short": "85 Myr",
+   "period": "Cretaceous",
+   "kind": "lime",
+   "hook": "A chalk seafloor",
+   "what": "The Western Interior Seaway left this pale chalk, built from the tiny shells of plankton. It holds fossils of mosasaurs and huge predatory fish. Tiny plankton shells make up most of the rock.",
+   "bonus": "The formation is named for the Niobrara River, where it was first described.",
+   "pins": [
+    [
+     "Niobrara",
+     -98.04,
+     42.75
+    ]
+   ]
+  },
+  {
+   "name": "INDIAN CAVE SANDSTONE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Sandstone with a cave",
+   "what": "Rivers and deltas built this soft sandstone when Nebraska sat near a tropical coast. Weather later carved a shallow cave into its cliffs above the Missouri River.",
+   "bonus": "The cave walls are marked with old petroglyphs, now protected in Indian Cave State Park.",
+   "pins": [
+    [
+     "Indian Cave",
+     -95.57,
+     40.25
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://snr.unl.edu/data/geographygis/",
+  "https://www.nps.gov/chro/index.htm"
+ ]
+}

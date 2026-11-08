@@ -1,0 +1,97 @@
+{
+ "ST": "NC",
+ "state": "North Carolina",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "North Carolina holds a megalodon sea, a granite quarry, quartzite gorges and rock over a billion years old.",
+ "layers": [
+  {
+   "name": "PUNGO RIVER FORMATION",
+   "age": "About 16 million years ago",
+   "short": "16 Myr",
+   "period": "Miocene",
+   "kind": "sand",
+   "hook": "Megalodon's hunting ground",
+   "what": "Warm, shallow seas covered eastern North Carolina and teemed with life. The phosphate-rich sand and clay they laid down holds shark teeth, whale bones and seabird fossils.",
+   "bonus": "Megalodon teeth bigger than a hand have come out of the mine near Aurora.",
+   "pins": [
+    [
+     "Aurora",
+     -76.79,
+     35.3
+    ]
+   ]
+  },
+  {
+   "name": "CASTLE HAYNE LIMESTONE",
+   "age": "About 40 million years ago",
+   "short": "40 Myr",
+   "period": "Eocene",
+   "kind": "lime",
+   "hook": "Limestone beneath the coast",
+   "what": "A warm Eocene sea piled up shells and the skeletons of tiny animals into thick, pale limestone near Wilmington. Quarries dig it for crushed stone and cement.",
+   "bonus": "Its holes and cracks make the Castle Hayne aquifer one of the state's top water sources.",
+   "pins": [
+    [
+     "Castle Hayne",
+     -77.9,
+     34.36
+    ]
+   ]
+  },
+  {
+   "name": "MOUNT AIRY GRANITE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "granite",
+   "hook": "The rock they call The Rock",
+   "what": "Molten rock cooled slowly deep underground into pale, fine-grained granite. Erosion later bared it at Mount Airy, where a mile-long quarry bills itself the world's largest open-face granite quarry.",
+   "bonus": "Its stone went into the Wright Brothers National Memorial and the Arlington Memorial Bridge.",
+   "pins": [
+    [
+     "Mount Airy",
+     -80.61,
+     36.5
+    ]
+   ]
+  },
+  {
+   "name": "CHILHOWEE GROUP",
+   "age": "About 530 million years ago",
+   "short": "530 Myr",
+   "period": "Cambrian",
+   "kind": "meta",
+   "hook": "Beach sand turned to quartzite",
+   "what": "Sand from ancient beaches and shallow seas was baked and squeezed into very hard quartzite. It resists erosion, so it forms the rugged cliffs and ridges of Linville Gorge.",
+   "bonus": "Linville Gorge is nicknamed the Grand Canyon of the Southern Appalachians.",
+   "pins": [
+    [
+     "Linville Gorge",
+     -81.9,
+     35.9
+    ]
+   ]
+  },
+  {
+   "name": "BLOWING ROCK GNEISS",
+   "age": "More than 1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Rock older than the mountains",
+   "what": "Part of the ancient core of the Blue Ridge, this banded rock was baked and squeezed over a billion years ago, long before the Appalachians existed. It forms the cliffs at Blowing Rock.",
+   "bonus": "Updrafts at The Blowing Rock cliff can toss light objects back up, as legend says.",
+   "pins": [
+    [
+     "Blowing Rock",
+     -81.68,
+     36.14
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/North_Carolina_Granite_Corporation_Quarry_Complex",
+  "https://ngmdb.usgs.gov/Geolex/UnitRefs/BlowingRockRefs_519.html"
+ ]
+}

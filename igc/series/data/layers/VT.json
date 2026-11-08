@@ -1,0 +1,97 @@
+{
+ "ST": "VT",
+ "state": "Vermont",
+ "cover_sub": "Dig down through 1.3 billion years",
+ "caption_hook": "Vermont has been a tropical reef, a granite mountain and a sea that held whales.",
+ "layers": [
+  {
+   "name": "CHAMPLAIN SEA CLAY",
+   "age": "About 12,000 years ago",
+   "short": "12K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "The sea that held whales",
+   "what": "As the ice melted, salt water flooded the Champlain Valley and made an arm of the ocean. Its floor of fine clay still holds shells and the bones of sea animals.",
+   "bonus": "A beluga whale skeleton found in Charlotte in 1849 is now Vermont's state fossil.",
+   "pins": [
+    [
+     "Charlotte",
+     -73.26,
+     44.31
+    ]
+   ]
+  },
+  {
+   "name": "BARRE GRANITE",
+   "age": "About 360 million years ago",
+   "short": "360 Myr",
+   "period": "Devonian",
+   "kind": "granite",
+   "hook": "The granite capital of the world",
+   "what": "Magma cooled slowly underground into a fine, light-gray granite. Quarried around Barre for over a century, it has been carved into monuments and gravestones shipped worldwide.",
+   "bonus": "Hope Cemetery in Barre is full of elaborate granite sculptures made by local carvers.",
+   "pins": [
+    [
+     "Barre",
+     -72.5,
+     44.2
+    ]
+   ]
+  },
+  {
+   "name": "CHAZY FOSSIL REEF",
+   "age": "About 480 million years ago",
+   "short": "480 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "A reef older than the dinosaurs",
+   "what": "On Isle La Motte in Lake Champlain, limestone holds a reef built by early corals and sponges in a warm tropical sea. It is among the oldest coral reefs on Earth.",
+   "bonus": "You can see it at the Fisk Quarry and Goodsell Ridge preserves on the island.",
+   "pins": [
+    [
+     "Isle La Motte",
+     -73.34,
+     44.87
+    ]
+   ]
+  },
+  {
+   "name": "POULTNEY SLATE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "shale",
+   "hook": "Slate in red, green and gray",
+   "what": "Deep-sea mud settled in an ancient ocean basin and was later squeezed into slate that splits into thin sheets. Quarries around Fair Haven have long cut it into roofing and flooring.",
+   "bonus": "The region is called the Slate Valley, and its slate comes in red, green and purple as well as gray.",
+   "pins": [
+    [
+     "Fair Haven",
+     -73.27,
+     43.59
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 1.3 billion years ago",
+   "short": "1.3 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The oldest bones of the Greens",
+   "what": "In the core of the Green Mountains, the oldest rocks are gneiss from a mountain belt that rose over a billion years ago. Younger rocks were later shoved on top of it.",
+   "bonus": "The Green Mountains are named for the evergreen forests that cover them (Vert Mont).",
+   "pins": [
+    [
+     "Lincoln",
+     -72.97,
+     44.09
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://dec.vermont.gov/geological-survey",
+  "https://en.wikipedia.org/wiki/Geology_of_Vermont"
+ ]
+}

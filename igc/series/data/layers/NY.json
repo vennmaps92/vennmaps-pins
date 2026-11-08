@@ -1,0 +1,124 @@
+{
+ "ST": "NY",
+ "state": "New York",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "New York has been a glacier's dumping ground, a river delta and a mountain range older than dinosaurs.",
+ "layers": [
+  {
+   "name": "HARBOR HILL MORAINE",
+   "age": "About 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "Long Island is ice-age rubble",
+   "what": "At its farthest reach, a mile-thick ice sheet bulldozed rock, sand and boulders south and dumped them in a long ridge. That heap of debris became the backbone of Long Island.",
+   "bonus": "The ridge is named for Harbor Hill in Roslyn, which tops out at about 390 feet.",
+   "pins": [
+    [
+     "Harbor Hill",
+     -73.64,
+     40.79
+    ]
+   ]
+  },
+  {
+   "name": "CATSKILL FORMATION",
+   "age": "About 370 million years ago",
+   "short": "370 Myr",
+   "period": "Devonian",
+   "kind": "sand",
+   "hook": "Red mud from a vanished range",
+   "what": "Rivers poured sand and mud off a huge mountain range to the east and built a giant delta. The red and gray rock now forms the Catskill Mountains, cut by streams into cliffs and waterfalls.",
+   "bonus": "Near Gilboa, fossil tree stumps about 385 million years old are among the oldest ever found.",
+   "pins": [
+    [
+     "Kaaterskill Falls",
+     -74.06,
+     42.19
+    ],
+    [
+     "Gilboa",
+     -74.45,
+     42.4
+    ]
+   ]
+  },
+  {
+   "name": "LOCKPORT DOLOMITE",
+   "age": "About 420 million years ago",
+   "short": "420 Myr",
+   "period": "Silurian",
+   "kind": "lime",
+   "hook": "The hard cap on Niagara Falls",
+   "what": "A warm, shallow sea left thick beds of limestone-like dolomite. This tough layer sits on top of softer shale, and it is the reason Niagara Falls exists.",
+   "bonus": "Water wears away the soft rock below, so the falls have retreated about seven miles upriver.",
+   "pins": [
+    [
+     "Niagara Falls",
+     -79.07,
+     43.08
+    ],
+    [
+     "Lockport",
+     -78.69,
+     43.17
+    ]
+   ]
+  },
+  {
+   "name": "MANHATTAN SCHIST",
+   "age": "About 450 million years ago",
+   "short": "450 Myr",
+   "period": "Ordovician",
+   "kind": "meta",
+   "hook": "Squeezed rock under the skyline",
+   "what": "When ancient continents collided, mud and sand were buried deep, squeezed and baked into glittering, mica-rich schist. The bedrock under much of Manhattan is this tough, layered stone.",
+   "bonus": "Glaciers polished and grooved the schist bumps that still poke through Central Park's grass.",
+   "pins": [
+    [
+     "Central Park",
+     -73.97,
+     40.78
+    ]
+   ]
+  },
+  {
+   "name": "POTSDAM SANDSTONE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "sand",
+   "hook": "A beach from the dawn of animal life",
+   "what": "A shallow sea washed sand onto the edges of what is now the Adirondacks. The sand hardened into red and tan sandstone, and the Ausable River has since sliced a deep chasm through it.",
+   "bonus": "Ausable Chasm has drawn sightseers since the 1800s and is nicknamed the Grand Canyon of the Adirondacks.",
+   "pins": [
+    [
+     "Ausable Chasm",
+     -73.47,
+     44.52
+    ]
+   ]
+  },
+  {
+   "name": "ADIRONDACK ANORTHOSITE",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "The ancient core of the mountains",
+   "what": "Deep underground, molten rock cooled slowly into a pale, coarse rock called anorthosite. Mount Marcy, the state's highest point at 5,344 ft, is made of it.",
+   "bonus": "These mountains are still rising, by about 2 millimeters a year, even as they erode.",
+   "pins": [
+    [
+     "Mount Marcy",
+     -73.92,
+     44.11
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Geology_of_New_York",
+  "https://www.nps.gov/subjects/geology/"
+ ]
+}

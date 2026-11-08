@@ -1,0 +1,129 @@
+{
+ "ST": "CA",
+ "state": "California",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "California has been an ocean trench, a granite mountain core and a volcano that blanketed the West in ash.",
+ "layers": [
+  {
+   "name": "BISHOP TUFF",
+   "age": "About 770,000 years ago",
+   "short": "770K yrs",
+   "period": "Quaternary",
+   "kind": "volcanic",
+   "hook": "A supervolcano erupted here",
+   "what": "A huge eruption emptied a magma chamber and left the Long Valley near Mammoth. Glowing ash settled into a rock called tuff, hundreds of feet thick in places.",
+   "bonus": "Its ash fell as far away as Nebraska, and it is still found in Midwest soils.",
+   "pins": [
+    [
+     "Volcanic Tableland",
+     -118.45,
+     37.45
+    ],
+    [
+     "Long Valley",
+     -118.97,
+     37.65
+    ]
+   ]
+  },
+  {
+   "name": "MONTEREY FORMATION",
+   "age": "About 15 million years ago",
+   "short": "15 Myr",
+   "period": "Miocene",
+   "kind": "shale",
+   "hook": "Oil from tiny sea plankton",
+   "what": "Along the coast, a deep sea once filled with microscopic algae called diatoms. Their glassy shells sank, piled up and became this pale, thinly layered rock.",
+   "bonus": "It is the source rock for much of California's oil, and it folds like a stack of paper.",
+   "pins": [
+    [
+     "Montana de Oro",
+     -120.88,
+     35.27
+    ],
+    [
+     "Palos Verdes",
+     -118.41,
+     33.76
+    ]
+   ]
+  },
+  {
+   "name": "SIERRA GRANITE",
+   "age": "About 90 million years ago",
+   "short": "90 Myr",
+   "period": "Cretaceous",
+   "kind": "granite",
+   "hook": "Molten rock frozen underground",
+   "what": "Magma cooled slowly deep below an ancient volcanic arc and hardened into granite. Uplift and glaciers later stripped away the cover and exposed the Sierra Nevada.",
+   "bonus": "Half Dome and Mount Whitney, the tallest peak in the lower 48 at 14,505 ft, are both granite.",
+   "pins": [
+    [
+     "Half Dome",
+     -119.53,
+     37.75
+    ],
+    [
+     "Mount Whitney",
+     -118.29,
+     36.58
+    ]
+   ]
+  },
+  {
+   "name": "FRANCISCAN COMPLEX",
+   "age": "About 150 million years ago",
+   "short": "150 Myr",
+   "period": "Jurassic",
+   "kind": "meta",
+   "hook": "Ocean floor scraped off a trench",
+   "what": "Seafloor mud, sand and red chert were dragged into a subduction zone and scraped onto the continent. The result is a jumbled mix of rock types under the Bay Area.",
+   "bonus": "The Golden Gate Bridge's towers stand on this scrambled seafloor.",
+   "pins": [
+    [
+     "Marin Headlands",
+     -122.5,
+     37.83
+    ]
+   ]
+  },
+  {
+   "name": "LATHAM SHALE",
+   "age": "About 520 million years ago",
+   "short": "520 Myr",
+   "period": "Cambrian",
+   "kind": "shale",
+   "hook": "Trilobites in the Mojave Desert",
+   "what": "In the Cambrian, the Mojave region lay under a warm shallow sea. Mud buried trilobites and other early animals, and the shale now holds their fossils in the desert.",
+   "bonus": "Collectors split these rocks in the Marble Mountains to find trilobites over half a billion years old.",
+   "pins": [
+    [
+     "Marble Mountains",
+     -115.7,
+     34.55
+    ]
+   ]
+  },
+  {
+   "name": "BLACK MTNS GNEISS",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The oldest rock in the valley",
+   "what": "Under Death Valley's mountains lies banded gneiss, rock baked and squeezed deep in the crust long before animals existed. Faulting later lifted it into view.",
+   "bonus": "Badwater Basin, the lowest point in North America at 282 ft below sea level, sits at its foot.",
+   "pins": [
+    [
+     "Badwater Basin",
+     -116.77,
+     36.23
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://pubs.usgs.gov/",
+  "https://www.nps.gov/"
+ ]
+}

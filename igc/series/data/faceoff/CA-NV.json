@@ -1,0 +1,113 @@
+{
+ "pair": "CA-NV",
+ "a": "CA",
+ "b": "NV",
+ "a_name": "California",
+ "b_name": "Nevada",
+ "tagline": "Golden State vs Silver State.",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Mount Whitney",
+    14505,
+    "14,505 ft"
+   ],
+   "b": [
+    "Boundary Peak",
+    13147,
+    "13,147 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "sea level to Sierra",
+    2900,
+    "2,900 ft"
+   ],
+   "b": [
+    "the Basin and Range",
+    5500,
+    "5,500 ft"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "bar",
+   "a": [
+    "Yosemite, Death Valley+",
+    9,
+    "9"
+   ],
+   "b": [
+    "Great Basin",
+    1,
+    "1"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "PUBLIC LAND",
+   "kind": "bar",
+   "a": [
+    "about 45% federal",
+    45,
+    "about 45%"
+   ],
+   "b": [
+    "about 80% federal",
+    80,
+    "about 80%"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "COASTLINE",
+   "kind": "bar",
+   "a": [
+    "Pacific coast",
+    840,
+    "840 miles"
+   ],
+   "b": [
+    "landlocked",
+    0,
+    "0 miles"
+   ],
+   "win": "a"
+  }
+ ],
+ "bonus": {
+  "title": "NICKNAME METAL",
+  "sub": "You're the judge on this one",
+  "a": [
+   "Gold",
+   "Sutter's Mill, 1848",
+   "started the Gold Rush"
+  ],
+  "b": [
+   "Silver",
+   "the Comstock Lode,",
+   "found in 1859"
+  ],
+  "mid": [
+   "Both metals came from",
+   "veins of ancient rock",
+   "and built the West."
+  ],
+  "q": "Gold or silver?",
+  "cta": "Comment “GOLD” or “SILVER”"
+ },
+ "caption_hook": "California vs Nevada: peaks, parks and public land, scored.",
+ "sources": [
+  "https://www.usgs.gov",
+  "https://www.nps.gov",
+  "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html",
+  "https://www.noaa.gov"
+ ]
+}

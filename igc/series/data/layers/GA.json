@@ -1,0 +1,102 @@
+{
+ "ST": "GA",
+ "state": "Georgia",
+ "cover_sub": "Dig down through 1.1 billion years",
+ "caption_hook": "Georgia has a trembling swamp, a granite dome, canyon country and rock over a billion years old.",
+ "layers": [
+  {
+   "name": "OKEFENOKEE PEAT",
+   "age": "About 7,000 years ago",
+   "short": "7K yrs",
+   "period": "Holocene",
+   "kind": "coal",
+   "hook": "The land of the trembling earth",
+   "what": "Dead plants in a vast, waterlogged swamp pile up faster than they rot, forming peat. The peat is many feet thick, and in places whole patches of the swamp floor wobble and quake underfoot.",
+   "bonus": "The name Okefenokee is often translated from a Native American word as 'trembling earth.'",
+   "pins": [
+    [
+     "Folkston",
+     -82.0,
+     30.83
+    ],
+    [
+     "Stephen C. Foster",
+     -82.36,
+     30.82
+    ]
+   ]
+  },
+  {
+   "name": "PROVIDENCE SAND",
+   "age": "About 70 million years ago",
+   "short": "70 Myr",
+   "period": "Cretaceous",
+   "kind": "sand",
+   "hook": "A canyon made by cotton fields",
+   "what": "Sand laid down on an ancient coast forms bands of pink, orange, purple and white, colored by iron and clay. It is soft and loose, so rain cuts into it fast.",
+   "bonus": "Providence Canyon began as farm gullies in the 1800s and is now about 150 feet deep.",
+   "pins": [
+    [
+     "Providence Canyon",
+     -84.92,
+     32.07
+    ]
+   ]
+  },
+  {
+   "name": "STONE MOUNTAIN GRANITE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "granite",
+   "hook": "A granite bubble left bare",
+   "what": "Melted rock pushed up into older rock and cooled slowly underground into granite. Erosion then stripped away everything above it and left a bare dome.",
+   "bonus": "It rises 825 feet above the land around it, with its summit at 1,686 feet.",
+   "pins": [
+    [
+     "Stone Mountain",
+     -84.14,
+     33.81
+    ]
+   ]
+  },
+  {
+   "name": "POTTSVILLE FORMATION",
+   "age": "About 315 million years ago",
+   "short": "315 Myr",
+   "period": "Pennsylvanian",
+   "kind": "sand",
+   "hook": "Sandstone armor on a mountaintop",
+   "what": "Rivers dumped sand across a swampy coast, and it hardened into tough sandstone. That hard cap protects Lookout Mountain, while creeks carve gorges and waterfalls at its edge.",
+   "bonus": "Cloudland Canyon drops about 1,000 feet from its rim to the creek below.",
+   "pins": [
+    [
+     "Cloudland Canyon",
+     -85.48,
+     34.84
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 1.1 billion years ago",
+   "short": "1.1 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Roots of an ancient supercontinent",
+   "what": "Deep in the north Georgia mountains lie gneisses over a billion years old. They were baked and squeezed when continents collided to form the supercontinent Rodinia.",
+   "bonus": "This is some of Georgia's oldest rock, older than the Appalachians by hundreds of millions of years.",
+   "pins": [
+    [
+     "Jasper",
+     -84.43,
+     34.47
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.georgiaencyclopedia.org/articles/science-medicine/geologic-history-georgia-overview",
+  "https://en.wikipedia.org/wiki/Stone_Mountain"
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "ST": "WI",
+ "state": "Wisconsin",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "Wisconsin has tropical reefs, a lead rush, ice-age floods and quartzite older than complex life.",
+ "layers": [
+  {
+   "name": "KETTLE MORAINE",
+   "age": "Up to 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "Hills left behind by melting ice",
+   "what": "Glaciers dumped huge piles of rubble where two ice lobes met. When the ice melted, it left steep ridges and round pits called kettles, where buried ice blocks once sat.",
+   "bonus": "The Ice Age Trail winds through it, and Wisconsin's Driftless Area nearby was never glaciated.",
+   "pins": [
+    [
+     "Kettle Moraine N.",
+     -88.2,
+     43.68
+    ],
+    [
+     "Eagle",
+     -88.47,
+     42.88
+    ]
+   ]
+  },
+  {
+   "name": "NIAGARAN DOLOMITE",
+   "age": "About 430 million years ago",
+   "short": "430 Myr",
+   "period": "Silurian",
+   "kind": "lime",
+   "hook": "Same ridge that makes Niagara Falls",
+   "what": "A warm tropical sea grew reefs here that hardened into tough limestone, later turned to dolomite. The hard cap forms the Niagara Escarpment, a ridge running from Wisconsin to Niagara Falls.",
+   "bonus": "Door County's sea caves and sea cliffs are carved from this rock.",
+   "pins": [
+    [
+     "Cave Point",
+     -87.18,
+     44.93
+    ],
+    [
+     "High Cliff",
+     -88.28,
+     44.16
+    ]
+   ]
+  },
+  {
+   "name": "GALENA DOLOMITE",
+   "age": "About 460 million years ago",
+   "short": "460 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "The rock that started a lead rush",
+   "what": "Cracks in this ancient seafloor rock filled with lead ore. In the 1820s and 1830s, thousands of miners rushed to southwest Wisconsin to dig it out by hand.",
+   "bonus": "Miners lived in hillside holes, earning Wisconsin its Badger State nickname.",
+   "pins": [
+    [
+     "Mineral Point",
+     -90.18,
+     42.86
+    ]
+   ]
+  },
+  {
+   "name": "WONEWOC SANDSTONE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "sand",
+   "hook": "Sandstone carved by a flood",
+   "what": "Beaches and shallow seas laid down this sand, which hardened into soft, layered sandstone. At the Dells, the Wisconsin River sliced it into twisting gorges.",
+   "bonus": "A burst ice-age lake, Glacial Lake Wisconsin, helped carve the gorge in a hurry.",
+   "pins": [
+    [
+     "Wisconsin Dells",
+     -89.77,
+     43.63
+    ],
+    [
+     "Roche-a-Cri",
+     -89.81,
+     43.97
+    ]
+   ]
+  },
+  {
+   "name": "BARABOO QUARTZITE",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Mountains older than animals",
+   "what": "Sand was cooked and squeezed into quartzite so hard it outlasted mountains once as tall as the Rockies. Its ancient ridges now ring Devil's Lake near Baraboo.",
+   "bonus": "Devil's Lake's pink-purple cliffs are the broken edge of a fold in this rock.",
+   "pins": [
+    [
+     "Devil's Lake",
+     -89.73,
+     43.42
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://wgnhs.wisc.edu/"
+ ]
+}

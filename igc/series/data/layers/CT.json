@@ -1,0 +1,97 @@
+{
+ "ST": "CT",
+ "state": "Connecticut",
+ "cover_sub": "Dig down through 1.2 billion years",
+ "caption_hook": "Connecticut has been an ice-age lake, a lava field and a dinosaur mudflat.",
+ "layers": [
+  {
+   "name": "LAKE HITCHCOCK CLAY",
+   "age": "About 16,000 years ago",
+   "short": "16K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "A vanished ice-age lake",
+   "what": "As the ice melted, a long lake filled the Connecticut River valley. Each year it laid down a thin pair of light and dark clay layers, like tree rings made of mud.",
+   "bonus": "Counting those yearly layers lets scientists date how fast the ice retreated.",
+   "pins": [
+    [
+     "Hartford",
+     -72.68,
+     41.77
+    ]
+   ]
+  },
+  {
+   "name": "PORTLAND FORMATION",
+   "age": "About 200 million years ago",
+   "short": "200 Myr",
+   "period": "Jurassic",
+   "kind": "sand",
+   "hook": "Dinosaur tracks in red mud",
+   "what": "Rivers and lakes in a sinking rift valley laid down red-brown mud and sand. Dinosaurs walked the muddy shores, and their footprints hardened into stone along with it.",
+   "bonus": "The same rock, quarried at Portland, became the brownstone of New York City rowhouses.",
+   "pins": [
+    [
+     "Dinosaur St. Park",
+     -72.65,
+     41.66
+    ]
+   ]
+  },
+  {
+   "name": "TALCOTT BASALT",
+   "age": "About 201 million years ago",
+   "short": "201 Myr",
+   "period": "Jurassic",
+   "kind": "volcanic",
+   "hook": "Lava that cracked a continent",
+   "what": "As the supercontinent Pangaea ripped apart, lava poured across the valley floor and cooled into dark basalt. Tilted later, the hard flows form the long ridges above the Central Valley.",
+   "bonus": "Heublein Tower sits on Talcott Mountain, which gave this basalt its name.",
+   "pins": [
+    [
+     "Talcott Mountain",
+     -72.8,
+     41.85
+    ]
+   ]
+  },
+  {
+   "name": "STONY CREEK GRANITE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "granite",
+   "hook": "Pink granite from the shore",
+   "what": "When Africa slammed into North America, hot magma cooled underground into pink granite. Quarried at Stony Creek in Branford, it was cut and shipped to help build landmarks in New York City.",
+   "bonus": "Its stone was chosen again for the Statue of Liberty Museum, which opened in 2019.",
+   "pins": [
+    [
+     "Stony Creek",
+     -72.75,
+     41.26
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "1 to 1.2 billion years ago",
+   "short": "1.2 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The deep roots of an old range",
+   "what": "In the northwest hills, the oldest rock is gneiss that formed during a mountain-building event over a billion years ago. It was buried deep, then stripped bare by erosion.",
+   "bonus": "These rocks belong to the Grenville mountain belt, which runs from Canada to Texas.",
+   "pins": [
+    [
+     "Housatonic Hills",
+     -73.42,
+     41.75
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://portal.ct.gov/deep/geology",
+  "https://untappedcities.com/2020/09/24/stone-creek-quarry-granite-new-york/"
+ ]
+}

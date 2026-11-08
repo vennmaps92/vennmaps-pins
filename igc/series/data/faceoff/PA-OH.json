@@ -1,0 +1,111 @@
+{
+ "pair": "PA-OH",
+ "a": "PA",
+ "b": "OH",
+ "a_name": "Pennsylvania",
+ "b_name": "Ohio",
+ "tagline": "Keystone State vs Buckeye State: who's bigger?",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Mount Davis",
+    3213,
+    "3,213 ft"
+   ],
+   "b": [
+    "Campbell Hill",
+    1549,
+    "1,549 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Appalachian ridges",
+    1100,
+    "1,100 ft"
+   ],
+   "b": [
+    "flat glacial plains",
+    850,
+    "850 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "dots",
+   "a": [
+    "none",
+    0,
+    "0"
+   ],
+   "b": [
+    "Cuyahoga Valley",
+    1,
+    "1"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "LAKE ERIE SHORELINE",
+   "kind": "bar",
+   "a": [
+    "short lakefront",
+    63,
+    "~63 mi"
+   ],
+   "b": [
+    "long lakefront",
+    312,
+    "312 mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "TOTAL AREA",
+   "kind": "bar",
+   "a": [
+    "land and water",
+    46055,
+    "46,055 sq mi"
+   ],
+   "b": [
+    "land and water",
+    44825,
+    "44,825 sq mi"
+   ],
+   "win": "a"
+  }
+ ],
+ "bonus": {
+  "title": "STATE FOSSIL",
+  "sub": "You're the judge on this one",
+  "a": [
+   "Phacops rana",
+   "a trilobite with big,",
+   "bug-like compound eyes"
+  ],
+  "b": [
+   "Isotelus",
+   "a flat, wide trilobite",
+   "from Ordovician seas"
+  ],
+  "mid": [
+   "Both are trilobites,",
+   "extinct sea-floor critters",
+   "older than any dinosaur."
+  ],
+  "q": "Which trilobite wins?",
+  "cta": "Comment “PHACOPS” or “ISOTELUS”"
+ },
+ "caption_hook": "Pennsylvania vs Ohio: peaks, lakes and parks, scored.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline",
+  "https://en.wikipedia.org/wiki/Four-thousand_footers"
+ ]
+}

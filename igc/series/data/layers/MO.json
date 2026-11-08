@@ -1,0 +1,116 @@
+{
+ "ST": "MO",
+ "state": "Missouri",
+ "cover_sub": "Dig down through 1.5 billion years",
+ "caption_hook": "Missouri sits on old seafloors, a lead treasure chest and the stumps of ancient volcanoes.",
+ "layers": [
+  {
+   "name": "PEORIA LOESS",
+   "age": "About 20,000 years ago",
+   "short": "20K yrs",
+   "period": "Quaternary",
+   "kind": "mud",
+   "hook": "Dust blown off the ice age",
+   "what": "When the glaciers melted, winds whipped silt off the river floodplains and piled it into steep bluffs along the Missouri River, in places dozens of feet thick.",
+   "bonus": "The Loess Hills of northwest Missouri are some of the few big loess bluffs on Earth.",
+   "pins": [
+    [
+     "St. Joseph",
+     -94.85,
+     39.77
+    ]
+   ]
+  },
+  {
+   "name": "BETHANY FALLS LIMESTONE",
+   "age": "About 300 million years ago",
+   "short": "300 Myr",
+   "period": "Pennsylvanian",
+   "kind": "lime",
+   "hook": "A city built on a shallow sea",
+   "what": "Kansas City sits on layers of limestone and shale laid down in warm seas that flooded in and out. This hard limestone bed is quarried under the city.",
+   "bonus": "SubTropolis, a giant business park, fills the mined-out caves inside it.",
+   "pins": [
+    [
+     "Kansas City",
+     -94.58,
+     39.1
+    ]
+   ]
+  },
+  {
+   "name": "BURLINGTON LIMESTONE",
+   "age": "About 345 million years ago",
+   "short": "345 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "A rock made of sea lilies",
+   "what": "A clear tropical sea covered Missouri, carpeted with crinoids, animals that look like flowers on stalks. Their broken stems piled up into thick white limestone.",
+   "bonus": "The crinoid is Missouri's official state fossil.",
+   "pins": [
+    [
+     "Springfield",
+     -93.29,
+     37.21
+    ],
+    [
+     "Hannibal",
+     -91.36,
+     39.71
+    ]
+   ]
+  },
+  {
+   "name": "GASCONADE DOLOMITE",
+   "age": "About 480 million years ago",
+   "short": "480 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "Why Missouri is the Cave State",
+   "what": "This Ozark bedrock dissolves slowly in rainwater, riddling the hills with sinkholes, springs and caves. Missouri has more than 7,000 known caves.",
+   "bonus": "At Ha Ha Tonka, a collapsed cave left a natural bridge and a sinkhole lined with cliffs.",
+   "pins": [
+    [
+     "Ha Ha Tonka",
+     -92.77,
+     37.97
+    ]
+   ]
+  },
+  {
+   "name": "BONNETERRE DOLOMITE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "lime",
+   "hook": "The lead treasure chest",
+   "what": "An ancient reef around the Ozark islands later filled with lead and zinc ore from hot underground fluids. Missouri has led the nation in lead for over a century.",
+   "bonus": "Galena, the shiny lead ore, is Missouri's state mineral.",
+   "pins": [
+    [
+     "Viburnum",
+     -91.13,
+     37.71
+    ]
+   ]
+  },
+  {
+   "name": "ST. FRANCOIS GRANITE",
+   "age": "About 1.5 billion years ago",
+   "short": "1.5 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "The roots of ancient volcanoes",
+   "what": "The St. Francois Mountains are the worn-down stumps of volcanoes and granite that cooled underground 1.5 billion years ago. They poked above the seas as islands.",
+   "bonus": "At Elephant Rocks, the granite weathered into a herd of giant pink boulders.",
+   "pins": [
+    [
+     "Elephant Rocks",
+     -90.69,
+     37.65
+    ]
+   ]
+  }
+ ],
+ "sources": []
+}

@@ -1,0 +1,97 @@
+{
+ "ST": "TN",
+ "state": "Tennessee",
+ "cover_sub": "Dig down through 600 million years",
+ "caption_hook": "Tennessee has a tropical Cretaceous seabed, cedar glades on old limestone and the ancient Smokies.",
+ "layers": [
+  {
+   "name": "COON CREEK FORMATION",
+   "age": "About 70 million years ago",
+   "short": "70 Myr",
+   "period": "Cretaceous",
+   "kind": "mud",
+   "hook": "A tropical sea in West Tennessee",
+   "what": "A warm shallow sea once covered West Tennessee. Its fine mud buried clams, snails and crabs so gently that many fossils still have their original shells.",
+   "bonus": "Pterotrigonia thoracica, a clam from here, is Tennessee's official state fossil.",
+   "pins": [
+    [
+     "Coon Creek",
+     -88.39,
+     35.22
+    ]
+   ]
+  },
+  {
+   "name": "SEWANEE CONGLOMERATE",
+   "age": "About 315 million years ago",
+   "short": "315 Myr",
+   "period": "Pennsylvanian",
+   "kind": "gravel",
+   "hook": "Pebble beds on top of the plateau",
+   "what": "Rivers rushing off the rising Appalachians dropped sand and white quartz pebbles. Cemented together, this hard rock caps the Cumberland Plateau in cliffs.",
+   "bonus": "The University of the South sits right on the plateau's rim at Sewanee.",
+   "pins": [
+    [
+     "Sewanee",
+     -85.92,
+     35.2
+    ]
+   ]
+  },
+  {
+   "name": "LEBANON LIMESTONE",
+   "age": "About 455 million years ago",
+   "short": "455 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "Thin soil, rare wildflowers",
+   "what": "Shells and lime mud settled on the floor of a warm sea across the Nashville area. Where the rock lies close to the surface, soil is so thin that only special glade plants survive.",
+   "bonus": "The Tennessee coneflower grows only in the cedar glades of Middle Tennessee.",
+   "pins": [
+    [
+     "Cedars of Lebanon",
+     -86.33,
+     36.06
+    ]
+   ]
+  },
+  {
+   "name": "HOLSTON FORMATION",
+   "age": "About 460 million years ago",
+   "short": "460 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "The pink marble of Knoxville",
+   "what": "Limestone laid down in a warm sea was later squeezed and baked into a hard, polishable stone. Quarried near Knoxville as Tennessee Marble, it has a pink-gray color.",
+   "bonus": "Tennessee pink marble clads the National Gallery of Art in Washington, D.C.",
+   "pins": [
+    [
+     "Knoxville",
+     -83.92,
+     35.96
+    ]
+   ]
+  },
+  {
+   "name": "OCOEE SUPERGROUP",
+   "age": "About 600 million years ago",
+   "short": "600 Myr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The bones of the Smokies",
+   "what": "Thick piles of sand and mud washed into ancient basins, then were crushed and folded into mountains. Those hard rocks form the high ridges of the Great Smoky Mountains.",
+   "bonus": "Clingmans Dome, at 6,643 ft, is the highest point in Tennessee.",
+   "pins": [
+    [
+     "Clingmans Dome",
+     -83.5,
+     35.56
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.tn.gov/environment/program-areas/geology.html",
+  "https://www.nps.gov/grsm/learn/nature/geology.htm"
+ ]
+}

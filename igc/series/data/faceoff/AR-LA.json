@@ -1,0 +1,114 @@
+{
+ "pair": "AR-LA",
+ "a": "AR",
+ "b": "LA",
+ "a_name": "Arkansas",
+ "b_name": "Louisiana",
+ "tagline": "Hills versus bayous. Who wins?",
+ "rounds": [
+  {
+   "t": "HIGHEST PEAK",
+   "kind": "peak",
+   "a": [
+    "Mount Magazine",
+    2753,
+    "2,753 ft"
+   ],
+   "b": [
+    "Driskill Mountain",
+    535,
+    "535 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "AVERAGE ELEVATION",
+   "kind": "bar",
+   "a": [
+    "Ozarks and Ouachitas",
+    650,
+    "650 ft"
+   ],
+   "b": [
+    "mostly river delta",
+    100,
+    "100 ft"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "NATIONAL PARKS",
+   "kind": "dots",
+   "a": [
+    "Hot Springs",
+    1,
+    "1"
+   ],
+   "b": [
+    "no national park",
+    0,
+    "0"
+   ],
+   "win": "a"
+  },
+  {
+   "t": "TOTAL WATER AREA",
+   "kind": "bar",
+   "a": [
+    "rivers and lakes",
+    1143,
+    "1,143 sq mi"
+   ],
+   "b": [
+    "bayous and marsh",
+    9174,
+    "9,174 sq mi"
+   ],
+   "win": "b"
+  },
+  {
+   "t": "TIDAL SHORELINE",
+   "kind": "bar",
+   "a": [
+    "landlocked",
+    0,
+    "0 mi"
+   ],
+   "b": [
+    "Gulf Coast bayous",
+    7721,
+    "7,721 mi"
+   ],
+   "win": "b"
+  }
+ ],
+ "bonus": {
+  "title": "BIG DIG",
+  "sub": "Two famous holes in the ground",
+  "a": [
+   "Diamond Crater",
+   "dig for real diamonds",
+   "and keep what you find"
+  ],
+  "b": [
+   "Avery Island",
+   "a mountain of salt",
+   "and the Tabasco story"
+  ],
+  "mid": [
+   "A volcanic pipe",
+   "versus a salt dome.",
+   "Both are under your feet."
+  ],
+  "q": "Which would you visit?",
+  "cta": "Comment “DIAMOND” or “SALT”"
+ },
+ "caption_hook": "Arkansas vs Louisiana: hills, bayous and rocks, scored.",
+ "sources": [
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_by_elevation",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area",
+  "https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline",
+  "https://en.wikipedia.org/wiki/Forest_cover_by_state_and_territory_in_the_United_States",
+  "https://en.wikipedia.org/wiki/List_of_national_forests_of_the_United_States"
+ ]
+}

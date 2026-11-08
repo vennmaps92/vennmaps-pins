@@ -1,0 +1,98 @@
+{
+ "ST": "NH",
+ "state": "New Hampshire",
+ "cover_sub": "Dig down through 600 million years",
+ "caption_hook": "The Granite State has also been a drifting microcontinent, a mountain belt and an ice sheet's dumping ground.",
+ "layers": [
+  {
+   "name": "MADISON BOULDER",
+   "age": "About 14,000 years ago",
+   "short": "14K yrs",
+   "period": "Quaternary",
+   "kind": "glacial",
+   "hook": "A boulder bigger than a house",
+   "what": "The retreating ice sheet carried huge blocks of granite and dropped them far from where they were torn loose. Madison Boulder is one of the largest of these glacial erratics in North America.",
+   "bonus": "It is roughly 83 feet long and is estimated to weigh about 5,000 tons.",
+   "pins": [
+    [
+     "Madison Boulder",
+     -71.14,
+     43.9
+    ]
+   ]
+  },
+  {
+   "name": "CONWAY GRANITE",
+   "age": "About 180 million years ago",
+   "short": "180 Myr",
+   "period": "Jurassic",
+   "kind": "granite",
+   "hook": "Cliffs from rising magma",
+   "what": "Magma rose through the crust and cooled slowly underground into coarse pink-gray granite. Ice and weather have since exposed it as the sheer cliffs around North Conway.",
+   "bonus": "Cathedral Ledge, a cliff about 700 feet high, is a favorite of rock climbers.",
+   "pins": [
+    [
+     "Cathedral Ledge",
+     -71.13,
+     44.06
+    ]
+   ]
+  },
+  {
+   "name": "CONCORD GRANITE",
+   "age": "About 360 million years ago",
+   "short": "360 Myr",
+   "period": "Devonian",
+   "kind": "granite",
+   "hook": "The granite of the capital",
+   "what": "Hot magma cooled underground into light-gray granite with a fine, even grain. Quarried in Concord from the 1800s, it was cut into blocks used for grand public buildings.",
+   "bonus": "The State House in Concord, finished in 1819, is built of granite from nearby Rattlesnake Hill.",
+   "pins": [
+    [
+     "Concord",
+     -71.54,
+     43.21
+    ]
+   ]
+  },
+  {
+   "name": "LITTLETON FORMATION",
+   "age": "About 400 million years ago",
+   "short": "400 Myr",
+   "period": "Devonian",
+   "kind": "meta",
+   "hook": "The word 'monadnock' began here",
+   "what": "Ocean mud and sand were buried, folded and baked into hard schist and quartzite when a small continent crashed into North America. That tough rock outlasted the softer land around it.",
+   "bonus": "Mount Monadnock gave its name to any lone mountain left standing by erosion.",
+   "pins": [
+    [
+     "Mount Monadnock",
+     -72.11,
+     42.86
+    ]
+   ]
+  },
+  {
+   "name": "MASSABESIC GNEISS",
+   "age": "About 600 million years ago",
+   "short": "600 Myr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Rock from a drifting microcontinent",
+   "what": "In the southeast, the oldest bedrock belongs to Avalonia, a strip of crust that broke from the edge of an ancient supercontinent. It drifted and then docked onto North America.",
+   "bonus": "Lake Massabesic, which supplies Manchester's drinking water, sits on it.",
+   "pins": [
+    [
+     "Lake Massabesic",
+     -71.36,
+     43.0
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Conway_granite",
+  "https://ngmdb.usgs.gov/Geolex/Units/Massabesic_2672.html",
+  "https://www.des.nh.gov/geology"
+ ]
+}

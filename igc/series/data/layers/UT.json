@@ -1,0 +1,129 @@
+{
+ "ST": "UT",
+ "state": "Utah",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "Utah has been a tropical sea, a vast desert and a lake so big it covered a third of the state.",
+ "layers": [
+  {
+   "name": "CLARON FORMATION",
+   "age": "About 40 million years ago",
+   "short": "40 Myr",
+   "period": "Paleogene",
+   "kind": "lime",
+   "hook": "Hoodoos from an ancient lake",
+   "what": "Rivers and shallow lakes laid down pink and orange limestone and mud. Frost and rain then carved the edge of the plateau into thousands of spires called hoodoos.",
+   "bonus": "Bryce Canyon holds the world's largest collection of hoodoos.",
+   "pins": [
+    [
+     "Bryce Canyon",
+     -112.17,
+     37.59
+    ]
+   ]
+  },
+  {
+   "name": "ENTRADA SANDSTONE",
+   "age": "About 165 million years ago",
+   "short": "165 Myr",
+   "period": "Jurassic",
+   "kind": "sand",
+   "hook": "Sand dunes and tidal flats",
+   "what": "Coastal dunes and sandy flats near an inland sea hardened into red and orange sandstone. Wind and water carved it into arches, fins and balanced rocks.",
+   "bonus": "Delicate Arch and more than 2,000 other arches in Arches National Park are mostly this rock.",
+   "pins": [
+    [
+     "Arches",
+     -109.62,
+     38.73
+    ],
+    [
+     "Goblin Valley",
+     -110.71,
+     38.57
+    ]
+   ]
+  },
+  {
+   "name": "NAVAJO SANDSTONE",
+   "age": "About 190 million years ago",
+   "short": "190 Myr",
+   "period": "Jurassic",
+   "kind": "sand",
+   "hook": "A desert sea of sand",
+   "what": "Towering dunes drifted across western North America. Today the cliffs show their curved, slanted layers, frozen mid-drift in the stone, in places hundreds of feet thick.",
+   "bonus": "Zion's 2,000-foot walls are mostly Navajo Sandstone, and its dunes once covered much of the West.",
+   "pins": [
+    [
+     "Zion Canyon",
+     -112.95,
+     37.25
+    ],
+    [
+     "Capitol Reef",
+     -111.17,
+     38.29
+    ]
+   ]
+  },
+  {
+   "name": "CEDAR MESA SANDSTONE",
+   "age": "About 280 million years ago",
+   "short": "280 Myr",
+   "period": "Permian",
+   "kind": "sand",
+   "hook": "Striped spires of an older desert",
+   "what": "Before the dinosaurs, coastal dunes and beaches built layer after layer of sand. Cracks and weathering now cut it into the red-and-white-striped pillars of the Needles.",
+   "bonus": "The Needles District of Canyonlands is carved from it, and the spires look like giant striped candy.",
+   "pins": [
+    [
+     "Needles District",
+     -109.82,
+     38.15
+    ],
+    [
+     "Valley of the Gods",
+     -109.85,
+     37.28
+    ]
+   ]
+  },
+  {
+   "name": "WHEELER SHALE",
+   "age": "About 507 million years ago",
+   "short": "507 Myr",
+   "period": "Cambrian",
+   "kind": "shale",
+   "hook": "Trilobites in a Utah sea bed",
+   "what": "A warm Cambrian sea covered western Utah, and mud buried trilobites so quickly that even soft body parts sometimes survived. The fossils sit in the House Range.",
+   "bonus": "Anyone can dig trilobites here at public quarries near Delta.",
+   "pins": [
+    [
+     "House Range",
+     -113.35,
+     39.2
+    ]
+   ]
+  },
+  {
+   "name": "FARMINGTON CANYON",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Among Utah's oldest rocks",
+   "what": "Banded gneiss and schist, once buried deep in the crust and baked under great heat and pressure, form the core of the Wasatch Range and Antelope Island.",
+   "bonus": "Antelope Island sits in the Great Salt Lake, which is salty because it has no outlet.",
+   "pins": [
+    [
+     "Antelope Island",
+     -112.22,
+     40.95
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://geology.utah.gov/",
+  "https://www.nps.gov/"
+ ]
+}

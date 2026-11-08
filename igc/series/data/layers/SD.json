@@ -1,0 +1,103 @@
+{
+ "ST": "SD",
+ "state": "South Dakota",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "South Dakota stacks fossil badlands, a cave-riddled limestone and the granite of Mount Rushmore.",
+ "layers": [
+  {
+   "name": "BRULE FORMATION",
+   "age": "About 33 million years ago",
+   "short": "33 Myr",
+   "period": "Oligocene",
+   "kind": "mud",
+   "hook": "The Badlands' banded walls",
+   "what": "Ash-rich muds laid down by rivers and wind built the pink and tan bands of Badlands National Park. Erosion strips the soft layers away at about an inch a year.",
+   "bonus": "Its fossils include saber-toothed cats, giant pigs and the sheep-like oreodonts.",
+   "pins": [
+    [
+     "Badlands NP",
+     -102.25,
+     43.75
+    ]
+   ]
+  },
+  {
+   "name": "PIERRE SHALE",
+   "age": "About 75 million years ago",
+   "short": "75 Myr",
+   "period": "Cretaceous",
+   "kind": "shale",
+   "hook": "Mud from a vanished sea",
+   "what": "A deep inland sea once covered the Great Plains, and this gray mud settled on its floor. It is packed with fossil mosasaurs, ammonites and giant clams.",
+   "bonus": "It is named for Fort Pierre, across the Missouri River from the state capital.",
+   "pins": [
+    [
+     "Pierre",
+     -100.35,
+     44.37
+    ]
+   ]
+  },
+  {
+   "name": "SPEARFISH FORMATION",
+   "age": "About 250 million years ago",
+   "short": "250 Myr",
+   "period": "Triassic",
+   "kind": "mud",
+   "hook": "The red ring around the hills",
+   "what": "Red mudstone and gypsum from dry tidal flats now form a brick-red valley that rings the Black Hills. From the air, the circle is easy to spot. Red tidal-flat mud is what gives it that color.",
+   "bonus": "The Lakota call this valley the Race Track, after a legendary race around the hills.",
+   "pins": [
+    [
+     "Spearfish",
+     -103.86,
+     44.49
+    ]
+   ]
+  },
+  {
+   "name": "PAHASAPA LIMESTONE",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "The rock riddled with caves",
+   "what": "A warm, clear sea left this thick limestone full of shells and corals. Groundwater later dissolved it into some of the longest caves in the world. Tours there run through twisting tunnels.",
+   "bonus": "Wind Cave and Jewel Cave both formed in it, each with well over 100 miles of passages.",
+   "pins": [
+    [
+     "Wind Cave",
+     -103.48,
+     43.56
+    ],
+    [
+     "Jewel Cave",
+     -103.83,
+     43.73
+    ]
+   ]
+  },
+  {
+   "name": "HARNEY PEAK GRANITE",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "granite",
+   "hook": "The granite behind the faces",
+   "what": "Molten rock cooled deep underground into a pale, hard granite, then rose with the Black Hills. It makes the spires of the Needles and the state's highest summit.",
+   "bonus": "Mount Rushmore is carved from it and wears away only about an inch per 10,000 years.",
+   "pins": [
+    [
+     "Mount Rushmore",
+     -103.46,
+     43.88
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/badl/learn/nature/geology.htm",
+  "https://www.nps.gov/wica/learn/nature/geology.htm",
+  "https://www.nps.gov/moru/learn/nature/geology.htm"
+ ]
+}

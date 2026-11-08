@@ -1,0 +1,97 @@
+{
+ "ST": "OK",
+ "state": "Oklahoma",
+ "cover_sub": "Dig down through 530 million years",
+ "caption_hook": "Oklahoma has a lava-capped mesa, gypsum caves and granite older than most mountains.",
+ "layers": [
+  {
+   "name": "BLACK MESA BASALT",
+   "age": "About 3 million years ago",
+   "short": "3 Myr",
+   "period": "Pliocene",
+   "kind": "volcanic",
+   "hook": "A lava cap on the high point",
+   "what": "Lava from volcanoes in New Mexico flowed across the Panhandle and cooled into hard black rock. It now caps Black Mesa, the highest ground in Oklahoma.",
+   "bonus": "The mesa top is 4,973 feet high, higher than any other spot in the state.",
+   "pins": [
+    [
+     "Black Mesa",
+     -102.99,
+     36.93
+    ]
+   ]
+  },
+  {
+   "name": "MORRISON FORMATION",
+   "age": "About 150 million years ago",
+   "short": "150 Myr",
+   "period": "Jurassic",
+   "kind": "mud",
+   "hook": "Dinosaur country in the Panhandle",
+   "what": "The same river mud that makes Colorado famous also reaches the tip of Oklahoma. Bones of long-necked sauropods have been dug from it near Kenton. Its colorful mud layers are easy to spot on the mesa slopes.",
+   "bonus": "The Panhandle sits at the edge of Morrison country, which stretches north to Montana.",
+   "pins": [
+    [
+     "Kenton",
+     -102.96,
+     36.9
+    ]
+   ]
+  },
+  {
+   "name": "BLAINE FORMATION",
+   "age": "About 270 million years ago",
+   "short": "270 Myr",
+   "period": "Permian",
+   "kind": "salt",
+   "hook": "Gypsum from a drying sea",
+   "what": "A salty sea dried out across this part of Oklahoma, leaving thick beds of gypsum and salt. Water later dissolved long caves in the soft rock, like Alabaster Caverns.",
+   "bonus": "Alabaster Caverns is one of the largest natural gypsum caves open to the public.",
+   "pins": [
+    [
+     "Alabaster Caverns",
+     -99.2,
+     36.7
+    ]
+   ]
+  },
+  {
+   "name": "ARBUCKLE GROUP",
+   "age": "About 480 million years ago",
+   "short": "480 Myr",
+   "period": "Ordovician",
+   "kind": "lime",
+   "hook": "A tropical reef under the south",
+   "what": "Thick limestone built up in a warm shallow sea in the Cambrian and Ordovician. It is folded into the Arbuckle Mountains, where Turner Falls spills over it.",
+   "bonus": "Turner Falls is the tallest waterfall in Oklahoma, at 77 feet.",
+   "pins": [
+    [
+     "Turner Falls",
+     -97.13,
+     34.43
+    ]
+   ]
+  },
+  {
+   "name": "MOUNT SCOTT GRANITE",
+   "age": "About 530 million years ago",
+   "short": "530 Myr",
+   "period": "Cambrian",
+   "kind": "granite",
+   "hook": "Magma from a failed rift",
+   "what": "When the continent started to split apart, molten rock welled up and cooled into pink granite. The Wichita Mountains are its worn-down stumps. Hikers can scramble over the bare pink boulders.",
+   "bonus": "Mount Scott rises 2,464 feet, and a wild bison herd roams the refuge below it.",
+   "pins": [
+    [
+     "Mount Scott",
+     -98.54,
+     34.72
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.ogs.ou.edu/",
+  "https://www.nps.gov/subjects/geology/oklahoma.htm"
+ ]
+}

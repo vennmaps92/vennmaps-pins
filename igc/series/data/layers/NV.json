@@ -1,0 +1,120 @@
+{
+ "ST": "NV",
+ "state": "Nevada",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "Nevada has been a giant lake, a silver-rich volcano and a sea full of 50-foot sea monsters.",
+ "layers": [
+  {
+   "name": "LAHONTAN TUFA",
+   "age": "About 15,000 years ago",
+   "short": "15K yrs",
+   "period": "Quaternary",
+   "kind": "lime",
+   "hook": "Towers built by an Ice Age lake",
+   "what": "During the Ice Age, giant Lake Lahontan covered much of northwest Nevada. Minerals in its water grew into strange limestone towers called tufa as springs bubbled up.",
+   "bonus": "Pyramid Lake, a leftover of Lahontan, still shows the towers along its shore.",
+   "pins": [
+    [
+     "Pyramid Lake",
+     -119.55,
+     40.0
+    ]
+   ]
+  },
+  {
+   "name": "COMSTOCK LODE",
+   "age": "About 14 million years ago",
+   "short": "14 Myr",
+   "period": "Miocene",
+   "kind": "volcanic",
+   "hook": "Silver in old volcano plumbing",
+   "what": "Hot water circulating through cracks in volcanic rock deposited veins of silver and gold. The ore sat hidden until miners found it in 1859 at Virginia City.",
+   "bonus": "Its riches helped fund the Union side of the Civil War and made Nevada a state in 1864.",
+   "pins": [
+    [
+     "Virginia City",
+     -119.65,
+     39.31
+    ]
+   ]
+  },
+  {
+   "name": "AZTEC SANDSTONE",
+   "age": "About 190 million years ago",
+   "short": "190 Myr",
+   "period": "Jurassic",
+   "kind": "sand",
+   "hook": "A desert bigger than the Sahara",
+   "what": "Huge sand dunes once blew across the Southwest, and their wind-swept slopes turned to stone. The iron in the grains stains the cliffs red, orange and white.",
+   "bonus": "Valley of Fire and Red Rock Canyon, both near Las Vegas, are carved from it.",
+   "pins": [
+    [
+     "Valley of Fire",
+     -114.51,
+     36.43
+    ],
+    [
+     "Red Rock Canyon",
+     -115.43,
+     36.13
+    ]
+   ]
+  },
+  {
+   "name": "LUNING FORMATION",
+   "age": "About 225 million years ago",
+   "short": "225 Myr",
+   "period": "Triassic",
+   "kind": "lime",
+   "hook": "Home of the sea monsters",
+   "what": "A warm shallow sea covered central Nevada. Giant ichthyosaurs, swimming reptiles that could pass 50 feet long, died here and were buried in limy mud that hardened to stone.",
+   "bonus": "Berlin-Ichthyosaur State Park protects a quarry of them, and Nevada's state fossil is one.",
+   "pins": [
+    [
+     "Berlin-Ichthyosaur",
+     -117.6,
+     38.87
+    ]
+   ]
+  },
+  {
+   "name": "POLE CANYON LIMESTONE",
+   "age": "About 500 million years ago",
+   "short": "500 Myr",
+   "period": "Cambrian",
+   "kind": "lime",
+   "hook": "A cave made from an ancient reef bed",
+   "what": "This limestone began as lime mud in a warm Cambrian sea. Heat and pressure later turned it partly to marble, and water slowly dissolved caves into it.",
+   "bonus": "Lehman Caves, in Great Basin National Park, is carved inside it.",
+   "pins": [
+    [
+     "Lehman Caves",
+     -114.22,
+     39.01
+    ]
+   ]
+  },
+  {
+   "name": "THE BASEMENT",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "The oldest rock in the state",
+   "what": "Far beneath Nevada lies Precambrian gneiss and schist, baked and squeezed deep in the crust. Faulting has lifted some of it into view in the state's southeast corner.",
+   "bonus": "It is over three times older than the first animals with hard shells.",
+   "pins": [
+    [
+     "Gold Butte",
+     -114.25,
+     36.3
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://pubs.usgs.gov/",
+  "https://nbmg.unr.edu/",
+  "https://www.nps.gov/"
+ ]
+}

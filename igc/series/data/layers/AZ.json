@@ -1,0 +1,119 @@
+{
+ "ST": "AZ",
+ "state": "Arizona",
+ "cover_sub": "Dig down through 1.7 billion years",
+ "caption_hook": "Arizona has been a mountain range, a sea, a Sahara and a forest, all stacked in one canyon.",
+ "layers": [
+  {
+   "name": "SAN FRANCISCO PEAKS",
+   "age": "About 1 million years ago",
+   "short": "1 Myr",
+   "period": "Quaternary",
+   "kind": "volcanic",
+   "hook": "A volcano taller than any in Arizona",
+   "what": "A volcanic field around Flagstaff has erupted for about 6 million years. The largest volcano, built from lava and ash, was about 16,000 ft before it collapsed.",
+   "bonus": "Humphreys Peak, its remnant, is Arizona's highest point at 12,633 ft.",
+   "pins": [
+    [
+     "Humphreys Peak",
+     -111.68,
+     35.35
+    ]
+   ]
+  },
+  {
+   "name": "CHINLE FORMATION",
+   "age": "About 225 million years ago",
+   "short": "225 Myr",
+   "period": "Triassic",
+   "kind": "mud",
+   "hook": "A forest turned to stone",
+   "what": "Rivers once carried logs and ash across this floodplain. Buried logs were replaced by quartz and other minerals, and erosion now exposes the colorful, banded badlands.",
+   "bonus": "The Painted Desert gets its pastel stripes from this layer's clay.",
+   "pins": [
+    [
+     "Petrified Forest",
+     -109.8,
+     34.91
+    ]
+   ]
+  },
+  {
+   "name": "KAIBAB LIMESTONE",
+   "age": "About 270 million years ago",
+   "short": "270 Myr",
+   "period": "Permian",
+   "kind": "lime",
+   "hook": "Seafloor on the canyon's rim",
+   "what": "A warm shallow sea left this pale, cliff-forming limestone. It is full of sponges, shells and other sea life, and it forms the top of the Grand Canyon.",
+   "bonus": "Seashells sit on the rim at over 7,000 feet above sea level.",
+   "pins": [
+    [
+     "Grand Canyon Rim",
+     -112.11,
+     36.06
+    ],
+    [
+     "Meteor Crater",
+     -111.02,
+     35.03
+    ]
+   ]
+  },
+  {
+   "name": "REDWALL LIMESTONE",
+   "age": "About 340 million years ago",
+   "short": "340 Myr",
+   "period": "Mississippian",
+   "kind": "lime",
+   "hook": "The cliff that stops hikers",
+   "what": "This thick, hard limestone formed in a clear tropical sea. It stands as a sheer cliff roughly 500 feet high, stained red by iron washing down from the layers above.",
+   "bonus": "The red is only a stain: a fresh break shows gray rock underneath.",
+   "pins": [
+    [
+     "Marble Canyon",
+     -111.63,
+     36.81
+    ]
+   ]
+  },
+  {
+   "name": "TAPEATS SANDSTONE",
+   "age": "About 505 million years ago",
+   "short": "505 Myr",
+   "period": "Cambrian",
+   "kind": "sand",
+   "hook": "Beach sand from the first big sea",
+   "what": "A rising Cambrian sea flooded the land and left a blanket of beach sand. It rests directly on far older rock, with well over a billion years missing in between.",
+   "bonus": "That gap is the Great Unconformity, a name John Wesley Powell used here in 1869.",
+   "pins": [
+    [
+     "Phantom Ranch",
+     -112.09,
+     36.1
+    ]
+   ]
+  },
+  {
+   "name": "VISHNU BASEMENT",
+   "age": "About 1.7 billion years ago",
+   "short": "1.7 Byr",
+   "period": "Precambrian",
+   "kind": "meta",
+   "hook": "Mountain roots at the canyon floor",
+   "what": "At the bottom of the Grand Canyon, dark Vishnu Schist and pink granite are the roots of an ancient mountain range. The Colorado River cuts through them in the Inner Gorge.",
+   "bonus": "These rocks are about 40 percent as old as the Earth itself.",
+   "pins": [
+    [
+     "Inner Gorge",
+     -112.1,
+     36.09
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  "https://www.nps.gov/grca/learn/nature/geologicformations.htm",
+  "https://pubs.usgs.gov/"
+ ]
+}
