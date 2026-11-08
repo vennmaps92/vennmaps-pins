@@ -41,14 +41,14 @@ jobs:
         id: ig
         continue-on-error: true
         env:
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          BLOTATO_API_KEY: ${{ secrets.BLOTATO_API_KEY }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
         run: python ig/post_due.py
       - name: Post due Instagram carousels
         id: igc
         continue-on-error: true
         env:
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          BLOTATO_API_KEY: ${{ secrets.BLOTATO_API_KEY }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || 'false' }}
         run: python igc/post_due.py
       - name: Post due TikToks

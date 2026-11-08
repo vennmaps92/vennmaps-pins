@@ -1,12 +1,12 @@
-"""VennMaps automatic Instagram carousel (swipe) poster.
+"""VennMaps automatic Instagram carousel poster (via Blotato, since Nov 7 2026).
 
-Runs from GitHub Actions every 15 minutes, next to ig/post_due.py (Reels).
-Posts any carousel in igc/schedule.json whose time has come (up to 12 hours
-late) and records it in igc/posted.json.
+Runs from GitHub Actions. Hands each 5-slide carousel to Blotato up to 18 hours ahead
+with its exact time, or posts right away if already due (up to 12 hours late).
+Images live on the `reels` branch at c/<file>. Records results in igc/posted.json.
+The old direct Meta Graph API poster is kept as igc/post_due_graph.py.
 
-Images live on the `reels` branch at c/<file> (1080x1350 JPG).
-Pause: create igc/PAUSE on main.
-Dry run: creates the next carousel's containers and checks they process, no publish.
+Pause carousels only: create a file named igc/PAUSE on the main branch.
+Dry run: checks the API key and that Instagram is connected; posts nothing.
 """
 import datetime
 import json
@@ -17,31 +17,33 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-IG_USER = "17841414536676971"  # @vennmaps
-API = "https://graph.facebook.com/v23.0/"
-IMG_BASE = "https://raw.githubusercontent.com/vennmaps92/vennmaps-pins/reels/c/"
+API = "https://backend.blotato.com/v2/"
+ACCOUNT_ID = "84353"  # Instagram @vennmaps in Blotato
+VIDEO_BASE = "https://raw.githubusercontent.com/vennmaps92/vennmaps-pins/reels/v/"
 LATE_LIMIT_H = 12
-MAX_PER_RUN = 1
+MAX_PER_RUN = 6
+AHEAD_H = 18        # hand posts to Blotato up to 18 hours early; it publishes on the minute
+LABEL = "Instagram carousels"
 MAX_TRIES = 3
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-TOKEN = os.environ.get("IG_TOKEN", "").strip()
+KEY = os.environ.get("BLOTATO_API_KEY", "").strip()
 DRY = os.environ.get("DRY_RUN", "false").lower() == "true"
 
 
-def call(method, path, **params):
-    params["access_token"] = TOKEN
-    q = urllib.parse.urlencode(params)
-    url = API + path + ("?" + q if method == "GET" else "")
-    req = urllib.request.Request(url, data=None if method == "GET" else q.encode(), method=method)
+def call(method, path, body=None):
+    req = urllib.request.Request(API + path, method=method,
+                                 data=json.dumps(body).encode() if body is not None else None,
+                                 headers={"blotato-api-key": KEY, "Content-Type": "application/json",
+                                          "User-Agent": "vennmaps-poster"})
     try:
         with urllib.request.urlopen(req, timeout=90) as r:
-            return json.load(r)
+            return r.status, json.load(r)
     except urllib.error.HTTPError as e:
         try:
-            return json.load(e)
+            return e.code, json.load(e)
         except Exception:
-            return {"error": {"message": f"HTTP {e.code}"}}
+            return e.code, {"error": f"HTTP {e.code}"}
 
 
 def load(name, default):
@@ -54,48 +56,45 @@ def save(name, obj):
         json.dump(obj, f, indent=1, ensure_ascii=False)
 
 
-def wait_ready(cid):
-    for _ in range(40):  # up to ~10 minutes
-        s = call("GET", cid, fields="status_code")
-        code = s.get("status_code")
-        if code == "FINISHED":
-            return True, s
-        if code in ("ERROR", "EXPIRED"):
-            return False, s
-        time.sleep(5)
-    return False, {"error": {"message": "processing timed out"}}
+IMG_BASE = "https://raw.githubusercontent.com/vennmaps92/vennmaps-pins/reels/c/"
 
 
-def make_carousel(item):
-    kids = []
-    for img in item["images"]:
-        c = call("POST", IG_USER + "/media", image_url=IMG_BASE + urllib.parse.quote(img),
-                 is_carousel_item="true")
-        if "id" not in c:
-            return None, {"image": img, "resp": c}
-        kids.append(c["id"])
-    for k in kids:
-        ok, s = wait_ready(k)
-        if not ok:
-            return None, s
-    extra = {"location_id": item["location_id"]} if item.get("location_id") else {}
-    c = call("POST", IG_USER + "/media", media_type="CAROUSEL", children=",".join(kids),
-             caption=item["caption"], **extra)
-    if "id" not in c:
-        return None, c
-    ok, s = wait_ready(c["id"])
-    return (c["id"] if ok else None), s
+def body_for(item):
+    return {"post": {
+        "accountId": ACCOUNT_ID,
+        "content": {"text": item["caption"], "platform": "instagram",
+                    "mediaUrls": [IMG_BASE + urllib.parse.quote(i) for i in item["images"]]},
+        "target": {"targetType": "instagram"}}}
+
+def check_status(sub_id):
+    """One status check: returns ("posted"|"error"|"pending", info)."""
+    code, info = call("GET", "posts/" + sub_id)
+    if not isinstance(info, dict):
+        return "pending", {}
+    inner = info.get("post") if isinstance(info.get("post"), dict) else {}
+    st = str(info.get("status") or inner.get("status") or "").lower()
+    if "fail" in st or "error" in st:
+        return "error", info
+    if "publish" in st or info.get("publicUrl"):
+        return "posted", info
+    return "pending", info
 
 
 def main():
-    if not TOKEN:
-        sys.exit("IG_TOKEN secret is missing")
+    if not KEY:
+        sys.exit("BLOTATO_API_KEY secret is missing")
     if os.path.exists(os.path.join(HERE, "PAUSE")):
-        print("Paused (igc/PAUSE exists).")
+        print("Instagram carousels paused (igc/PAUSE exists).")
         return
-    me = call("GET", IG_USER, fields="username")
-    if "error" in me:
-        sys.exit("Token problem: " + me["error"].get("message", ""))
+
+    code, accts = call("GET", "users/me/accounts")
+    if code >= 400:
+        sys.exit(f"Blotato key problem: HTTP {code} {json.dumps(accts)[:300]}")
+    if ACCOUNT_ID not in json.dumps(accts):
+        sys.exit("Instagram account 84353 is not connected in Blotato")
+    if DRY:
+        print("DRY RUN: Blotato key OK, Instagram @vennmaps connected. Nothing posted.")
+        return
 
     schedule = load("schedule.json", [])
     posted = load("posted.json", {})
@@ -104,40 +103,55 @@ def main():
     def when(i):
         return datetime.datetime.strptime(i["when_utc"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=datetime.timezone.utc)
 
-    if DRY:
-        nxt = [i for i in schedule if i["key"] not in posted and when(i) > now - datetime.timedelta(hours=LATE_LIMIT_H)]
-        if not nxt:
-            print("Nothing upcoming.")
-            return
-        cid, info = make_carousel(nxt[0])
-        print(f"DRY RUN {nxt[0]['key']}: {'ready to publish' if cid else 'FAILED'} {json.dumps(info)[:300]}")
-        if not cid:
-            sys.exit(1)
-        return
-
-    due = [i for i in schedule
-           if i["key"] not in posted or (posted[i["key"]].get("status") == "error"
-                                         and posted[i["key"]].get("tries", 0) < MAX_TRIES)]
-    due = [i for i in due if now - datetime.timedelta(hours=LATE_LIMIT_H) <= when(i) <= now]
-    if not due:
-        print(f"@{me.get('username', '?')} no carousel due at {now:%Y-%m-%d %H:%M} UTC")
-        return
-
+    by_key = {i["key"]: i for i in schedule}
     failed = False
-    for item in due[:MAX_PER_RUN]:
+
+    # 1) Follow up on posts Blotato is holding or still processing.
+    for k, rec in list(posted.items()):
+        if rec.get("status") not in ("scheduled", "submitted") or not rec.get("submission_id") or k not in by_key:
+            continue
+        if now < when(by_key[k]) + datetime.timedelta(minutes=10):
+            continue
+        state, info = check_status(rec["submission_id"])
+        if state == "posted":
+            rec.update(status="posted", url=info.get("publicUrl") or info.get("url") or rec.get("url", ""))
+            print(f"CONFIRMED {k} {rec.get('url', '')}")
+        elif state == "error":
+            rec.update(status="error", tries=rec.get("tries", 0) + 1, last_error=json.dumps(info)[:400])
+            failed = True
+            print(f"FAILED {k}: {json.dumps(info)[:300]}")
+        posted[k] = rec
+    save("posted.json", posted)
+
+    # 2) Hand upcoming posts to Blotato with their exact time (or post now if already due).
+    todo = [i for i in schedule
+            if i["key"] not in posted or (posted[i["key"]].get("status") == "error"
+                                          and posted[i["key"]].get("tries", 0) < MAX_TRIES)]
+    todo = [i for i in todo if now - datetime.timedelta(hours=LATE_LIMIT_H) <= when(i) <= now + datetime.timedelta(hours=AHEAD_H)]
+    if not todo:
+        print(f"{LABEL}: nothing to queue at {now:%Y-%m-%d %H:%M} UTC")
+    for item in todo[:MAX_PER_RUN]:
         rec = posted.get(item["key"], {})
-        cid, info = make_carousel(item)
-        res = call("POST", IG_USER + "/media_publish", creation_id=cid) if cid else info
-        if cid and "id" in res:
-            link = call("GET", res["id"], fields="permalink").get("permalink", "")
-            posted[item["key"]] = {"status": "posted", "media_id": res["id"], "permalink": link,
-                                   "posted_utc": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-            print(f"POSTED {item['key']} {link}")
+        body = body_for(item)
+        future = when(item) > now + datetime.timedelta(minutes=3)
+        if future:
+            body["scheduledTime"] = item["when_utc"]
+        code, res = call("POST", "posts", body)
+        sub = res.get("postSubmissionId") if isinstance(res, dict) else None
+        if code < 300 and sub:
+            if future and not res.get("scheduledTime"):
+                posted[item["key"]] = {"status": "submitted", "submission_id": sub, "tries": rec.get("tries", 0),
+                                       "note": "Blotato did not confirm the schedule time; it may have posted early"}
+                save("posted.json", posted)
+                sys.exit(f"{LABEL}: Blotato did not confirm scheduledTime for {item['key']}; stopping to avoid early posts")
+            posted[item["key"]] = {"status": "scheduled" if future else "submitted", "submission_id": sub,
+                                   "for_local": item["when_local"], "tries": rec.get("tries", 0)}
+            print(f"{'SCHEDULED' if future else 'SUBMITTED'} {item['key']} for {item['when_local']}")
         else:
             failed = True
             posted[item["key"]] = {"status": "error", "tries": rec.get("tries", 0) + 1,
-                                   "last_error": json.dumps(res)[:400]}
-            print(f"FAILED {item['key']}: {json.dumps(res)[:400]}")
+                                   "last_error": f"HTTP {code} " + json.dumps(res)[:400]}
+            print(f"FAILED {item['key']}: HTTP {code} {json.dumps(res)[:400]}")
         save("posted.json", posted)
     if failed:
         sys.exit(1)
