@@ -21,10 +21,11 @@
   "url": "https://www.youtube.com/watch?v=XuJfTtUjn1M"
  },
  "2026-11-07_1700_UT_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "563caf40-36fe-4e9f-8f06-59160a08f708",
   "for_local": "2026-11-07 17:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=KESCHiVSK2w"
  },
  "2026-11-08_0900_MT_how_close_tiktok": {
   "status": "scheduled",

@@ -21,10 +21,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7705506364495269151"
  },
  "2026-11-07_1700_UT_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "77320c21-83b5-4a0b-8684-0e4c7e9c4b5e",
   "for_local": "2026-11-07 17:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7705583775731748127"
  },
  "2026-11-08_0900_MT_how_close_tiktok": {
   "status": "scheduled",
