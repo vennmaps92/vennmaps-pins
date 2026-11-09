@@ -39,5 +39,11 @@
   "submission_id": "b3738bf2-baac-4eaa-afeb-ad2dbdf7eb87",
   "for_local": "2026-11-08 19:00",
   "tries": 0
+ },
+ "2026-11-09_1200_VA_geology_strat_column_tiktok": {
+  "status": "scheduled",
+  "submission_id": "d2443611-38e4-40c7-bc2b-651354196c9e",
+  "for_local": "2026-11-09 12:00",
+  "tries": 0
  }
 }
