@@ -52,5 +52,11 @@
   "submission_id": "b4fe3f38-d70f-4aee-b7b6-8b781c78c266",
   "for_local": "2026-11-09 15:00",
   "tries": 0
+ },
+ "2026-11-09_1900_MD_vintage_tiktok": {
+  "status": "scheduled",
+  "submission_id": "c9ddf4c5-4852-403a-ab51-aa96515f3a73",
+  "for_local": "2026-11-09 19:00",
+  "tries": 0
  }
 }
