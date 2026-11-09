@@ -44,10 +44,11 @@
   "url": "https://www.instagram.com/reel/DfiCFS_FLBB/"
  },
  "2026-11-09_1500_AL_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "3289ad63-d999-4071-96c1-c1ff513e2fc0",
   "for_local": "2026-11-09 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DfiWqnmmQ0B/"
  },
  "2026-11-09_1900_MD_vintage_tiktok": {
   "status": "scheduled",
