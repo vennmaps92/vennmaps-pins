@@ -60,5 +60,11 @@
   "submission_id": "c9ddf4c5-4852-403a-ab51-aa96515f3a73",
   "for_local": "2026-11-09 19:00",
   "tries": 0
+ },
+ "2026-11-10_1200_OR_watershed_tiktok": {
+  "status": "scheduled",
+  "submission_id": "391b06a5-6774-48b8-9963-0a8bb20af4d6",
+  "for_local": "2026-11-10 12:00",
+  "tries": 0
  }
 }
