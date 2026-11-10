@@ -56,10 +56,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7706294912609733918"
  },
  "2026-11-09_1900_MD_vintage_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "85e30e95-cd54-4c39-aef4-cb67056e61de",
   "for_local": "2026-11-09 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7706356752719023391"
  },
  "2026-11-10_1200_OR_watershed_tiktok": {
   "status": "scheduled",

@@ -51,10 +51,11 @@
   "url": "https://www.instagram.com/reel/DfiWqnmmQ0B/"
  },
  "2026-11-09_1900_MD_vintage_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "82fef7be-e767-4612-83f9-4df81a6144ca",
   "for_local": "2026-11-09 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DfiyHxDmnF1/"
  },
  "2026-11-10_1200_OR_watershed_tiktok": {
   "status": "scheduled",
