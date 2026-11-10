@@ -73,5 +73,11 @@
   "submission_id": "bf2a95b4-37a3-42af-ae66-9c119d76805c",
   "for_local": "2026-11-10 15:00",
   "tries": 0
+ },
+ "2026-11-10_1900_NY_dig_a_hole_voiced_don_tiktok": {
+  "status": "scheduled",
+  "submission_id": "a9ee4a26-027c-468b-b09a-5df0493cdf32",
+  "for_local": "2026-11-10 19:00",
+  "tries": 0
  }
 }
