@@ -70,10 +70,11 @@
   "url": "https://www.youtube.com/watch?v=I6aO9udJx6Y"
  },
  "2026-11-10_1500_AZ_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "bf2a95b4-37a3-42af-ae66-9c119d76805c",
   "for_local": "2026-11-10 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=6pWk3Yy9jyU"
  },
  "2026-11-10_1900_NY_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",
