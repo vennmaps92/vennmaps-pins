@@ -58,10 +58,11 @@
   "url": "https://www.instagram.com/reel/DfiyHxDmnF1/"
  },
  "2026-11-10_1200_OR_watershed_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "882b97b8-384c-41c2-b40f-88228163586b",
   "for_local": "2026-11-10 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/Dfkm4NfHAp7/"
  },
  "2026-11-10_1500_AZ_historical_jessie": {
   "status": "scheduled",
