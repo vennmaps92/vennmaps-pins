@@ -84,10 +84,11 @@
   "url": "https://www.youtube.com/watch?v=5I_W4ty8AA8"
  },
  "2026-11-11_1200_IN_every_river_voiced_emma_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "9d705a5b-55f8-488e-a6f3-7f2a9bd0db75",
   "for_local": "2026-11-11 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=cOl9FuM7daA"
  },
  "2026-11-11_1500_CA_historical_jessie": {
   "status": "scheduled",
