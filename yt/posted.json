@@ -88,5 +88,11 @@
   "submission_id": "9d705a5b-55f8-488e-a6f3-7f2a9bd0db75",
   "for_local": "2026-11-11 12:00",
   "tries": 0
+ },
+ "2026-11-11_1500_CA_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "a782426e-5648-4e1f-a00e-12ffa276c7f5",
+  "for_local": "2026-11-11 15:00",
+  "tries": 0
  }
 }
