@@ -86,10 +86,11 @@
   "url": "https://www.instagram.com/reel/DfnLtLimKpI/"
  },
  "2026-11-11_1500_CA_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "44dc65d0-290e-4988-95ce-51f98b2c96d7",
   "for_local": "2026-11-11 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DfngRqhEsPr/"
  },
  "2026-11-11_1900_UT_then_vs_now_voiced_jessie_tiktok": {
   "status": "scheduled",

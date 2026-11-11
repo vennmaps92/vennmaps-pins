@@ -91,10 +91,11 @@
   "url": "https://www.youtube.com/watch?v=cOl9FuM7daA"
  },
  "2026-11-11_1500_CA_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "a782426e-5648-4e1f-a00e-12ffa276c7f5",
   "for_local": "2026-11-11 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=uj24lozZEYQ"
  },
  "2026-11-11_1900_UT_then_vs_now_voiced_jessie_tiktok": {
   "status": "scheduled",
