@@ -94,5 +94,11 @@
   "submission_id": "c3928b07-7eda-402a-861e-28fa68d0d25e",
   "for_local": "2026-11-11 15:00",
   "tries": 0
+ },
+ "2026-11-11_1900_UT_then_vs_now_voiced_jessie_tiktok": {
+  "status": "scheduled",
+  "submission_id": "6aadadaf-33de-4bfd-a71b-24f4afeb2f15",
+  "for_local": "2026-11-11 19:00",
+  "tries": 0
  }
 }
