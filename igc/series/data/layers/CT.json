@@ -57,13 +57,13 @@
   },
   {
    "name": "STONY CREEK GRANITE",
-   "age": "About 300 million years ago",
-   "short": "300 Myr",
-   "period": "Pennsylvanian",
+   "age": "About 360 million years ago",
+   "short": "360 Myr",
+   "period": "Devonian",
    "kind": "granite",
    "hook": "Pink granite from the shore",
-   "what": "When Africa slammed into North America, hot magma cooled underground into pink granite. Quarried at Stony Creek in Branford, it was cut and shipped to help build landmarks in New York City.",
-   "bonus": "Its stone was chosen again for the Statue of Liberty Museum, which opened in 2019.",
+   "what": "Magma cooled slowly underground into pink granite. When Africa later slammed into North America, the heat partly remelted it. Quarried at Stony Creek in Branford, it was shipped off to build landmarks in New York City.",
+   "bonus": "It forms the base of the Statue of Liberty, and was chosen again for the Statue of Liberty Museum in 2019.",
    "pins": [
     [
      "Stony Creek",
