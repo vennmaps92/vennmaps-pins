@@ -109,5 +109,11 @@
   "submission_id": "363b218b-1771-4f9b-920b-035ab1149b0b",
   "for_local": "2026-11-12 12:00",
   "tries": 0
+ },
+ "2026-11-12_1500_CO_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "25571999-b664-4b05-a116-89fccab256a2",
+  "for_local": "2026-11-12 15:00",
+  "tries": 0
  }
 }
