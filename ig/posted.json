@@ -107,10 +107,11 @@
   "url": "https://www.instagram.com/reel/DfpwgLOin4e/"
  },
  "2026-11-12_1500_CO_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "536b6c76-fccb-49f0-9bf9-2684a4591334",
   "for_local": "2026-11-12 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DfqFDhbE8RT/"
  },
  "2026-11-12_1900_WY_how_close_tiktok": {
   "status": "scheduled",

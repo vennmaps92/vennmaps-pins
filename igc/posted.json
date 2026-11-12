@@ -26,5 +26,11 @@
   "for_local": "2026-11-12 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/Dfpb-A6lJ6L/"
+ },
+ "2026-11-13_0900_TX_carousel": {
+  "status": "scheduled",
+  "submission_id": "c56b76a1-1bef-4afc-b0dd-e30f88f93916",
+  "for_local": "2026-11-13 09:00",
+  "tries": 0
  }
 }
