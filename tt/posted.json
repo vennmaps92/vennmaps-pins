@@ -115,5 +115,11 @@
   "submission_id": "4f082745-8549-4896-973a-156b0bf4d7cb",
   "for_local": "2026-11-12 15:00",
   "tries": 0
+ },
+ "2026-11-12_1900_WY_how_close_tiktok": {
+  "status": "scheduled",
+  "submission_id": "7e2d0fad-9fb8-4050-bf91-f8864c7bdefa",
+  "for_local": "2026-11-12 19:00",
+  "tries": 0
  }
 }
