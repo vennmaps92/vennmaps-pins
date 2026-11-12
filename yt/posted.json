@@ -105,10 +105,11 @@
   "url": "https://www.youtube.com/watch?v=XPx09-hKpG0"
  },
  "2026-11-12_1200_NM_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "363b218b-1771-4f9b-920b-035ab1149b0b",
   "for_local": "2026-11-12 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=Wau-Or0V_Zo"
  },
  "2026-11-12_1500_CO_historical_jessie": {
   "status": "scheduled",

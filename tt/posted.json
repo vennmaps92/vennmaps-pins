@@ -105,10 +105,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7707098911189732622"
  },
  "2026-11-12_1200_NM_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "4e31e713-2f5b-49d0-b64f-380899b19674",
   "for_local": "2026-11-12 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7707362017908100382"
  },
  "2026-11-12_1500_CO_historical_jessie": {
   "status": "scheduled",

@@ -100,10 +100,11 @@
   "url": "https://www.instagram.com/reel/Dfn7z_WjVT3/"
  },
  "2026-11-12_1200_NM_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "0725dc46-b1f8-4016-8970-5dd77cf2c21f",
   "for_local": "2026-11-12 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DfpwgLOin4e/"
  },
  "2026-11-12_1500_CO_historical_jessie": {
   "status": "scheduled",
