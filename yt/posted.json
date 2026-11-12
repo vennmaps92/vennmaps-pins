@@ -102,5 +102,11 @@
   "submission_id": "55ffe929-6678-417a-8bbe-d8e46ccbf8cf",
   "for_local": "2026-11-11 19:00",
   "tries": 0
+ },
+ "2026-11-12_1200_NM_loading_reveal_tiktok": {
+  "status": "scheduled",
+  "submission_id": "363b218b-1771-4f9b-920b-035ab1149b0b",
+  "for_local": "2026-11-12 12:00",
+  "tries": 0
  }
 }
