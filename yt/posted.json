@@ -98,10 +98,11 @@
   "url": "https://www.youtube.com/watch?v=uj24lozZEYQ"
  },
  "2026-11-11_1900_UT_then_vs_now_voiced_jessie_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "55ffe929-6678-417a-8bbe-d8e46ccbf8cf",
   "for_local": "2026-11-11 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=XPx09-hKpG0"
  },
  "2026-11-12_1200_NM_loading_reveal_tiktok": {
   "status": "scheduled",
