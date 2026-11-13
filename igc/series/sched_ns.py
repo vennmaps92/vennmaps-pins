@@ -67,8 +67,15 @@ def hook(code, st, m):
                    f"Swipe to see which basin your town drains to. Did you know? \U0001F447")
         return txt, "#rivers"
 
+REELS = set()
+if os.path.exists(f"{REPO}/ig/schedule.json"):
+    REELS = {i["when_local"] for i in json.load(open(f"{REPO}/ig/schedule.json"))}
+elif os.path.exists("/tmp/ig_schedule.json"):
+    REELS = {i["when_local"] for i in json.load(open("/tmp/ig_schedule.json"))}
+
 def stamp(d):
-    loc = dt.datetime(d.year, d.month, d.day, 17, 0, tzinfo=den)
+    hr = 18 if f"{d} 17:00" in REELS else 17      # Saturdays where a reel already has 5 PM: carousel at 6 PM
+    loc = dt.datetime(d.year, d.month, d.day, hr, 0, tzinfo=den)
     return loc.strftime("%Y-%m-%d %H:%M"), loc.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 new = []; day = dt.date(2026, 11, 16)
@@ -84,7 +91,7 @@ for i in range(4 * len(order)):
     cap += ETSY if shop else f"Want {gen.NAMES[st]} in the shop? Comment below. 31 other states are already on Etsy: VennMaps (link in bio)."
     cap += f"\n\nMap data: {credit[st]}\n\n#{tag[st]} #geology {t2} #wallart #vennmaps"
     lw, lu = stamp(day)
-    new.append(dict(key=f"{day}_1700_{st}_{code}", state=st, series=label, shop=shop, when_local=lw, when_utc=lu,
+    new.append(dict(key=f"{day}_{lw[11:13]}00_{st}_{code}", state=st, series=label, shop=shop, when_local=lw, when_utc=lu,
                     holiday=hol, images=files, caption=cap))
     day += dt.timedelta(days=1)
 
