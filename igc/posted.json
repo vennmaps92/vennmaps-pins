@@ -33,5 +33,11 @@
   "for_local": "2026-11-13 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/DfsAw4roBj-/"
+ },
+ "2026-11-14_0900_GA-FL_faceoff": {
+  "status": "scheduled",
+  "submission_id": "ecd62119-cdce-4805-a638-67abedc29fe4",
+  "for_local": "2026-11-14 09:00",
+  "tries": 0
  }
 }
