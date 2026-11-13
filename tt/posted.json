@@ -123,5 +123,11 @@
   "submission_id": "7e2d0fad-9fb8-4050-bf91-f8864c7bdefa",
   "for_local": "2026-11-12 19:00",
   "tries": 0
+ },
+ "2026-11-13_1200_OH_geology_legend_tiktok": {
+  "status": "scheduled",
+  "submission_id": "dc8f6155-c63f-459c-a1a5-9ba26a015442",
+  "for_local": "2026-11-13 12:00",
+  "tries": 0
  }
 }
