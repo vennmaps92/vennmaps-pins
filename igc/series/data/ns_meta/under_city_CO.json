@@ -1,0 +1,59 @@
+{
+ "st": "CO",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Denver",
+   "pop": 729019,
+   "rock": "Eolian deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Colorado Springs",
+   "pop": 493554,
+   "rock": "Denver Formation or lower part of Dawson Arkose…",
+   "age": "56 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fort Collins",
+   "pop": 170924,
+   "rock": "Older gravels and alluviums",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Pueblo",
+   "pop": 111166,
+   "rock": "Modern alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Boulder",
+   "pop": 106803,
+   "rock": "Upper unit of the Pierre Shale",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Castle Rock",
+   "pop": 83213,
+   "rock": "Green Mountain Conglomerate and equivalents",
+   "age": "34 million to 66 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "CO_uc_1.jpg",
+  "CO_uc_2.jpg",
+  "CO_uc_3.jpg",
+  "CO_uc_4.jpg",
+  "CO_uc_5.jpg",
+  "CO_uc_6.jpg",
+  "CO_uc_7.jpg",
+  "CO_uc_8.jpg",
+  "CO_uc_8_holiday.jpg"
+ ]
+}

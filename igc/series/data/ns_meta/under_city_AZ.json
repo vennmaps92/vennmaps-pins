@@ -1,0 +1,59 @@
+{
+ "st": "AZ",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Phoenix",
+   "pop": 1673164,
+   "rock": "Late and middle Pleistocene surficial…",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Tucson",
+   "pop": 554013,
+   "rock": "Early Pleistocene to latest Pliocene s…",
+   "age": "10 thousand to 5 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Mesa",
+   "pop": 517151,
+   "rock": "Holocene surficial deposits",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Surprise",
+   "pop": 167564,
+   "rock": "Late and middle Pleistocene surficial…",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Goodyear",
+   "pop": 118186,
+   "rock": "Holocene surficial deposits",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Yuma",
+   "pop": 103559,
+   "rock": "Quaternary surficial deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "AZ_uc_1.jpg",
+  "AZ_uc_2.jpg",
+  "AZ_uc_3.jpg",
+  "AZ_uc_4.jpg",
+  "AZ_uc_5.jpg",
+  "AZ_uc_6.jpg",
+  "AZ_uc_7.jpg",
+  "AZ_uc_8.jpg",
+  "AZ_uc_8_holiday.jpg"
+ ]
+}

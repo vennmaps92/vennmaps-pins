@@ -1,0 +1,28 @@
+{
+ "st": "DE",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Delaware-Mid Atlantic Coastal",
+   "pct": 64.5,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  },
+  {
+   "title": "Lower Chesapeake",
+   "pct": 26.6,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  },
+  {
+   "title": "Upper Chesapeake",
+   "pct": 8.9,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  }
+ ],
+ "files": [
+  "DE_rg_1.jpg",
+  "DE_rg_2.jpg",
+  "DE_rg_3.jpg",
+  "DE_rg_4.jpg",
+  "DE_rg_5.jpg"
+ ]
+}

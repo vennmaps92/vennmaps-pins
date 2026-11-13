@@ -1,0 +1,59 @@
+{
+ "st": "MD",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Baltimore",
+   "pop": 568271,
+   "rock": "Lowland Deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Frederick",
+   "pop": 89537,
+   "rock": "Frederick Limestone",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Gaithersburg",
+   "pop": 70686,
+   "rock": "Wissahickon Formation",
+   "age": "More than 540 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bowie",
+   "pop": 58421,
+   "rock": "Aquia Formation of the Pamunkey Group",
+   "age": "About 61 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Salisbury",
+   "pop": 33616,
+   "rock": "Quaternary Deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Westminster",
+   "pop": 20662,
+   "rock": "Wissahickon Formation",
+   "age": "More than 540 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "MD_uc_1.jpg",
+  "MD_uc_2.jpg",
+  "MD_uc_3.jpg",
+  "MD_uc_4.jpg",
+  "MD_uc_5.jpg",
+  "MD_uc_6.jpg",
+  "MD_uc_7.jpg",
+  "MD_uc_8.jpg",
+  "MD_uc_8_holiday.jpg"
+ ]
+}

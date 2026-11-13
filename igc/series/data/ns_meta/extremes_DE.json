@@ -1,0 +1,43 @@
+{
+ "st": "DE",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "449 ft",
+   "sub": "Ebright Azimuth"
+  },
+  "qa": {
+   "high_gnis_km": "fixed",
+   "high_dem_ft": 451,
+   "high_off_ft": 449,
+   "low_dem_ft": -4,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Atlantic Ocean"
+  },
+  "oldest": {
+   "name": "Wissahickon Formation (Undivided) of the Glenarm",
+   "age": "More than 540 million years old",
+   "colour": "#c8c4ba",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Wissahickon Schist of the Glenarm Series",
+   "age": "250 million to 540 million years old",
+   "colour": "#9ba9bb",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  }
+ },
+ "files": [
+  "DE_ex_1.jpg",
+  "DE_ex_2.jpg",
+  "DE_ex_3.jpg",
+  "DE_ex_4.jpg",
+  "DE_ex_5.jpg",
+  "DE_ex_6.jpg"
+ ]
+}

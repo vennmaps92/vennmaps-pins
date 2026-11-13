@@ -1,0 +1,58 @@
+{
+ "st": "NE",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Omaha",
+   "pop": 489265,
+   "rock": "Kansas City Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lincoln",
+   "pop": 300619,
+   "rock": "Dakota Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Grand Island",
+   "pop": 53250,
+   "rock": "Niobrara Formation of the Colorado Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Kearney",
+   "pop": 34741,
+   "rock": "Ogallala Group",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fremont",
+   "pop": 28190,
+   "rock": "Dakota Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Norfolk",
+   "pop": 26162,
+   "rock": "Niobrara Formation of the Colorado Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NE_uc_1.jpg",
+  "NE_uc_2.jpg",
+  "NE_uc_3.jpg",
+  "NE_uc_4.jpg",
+  "NE_uc_5.jpg",
+  "NE_uc_6.jpg",
+  "NE_uc_7.jpg",
+  "NE_uc_8.jpg"
+ ]
+}

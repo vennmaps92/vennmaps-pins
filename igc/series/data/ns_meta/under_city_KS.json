@@ -1,0 +1,58 @@
+{
+ "st": "KS",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Wichita",
+   "pop": 400991,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Overland Park",
+   "pop": 202893,
+   "rock": "Kansas City Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Topeka",
+   "pop": 125467,
+   "rock": "Wabaunsee Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lawrence",
+   "pop": 97271,
+   "rock": "Shawnee Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Manhattan",
+   "pop": 54700,
+   "rock": "Admire Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Salina",
+   "pop": 46109,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "KS_uc_1.jpg",
+  "KS_uc_2.jpg",
+  "KS_uc_3.jpg",
+  "KS_uc_4.jpg",
+  "KS_uc_5.jpg",
+  "KS_uc_6.jpg",
+  "KS_uc_7.jpg",
+  "KS_uc_8.jpg"
+ ]
+}

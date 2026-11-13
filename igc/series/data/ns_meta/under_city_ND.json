@@ -1,0 +1,58 @@
+{
+ "st": "ND",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Fargo",
+   "pop": 136285,
+   "rock": "Belle Fourche Fm., Mowry Fm. and equivalents",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bismarck",
+   "pop": 77772,
+   "rock": "Hell Creek Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Grand Forks",
+   "pop": 59845,
+   "rock": "Winnipeg Group",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Minot",
+   "pop": 47440,
+   "rock": "Cannonball Formation",
+   "age": "About 61 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Williston",
+   "pop": 28821,
+   "rock": "Bullion Creek Formation",
+   "age": "About 61 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Dickinson",
+   "pop": 25695,
+   "rock": "Sentinel Butte Formation",
+   "age": "About 61 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "ND_uc_1.jpg",
+  "ND_uc_2.jpg",
+  "ND_uc_3.jpg",
+  "ND_uc_4.jpg",
+  "ND_uc_5.jpg",
+  "ND_uc_6.jpg",
+  "ND_uc_7.jpg",
+  "ND_uc_8.jpg"
+ ]
+}

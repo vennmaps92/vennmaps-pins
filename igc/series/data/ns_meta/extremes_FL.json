@@ -1,0 +1,44 @@
+{
+ "st": "FL",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "345 ft",
+   "sub": "Britton Hill"
+  },
+  "qa": {
+   "high_gnis_km": 546.8,
+   "high_dem_ft": 452,
+   "high_off_ft": 345,
+   "low_dem_ft": -31,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Atlantic Ocean and Gulf of Mexico"
+  },
+  "oldest": {
+   "name": "Ocala Limestone",
+   "age": "34 million to 56 million years old",
+   "colour": "#d7c081",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  },
+  "youngest": {
+   "name": "Miami Limestone",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#f0eace",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  }
+ },
+ "files": [
+  "FL_ex_1.jpg",
+  "FL_ex_2.jpg",
+  "FL_ex_3.jpg",
+  "FL_ex_4.jpg",
+  "FL_ex_5.jpg",
+  "FL_ex_6.jpg",
+  "FL_ex_6_holiday.jpg"
+ ]
+}

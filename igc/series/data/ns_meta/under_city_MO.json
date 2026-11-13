@@ -1,0 +1,59 @@
+{
+ "st": "MO",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Kansas City",
+   "pop": 516032,
+   "rock": "Alluvium",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "St. Louis",
+   "pop": 279695,
+   "rock": "St. Louis Ls., Salem Fm. and equivalents",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Springfield",
+   "pop": 170596,
+   "rock": "Warsaw Fm., Keokuk Ls. and equivalents",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Columbia",
+   "pop": 130900,
+   "rock": "Basal Pennsylvanian",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "O'Fallon",
+   "pop": 95355,
+   "rock": "St. Louis Ls., Salem Fm. and equivalents",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "St. Joseph",
+   "pop": 71098,
+   "rock": "Lansing Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "MO_uc_1.jpg",
+  "MO_uc_2.jpg",
+  "MO_uc_3.jpg",
+  "MO_uc_4.jpg",
+  "MO_uc_5.jpg",
+  "MO_uc_6.jpg",
+  "MO_uc_7.jpg",
+  "MO_uc_8.jpg",
+  "MO_uc_8_holiday.jpg"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "st": "MN",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 57.5,
+   "via": "Down the Mississippi River to the Gulf. Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Hudson Bay",
+   "pct": 34.3,
+   "via": "North through Lake Winnipeg to Hudson Bay in Canada."
+  },
+  {
+   "title": "Atlantic Ocean",
+   "pct": 7.2,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  }
+ ],
+ "files": [
+  "MN_rg_1.jpg",
+  "MN_rg_2.jpg",
+  "MN_rg_3.jpg",
+  "MN_rg_4.jpg",
+  "MN_rg_5.jpg",
+  "MN_rg_5_holiday.jpg"
+ ]
+}

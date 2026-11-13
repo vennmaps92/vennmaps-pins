@@ -1,0 +1,23 @@
+{
+ "st": "MO",
+ "n": 7,
+ "route": "I-44",
+ "miles": 292,
+ "start": "Oklahoma",
+ "end": "Illinois",
+ "qa": {
+  "route": "I-44",
+  "chain_km": 470,
+  "left_km": 0
+ },
+ "files": [
+  "MO_dt_1.jpg",
+  "MO_dt_2.jpg",
+  "MO_dt_3.jpg",
+  "MO_dt_4.jpg",
+  "MO_dt_5.jpg",
+  "MO_dt_6.jpg",
+  "MO_dt_7.jpg",
+  "MO_dt_7_holiday.jpg"
+ ]
+}

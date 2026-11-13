@@ -1,0 +1,23 @@
+{
+ "st": "NM",
+ "n": 7,
+ "route": "I-25",
+ "miles": 464,
+ "start": "Colorado",
+ "end": null,
+ "qa": {
+  "route": "I-25",
+  "chain_km": 746,
+  "left_km": 0
+ },
+ "files": [
+  "NM_dt_1.jpg",
+  "NM_dt_2.jpg",
+  "NM_dt_3.jpg",
+  "NM_dt_4.jpg",
+  "NM_dt_5.jpg",
+  "NM_dt_6.jpg",
+  "NM_dt_7.jpg",
+  "NM_dt_7_holiday.jpg"
+ ]
+}

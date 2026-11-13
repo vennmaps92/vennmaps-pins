@@ -1,0 +1,41 @@
+{
+ "st": "IL",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Lower Illinois",
+   "pct": 31.8,
+   "via": "Down the Mississippi River to the Gulf."
+  },
+  {
+   "title": "Upper Mississippi-Kaskaskia-Meramec",
+   "pct": 17.9,
+   "via": "Down the Mississippi River to the Gulf."
+  },
+  {
+   "title": "Wabash",
+   "pct": 15.4,
+   "via": "Down the Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Upper Illinois",
+   "pct": 12.0,
+   "via": "Down the Mississippi River to the Gulf."
+  },
+  {
+   "title": "Rock",
+   "pct": 9.4,
+   "via": "Down the Mississippi River to the Gulf."
+  }
+ ],
+ "files": [
+  "IL_rg_1.jpg",
+  "IL_rg_2.jpg",
+  "IL_rg_3.jpg",
+  "IL_rg_4.jpg",
+  "IL_rg_5.jpg",
+  "IL_rg_6.jpg",
+  "IL_rg_7.jpg",
+  "IL_rg_7_holiday.jpg"
+ ]
+}

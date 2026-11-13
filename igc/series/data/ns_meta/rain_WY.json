@@ -1,0 +1,35 @@
+{
+ "st": "WY",
+ "n": 6,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 69.8,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Gulf of California",
+   "pct": 21.4,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Pacific Ocean",
+   "pct": 5.2,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  },
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 1.5,
+   "via": "Into the Great Basin, where it dries up or soaks in."
+  }
+ ],
+ "files": [
+  "WY_rg_1.jpg",
+  "WY_rg_2.jpg",
+  "WY_rg_3.jpg",
+  "WY_rg_4.jpg",
+  "WY_rg_5.jpg",
+  "WY_rg_6.jpg",
+  "WY_rg_6_holiday.jpg"
+ ]
+}

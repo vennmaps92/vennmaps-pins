@@ -1,0 +1,40 @@
+{
+ "st": "MS",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Lower Mississippi-Yazoo",
+   "pct": 28.8,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Pascagoula",
+   "pct": 21.7,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  },
+  {
+   "title": "Pearl",
+   "pct": 16.3,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  },
+  {
+   "title": "Lower Mississippi-Big Black",
+   "pct": 14.4,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Mobile-Tombigbee",
+   "pct": 12.7,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  }
+ ],
+ "files": [
+  "MS_rg_1.jpg",
+  "MS_rg_2.jpg",
+  "MS_rg_3.jpg",
+  "MS_rg_4.jpg",
+  "MS_rg_5.jpg",
+  "MS_rg_6.jpg",
+  "MS_rg_7.jpg"
+ ]
+}

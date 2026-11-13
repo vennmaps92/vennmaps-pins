@@ -1,0 +1,43 @@
+{
+ "st": "MS",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "807 ft",
+   "sub": "Woodall Mountain"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 806,
+   "high_off_ft": 807,
+   "low_dem_ft": -3,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Gulf of Mexico"
+  },
+  "oldest": {
+   "name": "Chattanooga Shale",
+   "age": "About 390 million years old",
+   "colour": "#8e9fb6",
+   "label": "Shale and mudstone",
+   "story": "Mud settled in quiet water and slowly hardened into stone."
+  },
+  "youngest": {
+   "name": "Vicksburg Group and Chickasawhay Limestone",
+   "age": "23 million to 34 million years old",
+   "colour": "#d4ac3e",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  }
+ },
+ "files": [
+  "MS_ex_1.jpg",
+  "MS_ex_2.jpg",
+  "MS_ex_3.jpg",
+  "MS_ex_4.jpg",
+  "MS_ex_5.jpg",
+  "MS_ex_6.jpg"
+ ]
+}

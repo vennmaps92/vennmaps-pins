@@ -1,0 +1,43 @@
+{
+ "st": "ND",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "3,506 ft",
+   "sub": "White Butte"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 3506,
+   "high_off_ft": 3506,
+   "low_dem_ft": 753,
+   "low_off_ft": 750
+  },
+  "low": {
+   "value": "750 ft",
+   "sub": "Red River at the Manitoba border"
+  },
+  "oldest": {
+   "name": "Precambrian Rocks",
+   "age": "More than 540 million years old",
+   "colour": "#a58a8f",
+   "label": "Bedrock",
+   "story": "Layer on layer of ancient rock, stacked over millions of years."
+  },
+  "youngest": {
+   "name": "White River Group and equivalents",
+   "age": "3 million to 34 million years old",
+   "colour": "#e9dcb9",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "ND_ex_1.jpg",
+  "ND_ex_2.jpg",
+  "ND_ex_3.jpg",
+  "ND_ex_4.jpg",
+  "ND_ex_5.jpg",
+  "ND_ex_6.jpg"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "st": "NC",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "6,684 ft",
+   "sub": "Mount Mitchell"
+  },
+  "qa": {
+   "high_gnis_km": 113.0,
+   "high_dem_ft": 6644,
+   "high_off_ft": 6684,
+   "low_dem_ft": -247,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Atlantic Ocean"
+  },
+  "oldest": {
+   "name": "Great Smoky Group of the Ocoee Supergroup",
+   "age": "More than 540 million years old",
+   "colour": "#c8c4ba",
+   "label": "Bedrock",
+   "story": "Layer on layer of ancient rock, stacked over millions of years."
+  },
+  "youngest": {
+   "name": "Shirley Formation",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#c8c4ba",
+   "label": "Young sediment",
+   "story": "Sand, silt and clay laid down in the last few million years, much of it still loose."
+  }
+ },
+ "files": [
+  "NC_ex_1.jpg",
+  "NC_ex_2.jpg",
+  "NC_ex_3.jpg",
+  "NC_ex_4.jpg",
+  "NC_ex_5.jpg",
+  "NC_ex_6.jpg",
+  "NC_ex_6_holiday.jpg"
+ ]
+}

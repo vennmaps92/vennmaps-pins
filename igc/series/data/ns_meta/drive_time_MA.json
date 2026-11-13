@@ -1,0 +1,23 @@
+{
+ "st": "MA",
+ "n": 7,
+ "route": "I-90",
+ "miles": 138,
+ "start": "New York",
+ "end": null,
+ "qa": {
+  "route": "I-90",
+  "chain_km": 221,
+  "left_km": 0
+ },
+ "files": [
+  "MA_dt_1.jpg",
+  "MA_dt_2.jpg",
+  "MA_dt_3.jpg",
+  "MA_dt_4.jpg",
+  "MA_dt_5.jpg",
+  "MA_dt_6.jpg",
+  "MA_dt_7.jpg",
+  "MA_dt_7_holiday.jpg"
+ ]
+}

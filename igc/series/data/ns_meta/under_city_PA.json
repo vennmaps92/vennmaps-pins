@@ -1,0 +1,59 @@
+{
+ "st": "PA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Philadelphia",
+   "pop": 1573916,
+   "rock": "Pensauken and Bridgeton Formations",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Pittsburgh",
+   "pop": 307668,
+   "rock": "Casselman Formation of the Conemaugh Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Allentown",
+   "pop": 127138,
+   "rock": "Allentown Formation",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Reading",
+   "pop": 96000,
+   "rock": "Millbach Formation",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Erie",
+   "pop": 92940,
+   "rock": "Northeast Shale",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Scranton",
+   "pop": 75905,
+   "rock": "Llewellyn Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "PA_uc_1.jpg",
+  "PA_uc_2.jpg",
+  "PA_uc_3.jpg",
+  "PA_uc_4.jpg",
+  "PA_uc_5.jpg",
+  "PA_uc_6.jpg",
+  "PA_uc_7.jpg",
+  "PA_uc_8.jpg",
+  "PA_uc_8_holiday.jpg"
+ ]
+}

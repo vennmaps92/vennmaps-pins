@@ -1,0 +1,59 @@
+{
+ "st": "AL",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Huntsville",
+   "pop": 230402,
+   "rock": "Tuscumbia Limestone",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Mobile",
+   "pop": 201367,
+   "rock": "Alluvial, coastal and low terrace depo…",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Birmingham",
+   "pop": 196357,
+   "rock": "Ketona Dolomite (Cambrian) b",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Montgomery",
+   "pop": 195818,
+   "rock": "Mooreville Chalk of the Selma Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Tuscaloosa",
+   "pop": 114288,
+   "rock": "High terrace deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Auburn",
+   "pop": 83757,
+   "rock": "Manchester Schist of the Pine Mountain Group",
+   "age": "More than 250 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "AL_uc_1.jpg",
+  "AL_uc_2.jpg",
+  "AL_uc_3.jpg",
+  "AL_uc_4.jpg",
+  "AL_uc_5.jpg",
+  "AL_uc_6.jpg",
+  "AL_uc_7.jpg",
+  "AL_uc_8.jpg",
+  "AL_uc_8_holiday.jpg"
+ ]
+}

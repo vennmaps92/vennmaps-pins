@@ -1,0 +1,23 @@
+{
+ "st": "SC",
+ "n": 7,
+ "route": "I-26",
+ "miles": 221,
+ "start": "North Carolina",
+ "end": null,
+ "qa": {
+  "route": "I-26",
+  "chain_km": 356,
+  "left_km": 0
+ },
+ "files": [
+  "SC_dt_1.jpg",
+  "SC_dt_2.jpg",
+  "SC_dt_3.jpg",
+  "SC_dt_4.jpg",
+  "SC_dt_5.jpg",
+  "SC_dt_6.jpg",
+  "SC_dt_7.jpg",
+  "SC_dt_7_holiday.jpg"
+ ]
+}

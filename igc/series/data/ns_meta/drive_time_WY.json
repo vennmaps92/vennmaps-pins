@@ -1,0 +1,23 @@
+{
+ "st": "WY",
+ "n": 7,
+ "route": "I-80",
+ "miles": 400,
+ "start": "Utah",
+ "end": "Nebraska",
+ "qa": {
+  "route": "I-80",
+  "chain_km": 644,
+  "left_km": 0
+ },
+ "files": [
+  "WY_dt_1.jpg",
+  "WY_dt_2.jpg",
+  "WY_dt_3.jpg",
+  "WY_dt_4.jpg",
+  "WY_dt_5.jpg",
+  "WY_dt_6.jpg",
+  "WY_dt_7.jpg",
+  "WY_dt_7_holiday.jpg"
+ ]
+}

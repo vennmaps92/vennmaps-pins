@@ -1,0 +1,43 @@
+{
+ "st": "SD",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "7,244 ft",
+   "sub": "Black Elk Peak"
+  },
+  "qa": {
+   "high_gnis_km": 19.0,
+   "high_dem_ft": 7198,
+   "high_off_ft": 7244,
+   "low_dem_ft": 952,
+   "low_off_ft": 966
+  },
+  "low": {
+   "value": "966 ft",
+   "sub": "Big Stone Lake on the Minnesota border"
+  },
+  "oldest": {
+   "name": "Precambrian Rocks",
+   "age": "More than 540 million years old",
+   "colour": "#c8c4ba",
+   "label": "Bedrock",
+   "story": "Layer on layer of ancient rock, stacked over millions of years."
+  },
+  "youngest": {
+   "name": "Ogallala Group",
+   "age": "3 million to 23 million years old",
+   "colour": "#e6d3af",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "SD_ex_1.jpg",
+  "SD_ex_2.jpg",
+  "SD_ex_3.jpg",
+  "SD_ex_4.jpg",
+  "SD_ex_5.jpg",
+  "SD_ex_6.jpg"
+ ]
+}

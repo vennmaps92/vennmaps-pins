@@ -1,0 +1,41 @@
+{
+ "st": "MA",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Massachusetts-Rhode Island Coastal",
+   "pct": 40.4,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Connecticut",
+   "pct": 33.2,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Merrimack",
+   "pct": 14.7,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Connecticut Coastal",
+   "pct": 9.1,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Upper Hudson",
+   "pct": 2.5,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  }
+ ],
+ "files": [
+  "MA_rg_1.jpg",
+  "MA_rg_2.jpg",
+  "MA_rg_3.jpg",
+  "MA_rg_4.jpg",
+  "MA_rg_5.jpg",
+  "MA_rg_6.jpg",
+  "MA_rg_7.jpg",
+  "MA_rg_7_holiday.jpg"
+ ]
+}

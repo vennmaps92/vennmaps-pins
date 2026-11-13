@@ -1,0 +1,58 @@
+{
+ "st": "CT",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Bridgeport",
+   "pop": 151599,
+   "rock": "Golden Hill Schist",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Stamford",
+   "pop": 139134,
+   "rock": "Harrison Gneiss",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "New Haven",
+   "pop": 137562,
+   "rock": "New Haven Arkose of the Newark Supergroup",
+   "age": "140 million to 250 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Hartford",
+   "pop": 122129,
+   "rock": "Portland Arkose of the Newark Supergroup",
+   "age": "140 million to 200 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Waterbury",
+   "pop": 115908,
+   "rock": "Waterbury Gneiss",
+   "age": "490 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Danbury",
+   "pop": 88692,
+   "rock": "Pink granitic gneiss of Highlands mass…",
+   "age": "1.0 billion to 1.6 billion years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "CT_uc_1.jpg",
+  "CT_uc_2.jpg",
+  "CT_uc_3.jpg",
+  "CT_uc_4.jpg",
+  "CT_uc_5.jpg",
+  "CT_uc_6.jpg",
+  "CT_uc_7.jpg",
+  "CT_uc_8.jpg"
+ ]
+}

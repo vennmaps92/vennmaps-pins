@@ -1,0 +1,23 @@
+{
+ "st": "NV",
+ "n": 7,
+ "route": "I-80",
+ "miles": 410,
+ "start": "California",
+ "end": "Utah",
+ "qa": {
+  "route": "I-80",
+  "chain_km": 660,
+  "left_km": 0
+ },
+ "files": [
+  "NV_dt_1.jpg",
+  "NV_dt_2.jpg",
+  "NV_dt_3.jpg",
+  "NV_dt_4.jpg",
+  "NV_dt_5.jpg",
+  "NV_dt_6.jpg",
+  "NV_dt_7.jpg",
+  "NV_dt_7_holiday.jpg"
+ ]
+}

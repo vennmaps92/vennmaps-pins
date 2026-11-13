@@ -1,0 +1,23 @@
+{
+ "st": "OH",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 71.0,
+   "via": "Down the Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Atlantic Ocean",
+   "pct": 28.0,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  }
+ ],
+ "files": [
+  "OH_rg_1.jpg",
+  "OH_rg_2.jpg",
+  "OH_rg_3.jpg",
+  "OH_rg_4.jpg",
+  "OH_rg_4_holiday.jpg"
+ ]
+}

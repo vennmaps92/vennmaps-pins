@@ -1,0 +1,43 @@
+{
+ "st": "ID",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "12,668 ft",
+   "sub": "Borah Peak"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 12659,
+   "high_off_ft": 12668,
+   "low_dem_ft": 719,
+   "low_off_ft": 710
+  },
+  "low": {
+   "value": "710 ft",
+   "sub": "Snake River at Lewiston"
+  },
+  "oldest": {
+   "name": "Mesozoic granitic rocks, undivided",
+   "age": "More than 34 million years old",
+   "colour": "#c8c4ba",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Basalt",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#ecdea1",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "ID_ex_1.jpg",
+  "ID_ex_2.jpg",
+  "ID_ex_3.jpg",
+  "ID_ex_4.jpg",
+  "ID_ex_5.jpg",
+  "ID_ex_6.jpg"
+ ]
+}

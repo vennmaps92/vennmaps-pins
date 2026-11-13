@@ -1,0 +1,40 @@
+{
+ "st": "KS",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Middle Arkansas",
+   "pct": 24.5,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Smoky Hill",
+   "pct": 23.0,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Neosho-Verdigris",
+   "pct": 13.0,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Kansas",
+   "pct": 9.7,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Republican",
+   "pct": 9.2,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "KS_rg_1.jpg",
+  "KS_rg_2.jpg",
+  "KS_rg_3.jpg",
+  "KS_rg_4.jpg",
+  "KS_rg_5.jpg",
+  "KS_rg_6.jpg",
+  "KS_rg_7.jpg"
+ ]
+}

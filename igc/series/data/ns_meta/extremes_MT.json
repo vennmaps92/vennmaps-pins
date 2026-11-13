@@ -1,0 +1,44 @@
+{
+ "st": "MT",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "12,807 ft",
+   "sub": "Granite Peak"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 12789,
+   "high_off_ft": 12807,
+   "low_dem_ft": 1801,
+   "low_off_ft": 1800
+  },
+  "low": {
+   "value": "1,800 ft",
+   "sub": "Kootenai River at the Idaho border"
+  },
+  "oldest": {
+   "name": "Quartzofeldspathic gneiss",
+   "age": "More than 2.5 billion years old",
+   "colour": "#a48c91",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Travertine",
+   "age": "About a few thousand years old",
+   "colour": "#ece7c0",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  }
+ },
+ "files": [
+  "MT_ex_1.jpg",
+  "MT_ex_2.jpg",
+  "MT_ex_3.jpg",
+  "MT_ex_4.jpg",
+  "MT_ex_5.jpg",
+  "MT_ex_6.jpg",
+  "MT_ex_6_holiday.jpg"
+ ]
+}

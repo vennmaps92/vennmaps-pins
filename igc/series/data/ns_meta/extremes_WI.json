@@ -1,0 +1,44 @@
+{
+ "st": "WI",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "1,951 ft",
+   "sub": "Timms Hill"
+  },
+  "qa": {
+   "high_gnis_km": 1.3,
+   "high_dem_ft": 1950,
+   "high_off_ft": 1951,
+   "low_dem_ft": 354,
+   "low_off_ft": 579
+  },
+  "low": {
+   "value": "579 ft",
+   "sub": "Lake Michigan"
+  },
+  "oldest": {
+   "name": "Migmatitic gneiss and amphibolite",
+   "age": "About 3.4 billion years old",
+   "colour": "#a5888b",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Traverse Group",
+   "age": "About 390 million years old",
+   "colour": "#8e9fb6",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  }
+ },
+ "files": [
+  "WI_ex_1.jpg",
+  "WI_ex_2.jpg",
+  "WI_ex_3.jpg",
+  "WI_ex_4.jpg",
+  "WI_ex_5.jpg",
+  "WI_ex_6.jpg",
+  "WI_ex_6_holiday.jpg"
+ ]
+}

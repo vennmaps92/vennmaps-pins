@@ -1,0 +1,44 @@
+{
+ "st": "OH",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "1,548 ft",
+   "sub": "Campbell Hill"
+  },
+  "qa": {
+   "high_gnis_km": 4.8,
+   "high_dem_ft": 1540,
+   "high_off_ft": 1548,
+   "low_dem_ft": 338,
+   "low_off_ft": 455
+  },
+  "low": {
+   "value": "455 ft",
+   "sub": "Ohio River at the Indiana border"
+  },
+  "oldest": {
+   "name": "Cincinnati Group",
+   "age": "About 460 million years old",
+   "colour": "#b56b2f",
+   "label": "Shale and mudstone",
+   "story": "Mud settled in quiet water and slowly hardened into stone."
+  },
+  "youngest": {
+   "name": "Dunkard Group",
+   "age": "About 290 million years old",
+   "colour": "#c8c4ba",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "OH_ex_1.jpg",
+  "OH_ex_2.jpg",
+  "OH_ex_3.jpg",
+  "OH_ex_4.jpg",
+  "OH_ex_5.jpg",
+  "OH_ex_6.jpg",
+  "OH_ex_6_holiday.jpg"
+ ]
+}

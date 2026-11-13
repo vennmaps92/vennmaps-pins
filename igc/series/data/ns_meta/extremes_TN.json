@@ -1,0 +1,44 @@
+{
+ "st": "TN",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "6,643 ft",
+   "sub": "Kuwohi"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 6640,
+   "high_off_ft": 6643,
+   "low_dem_ft": 94,
+   "low_off_ft": 178
+  },
+  "low": {
+   "value": "178 ft",
+   "sub": "Mississippi River at the Mississippi border"
+  },
+  "oldest": {
+   "name": "Walden Creek Group",
+   "age": "More than 540 million years old",
+   "colour": "#c5b6b8",
+   "label": "Shale and mudstone",
+   "story": "Mud settled in quiet water and slowly hardened into stone."
+  },
+  "youngest": {
+   "name": "Jackson and Claiborne Formations, undivided",
+   "age": "23 million to 34 million years old",
+   "colour": "#c8c4ba",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "TN_ex_1.jpg",
+  "TN_ex_2.jpg",
+  "TN_ex_3.jpg",
+  "TN_ex_4.jpg",
+  "TN_ex_5.jpg",
+  "TN_ex_6.jpg",
+  "TN_ex_6_holiday.jpg"
+ ]
+}

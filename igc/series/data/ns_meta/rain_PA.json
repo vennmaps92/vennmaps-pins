@@ -1,0 +1,23 @@
+{
+ "st": "PA",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Atlantic Ocean",
+   "pct": 65.1,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic. Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  },
+  {
+   "title": "Gulf of Mexico",
+   "pct": 34.5,
+   "via": "Down the Ohio and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "PA_rg_1.jpg",
+  "PA_rg_2.jpg",
+  "PA_rg_3.jpg",
+  "PA_rg_4.jpg",
+  "PA_rg_4_holiday.jpg"
+ ]
+}

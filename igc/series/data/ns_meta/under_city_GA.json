@@ -1,0 +1,59 @@
+{
+ "st": "GA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Atlanta",
+   "pop": 520070,
+   "rock": "Biotitic Gneiss",
+   "age": "More than 250 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Columbus",
+   "pop": 201830,
+   "rock": "Stream alluvium",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Augusta",
+   "pop": 201737,
+   "rock": "Middendorf Fm., Tuscaloosa Fm. and equivalents",
+   "age": "23 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Macon",
+   "pop": 157056,
+   "rock": "Tuscaloosa Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Savannah",
+   "pop": 148808,
+   "rock": "Marsh and lagoonal facies of the Pamli…",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Athens",
+   "pop": 128691,
+   "rock": "Biotite Gneiss / Feldspathic Biotite Gneiss",
+   "age": "More than 250 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "GA_uc_1.jpg",
+  "GA_uc_2.jpg",
+  "GA_uc_3.jpg",
+  "GA_uc_4.jpg",
+  "GA_uc_5.jpg",
+  "GA_uc_6.jpg",
+  "GA_uc_7.jpg",
+  "GA_uc_8.jpg",
+  "GA_uc_8_holiday.jpg"
+ ]
+}

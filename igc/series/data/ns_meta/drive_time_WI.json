@@ -1,0 +1,22 @@
+{
+ "st": "WI",
+ "n": 6,
+ "route": "I-94",
+ "miles": 348,
+ "start": "Minnesota",
+ "end": "Illinois",
+ "qa": {
+  "route": "I-94",
+  "chain_km": 559,
+  "left_km": 0
+ },
+ "files": [
+  "WI_dt_1.jpg",
+  "WI_dt_2.jpg",
+  "WI_dt_3.jpg",
+  "WI_dt_4.jpg",
+  "WI_dt_5.jpg",
+  "WI_dt_6.jpg",
+  "WI_dt_6_holiday.jpg"
+ ]
+}

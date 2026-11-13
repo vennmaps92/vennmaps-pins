@@ -1,0 +1,59 @@
+{
+ "st": "KY",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Louisville",
+   "pop": 640796,
+   "rock": "Louisville Limestone and Waldron Shale",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lexington",
+   "pop": 329437,
+   "rock": "Lexington Limestone",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bowling Green",
+   "pop": 79076,
+   "rock": "Ste. Genevieve and St. Louis Limestones",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Owensboro",
+   "pop": 60675,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Covington",
+   "pop": 41611,
+   "rock": "Garrard, Kope and Clays Ferry Formations",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Richmond",
+   "pop": 39581,
+   "rock": "Ashlock, Grant Lake, Calloway Creek, Fairview",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "KY_uc_1.jpg",
+  "KY_uc_2.jpg",
+  "KY_uc_3.jpg",
+  "KY_uc_4.jpg",
+  "KY_uc_5.jpg",
+  "KY_uc_6.jpg",
+  "KY_uc_7.jpg",
+  "KY_uc_8.jpg",
+  "KY_uc_8_holiday.jpg"
+ ]
+}

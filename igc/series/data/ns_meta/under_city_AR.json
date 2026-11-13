@@ -1,0 +1,58 @@
+{
+ "st": "AR",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Little Rock",
+   "pop": 204774,
+   "rock": "Jackfork Sandstone",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fayetteville",
+   "pop": 103134,
+   "rock": "Cane Hill Member",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fort Smith",
+   "pop": 90507,
+   "rock": "McAlester Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Jonesboro",
+   "pop": 82384,
+   "rock": "Terrace deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Conway",
+   "pop": 70711,
+   "rock": "Upper part of the Atoka Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Pine Bluff",
+   "pop": 38785,
+   "rock": "Terrace deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "AR_uc_1.jpg",
+  "AR_uc_2.jpg",
+  "AR_uc_3.jpg",
+  "AR_uc_4.jpg",
+  "AR_uc_5.jpg",
+  "AR_uc_6.jpg",
+  "AR_uc_7.jpg",
+  "AR_uc_8.jpg"
+ ]
+}

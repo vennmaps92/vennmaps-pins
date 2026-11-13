@@ -1,0 +1,41 @@
+{
+ "st": "TN",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Cumberland",
+   "pct": 25.4,
+   "via": "Down the Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Upper Tennessee",
+   "pct": 22.0,
+   "via": "Down the Tennessee, Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Lower Mississippi-Hatchie",
+   "pct": 19.9,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Lower Tennessee",
+   "pct": 16.6,
+   "via": "Down the Tennessee, Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Middle Tennessee-Elk",
+   "pct": 7.6,
+   "via": "Down the Tennessee, Ohio and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "TN_rg_1.jpg",
+  "TN_rg_2.jpg",
+  "TN_rg_3.jpg",
+  "TN_rg_4.jpg",
+  "TN_rg_5.jpg",
+  "TN_rg_6.jpg",
+  "TN_rg_7.jpg",
+  "TN_rg_7_holiday.jpg"
+ ]
+}

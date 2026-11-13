@@ -1,0 +1,58 @@
+{
+ "st": "NH",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Manchester",
+   "pop": 116386,
+   "rock": "Massabesic Gneiss Complex (Neoproterozoic) b",
+   "age": "540 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Dover",
+   "pop": 33909,
+   "rock": "Eliot Formation of the Merrimack Group",
+   "age": "About 450 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Keene",
+   "pop": 23036,
+   "rock": "Granite, granodiorite and others",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Laconia",
+   "pop": 17310,
+   "rock": "Kinsman Granodiorite",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lebanon",
+   "pop": 15389,
+   "rock": "Partridge Formation - amphibolite",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Berlin",
+   "pop": 9248,
+   "rock": "Biotite granite of the Oliverian Pluto…",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NH_uc_1.jpg",
+  "NH_uc_2.jpg",
+  "NH_uc_3.jpg",
+  "NH_uc_4.jpg",
+  "NH_uc_5.jpg",
+  "NH_uc_6.jpg",
+  "NH_uc_7.jpg",
+  "NH_uc_8.jpg"
+ ]
+}

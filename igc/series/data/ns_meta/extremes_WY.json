@@ -1,0 +1,44 @@
+{
+ "st": "WY",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "13,809 ft",
+   "sub": "Gannett Peak"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 13800,
+   "high_off_ft": 13809,
+   "low_dem_ft": 3112,
+   "low_off_ft": 3101
+  },
+  "low": {
+   "value": "3,101 ft",
+   "sub": "Belle Fourche River at the South Dakota border"
+  },
+  "oldest": {
+   "name": "Granitic rocks of 2,600-Ma age group",
+   "age": "More than 2.5 billion years old",
+   "colour": "#ac9799",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Plateau Rhyolite and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#ede0a6",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "WY_ex_1.jpg",
+  "WY_ex_2.jpg",
+  "WY_ex_3.jpg",
+  "WY_ex_4.jpg",
+  "WY_ex_5.jpg",
+  "WY_ex_6.jpg",
+  "WY_ex_6_holiday.jpg"
+ ]
+}

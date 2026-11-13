@@ -1,0 +1,44 @@
+{
+ "st": "IN",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "1,257 ft",
+   "sub": "Hoosier Hill"
+  },
+  "qa": {
+   "high_gnis_km": 0.6,
+   "high_dem_ft": 1258,
+   "high_off_ft": 1257,
+   "low_dem_ft": 281,
+   "low_off_ft": 320
+  },
+  "low": {
+   "value": "320 ft",
+   "sub": "Where the Wabash meets the Ohio"
+  },
+  "oldest": {
+   "name": "Dillsboro Formation",
+   "age": "About 460 million years old",
+   "colour": "#b56b2f",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  },
+  "youngest": {
+   "name": "Raccoon Creek Group",
+   "age": "About 310 million years old",
+   "colour": "#9db291",
+   "label": "Shale and mudstone",
+   "story": "Mud settled in quiet water and slowly hardened into stone."
+  }
+ },
+ "files": [
+  "IN_ex_1.jpg",
+  "IN_ex_2.jpg",
+  "IN_ex_3.jpg",
+  "IN_ex_4.jpg",
+  "IN_ex_5.jpg",
+  "IN_ex_6.jpg",
+  "IN_ex_6_holiday.jpg"
+ ]
+}

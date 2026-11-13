@@ -1,0 +1,23 @@
+{
+ "st": "NY",
+ "n": 7,
+ "route": "I-90",
+ "miles": 385,
+ "start": "Pennsylvania",
+ "end": "Massachusetts",
+ "qa": {
+  "route": "I-90",
+  "chain_km": 620,
+  "left_km": 0
+ },
+ "files": [
+  "NY_dt_1.jpg",
+  "NY_dt_2.jpg",
+  "NY_dt_3.jpg",
+  "NY_dt_4.jpg",
+  "NY_dt_5.jpg",
+  "NY_dt_6.jpg",
+  "NY_dt_7.jpg",
+  "NY_dt_7_holiday.jpg"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "st": "CA",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Pacific Ocean",
+   "pct": 69.0,
+   "via": "Down California rivers to the Pacific."
+  },
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 27.6,
+   "via": "Into desert basins like Mono Lake and the Mojave, where it dries up."
+  },
+  {
+   "title": "Gulf of California",
+   "pct": 2.4,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  }
+ ],
+ "files": [
+  "CA_rg_1.jpg",
+  "CA_rg_2.jpg",
+  "CA_rg_3.jpg",
+  "CA_rg_4.jpg",
+  "CA_rg_5.jpg",
+  "CA_rg_5_holiday.jpg"
+ ]
+}

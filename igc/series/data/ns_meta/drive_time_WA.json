@@ -1,0 +1,23 @@
+{
+ "st": "WA",
+ "n": 7,
+ "route": "I-90",
+ "miles": 298,
+ "start": null,
+ "end": "Idaho",
+ "qa": {
+  "route": "I-90",
+  "chain_km": 480,
+  "left_km": 0
+ },
+ "files": [
+  "WA_dt_1.jpg",
+  "WA_dt_2.jpg",
+  "WA_dt_3.jpg",
+  "WA_dt_4.jpg",
+  "WA_dt_5.jpg",
+  "WA_dt_6.jpg",
+  "WA_dt_7.jpg",
+  "WA_dt_7_holiday.jpg"
+ ]
+}

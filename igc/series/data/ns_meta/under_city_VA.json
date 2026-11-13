@@ -1,0 +1,59 @@
+{
+ "st": "VA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Virginia Beach",
+   "pop": 454808,
+   "rock": "Lynnhaven Member",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Richmond",
+   "pop": 233655,
+   "rock": "Petersburg Granite",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Newport News",
+   "pop": 183056,
+   "rock": "Shirley Formation",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Alexandria",
+   "pop": 159102,
+   "rock": "Potomac Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Suffolk",
+   "pop": 103105,
+   "rock": "Charles City Formation",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Roanoke",
+   "pop": 97912,
+   "rock": "Rome Formation",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "VA_uc_1.jpg",
+  "VA_uc_2.jpg",
+  "VA_uc_3.jpg",
+  "VA_uc_4.jpg",
+  "VA_uc_5.jpg",
+  "VA_uc_6.jpg",
+  "VA_uc_7.jpg",
+  "VA_uc_8.jpg",
+  "VA_uc_8_holiday.jpg"
+ ]
+}

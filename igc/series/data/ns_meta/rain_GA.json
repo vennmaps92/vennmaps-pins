@@ -1,0 +1,23 @@
+{
+ "st": "GA",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Atlantic Ocean",
+   "pct": 52.0,
+   "via": "Down the rivers of the Southeast to the Atlantic."
+  },
+  {
+   "title": "Gulf of Mexico",
+   "pct": 47.9,
+   "via": "Down the rivers of the Southeast to the Gulf. Down the Tennessee, Ohio and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "GA_rg_1.jpg",
+  "GA_rg_2.jpg",
+  "GA_rg_3.jpg",
+  "GA_rg_4.jpg",
+  "GA_rg_4_holiday.jpg"
+ ]
+}

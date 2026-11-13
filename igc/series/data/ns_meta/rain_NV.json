@@ -1,0 +1,29 @@
+{
+ "st": "NV",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 82.6,
+   "via": "Into the Great Basin, where it dries up or soaks in."
+  },
+  {
+   "title": "Gulf of California",
+   "pct": 10.4,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Pacific Ocean",
+   "pct": 4.7,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  }
+ ],
+ "files": [
+  "NV_rg_1.jpg",
+  "NV_rg_2.jpg",
+  "NV_rg_3.jpg",
+  "NV_rg_4.jpg",
+  "NV_rg_5.jpg",
+  "NV_rg_5_holiday.jpg"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "st": "MI",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Detroit",
+   "pop": 645705,
+   "rock": "Traverse Group",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Grand Rapids",
+   "pop": 200117,
+   "rock": "Bayport Limestone of Grand Rapids Group",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Ann Arbor",
+   "pop": 122925,
+   "rock": "Coldwater Shale",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lansing",
+   "pop": 114336,
+   "rock": "Saginaw Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Flint",
+   "pop": 79735,
+   "rock": "Saginaw Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Kalamazoo",
+   "pop": 73290,
+   "rock": "Coldwater Shale",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "MI_uc_1.jpg",
+  "MI_uc_2.jpg",
+  "MI_uc_3.jpg",
+  "MI_uc_4.jpg",
+  "MI_uc_5.jpg",
+  "MI_uc_6.jpg",
+  "MI_uc_7.jpg",
+  "MI_uc_8.jpg",
+  "MI_uc_8_holiday.jpg"
+ ]
+}

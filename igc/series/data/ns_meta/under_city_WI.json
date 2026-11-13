@@ -1,0 +1,59 @@
+{
+ "st": "WI",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Milwaukee",
+   "pop": 563531,
+   "rock": "Silurian",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Madison",
+   "pop": 285300,
+   "rock": "Elk Mound Formations and equivalents",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Green Bay",
+   "pop": 106311,
+   "rock": "Sinnipee Group",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Kenosha",
+   "pop": 99578,
+   "rock": "Silurian",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Appleton",
+   "pop": 75344,
+   "rock": "Sinnipee Group",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Eau Claire",
+   "pop": 72331,
+   "rock": "Elk Mound Formations and equivalents",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "WI_uc_1.jpg",
+  "WI_uc_2.jpg",
+  "WI_uc_3.jpg",
+  "WI_uc_4.jpg",
+  "WI_uc_5.jpg",
+  "WI_uc_6.jpg",
+  "WI_uc_7.jpg",
+  "WI_uc_8.jpg",
+  "WI_uc_8_holiday.jpg"
+ ]
+}

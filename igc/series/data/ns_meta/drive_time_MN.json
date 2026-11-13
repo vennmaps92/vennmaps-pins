@@ -1,0 +1,23 @@
+{
+ "st": "MN",
+ "n": 7,
+ "route": "I-90",
+ "miles": 275,
+ "start": "South Dakota",
+ "end": "Wisconsin",
+ "qa": {
+  "route": "I-90",
+  "chain_km": 442,
+  "left_km": 0
+ },
+ "files": [
+  "MN_dt_1.jpg",
+  "MN_dt_2.jpg",
+  "MN_dt_3.jpg",
+  "MN_dt_4.jpg",
+  "MN_dt_5.jpg",
+  "MN_dt_6.jpg",
+  "MN_dt_7.jpg",
+  "MN_dt_7_holiday.jpg"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "st": "OK",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Red-Washita",
+   "pct": 18.8,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "North Canadian",
+   "pct": 17.0,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Red-Sulphur",
+   "pct": 11.6,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Lower Cimarron",
+   "pct": 10.0,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Neosho-Verdigris",
+   "pct": 9.7,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "OK_rg_1.jpg",
+  "OK_rg_2.jpg",
+  "OK_rg_3.jpg",
+  "OK_rg_4.jpg",
+  "OK_rg_5.jpg",
+  "OK_rg_6.jpg",
+  "OK_rg_7.jpg"
+ ]
+}

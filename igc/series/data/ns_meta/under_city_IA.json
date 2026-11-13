@@ -1,0 +1,58 @@
+{
+ "st": "IA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Des Moines",
+   "pop": 213096,
+   "rock": "Lower Cherokee Group and Raccoon Creek Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Cedar Rapids",
+   "pop": 137904,
+   "rock": "Scotch Grove Formation",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Davenport",
+   "pop": 100938,
+   "rock": "Wapsipinicon Group",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Sioux City",
+   "pop": 86875,
+   "rock": "Dakota and Windrow Formations",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Iowa City",
+   "pop": 76710,
+   "rock": "Cedar Valley Group",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Ames",
+   "pop": 69026,
+   "rock": "St. Louis and Pella Formations",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "IA_uc_1.jpg",
+  "IA_uc_2.jpg",
+  "IA_uc_3.jpg",
+  "IA_uc_4.jpg",
+  "IA_uc_5.jpg",
+  "IA_uc_6.jpg",
+  "IA_uc_7.jpg",
+  "IA_uc_8.jpg"
+ ]
+}

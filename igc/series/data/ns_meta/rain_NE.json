@@ -1,0 +1,40 @@
+{
+ "st": "NE",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Loup",
+   "pct": 19.5,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Niobrara",
+   "pct": 15.1,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Republican",
+   "pct": 12.3,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Platte",
+   "pct": 10.6,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Kansas",
+   "pct": 9.4,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "NE_rg_1.jpg",
+  "NE_rg_2.jpg",
+  "NE_rg_3.jpg",
+  "NE_rg_4.jpg",
+  "NE_rg_5.jpg",
+  "NE_rg_6.jpg",
+  "NE_rg_7.jpg"
+ ]
+}

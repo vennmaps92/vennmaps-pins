@@ -1,0 +1,29 @@
+{
+ "st": "NM",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 68.9,
+   "via": "Down the Rio Grande to the Gulf. Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Gulf of California",
+   "pct": 18.8,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 9.8,
+   "via": "Into closed desert basins, where it dries up or soaks in."
+  }
+ ],
+ "files": [
+  "NM_rg_1.jpg",
+  "NM_rg_2.jpg",
+  "NM_rg_3.jpg",
+  "NM_rg_4.jpg",
+  "NM_rg_5.jpg",
+  "NM_rg_5_holiday.jpg"
+ ]
+}

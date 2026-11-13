@@ -1,0 +1,23 @@
+{
+ "st": "PA",
+ "n": 7,
+ "route": "I-76",
+ "miles": 351,
+ "start": "Ohio",
+ "end": "New Jersey",
+ "qa": {
+  "route": "I-76",
+  "chain_km": 565,
+  "left_km": 0
+ },
+ "files": [
+  "PA_dt_1.jpg",
+  "PA_dt_2.jpg",
+  "PA_dt_3.jpg",
+  "PA_dt_4.jpg",
+  "PA_dt_5.jpg",
+  "PA_dt_6.jpg",
+  "PA_dt_7.jpg",
+  "PA_dt_7_holiday.jpg"
+ ]
+}

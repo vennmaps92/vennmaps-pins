@@ -1,0 +1,59 @@
+{
+ "st": "SC",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Charleston",
+   "pop": 157665,
+   "rock": "Chenier plain and deltas of Suwannee &…",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Columbia",
+   "pop": 144788,
+   "rock": "Peedee Formation - Black Creek Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Rock Hill",
+   "pop": 75798,
+   "rock": "Metagabbro and minor metadiorite",
+   "age": "360 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Greenville",
+   "pop": 74371,
+   "rock": "Sillimanite schist and sillimanite-mic…",
+   "age": "490 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Sumter",
+   "pop": 42958,
+   "rock": "Duplin Formation",
+   "age": "3 million to 5 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Florence",
+   "pop": 40923,
+   "rock": "Bear Bluff Formation",
+   "age": "3 million to 66 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "SC_uc_1.jpg",
+  "SC_uc_2.jpg",
+  "SC_uc_3.jpg",
+  "SC_uc_4.jpg",
+  "SC_uc_5.jpg",
+  "SC_uc_6.jpg",
+  "SC_uc_7.jpg",
+  "SC_uc_8.jpg",
+  "SC_uc_8_holiday.jpg"
+ ]
+}

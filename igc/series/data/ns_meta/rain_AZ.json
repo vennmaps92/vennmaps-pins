@@ -1,0 +1,41 @@
+{
+ "st": "AZ",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Little Colorado",
+   "pct": 19.1,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Middle Gila",
+   "pct": 14.8,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Lower Colorado-Lake Mead",
+   "pct": 13.4,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Lower Gila",
+   "pct": 13.2,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  },
+  {
+   "title": "Salt",
+   "pct": 11.8,
+   "via": "Down the Colorado River toward the Gulf of California. Most is used up before it gets there."
+  }
+ ],
+ "files": [
+  "AZ_rg_1.jpg",
+  "AZ_rg_2.jpg",
+  "AZ_rg_3.jpg",
+  "AZ_rg_4.jpg",
+  "AZ_rg_5.jpg",
+  "AZ_rg_6.jpg",
+  "AZ_rg_7.jpg",
+  "AZ_rg_7_holiday.jpg"
+ ]
+}

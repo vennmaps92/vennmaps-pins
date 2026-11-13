@@ -1,0 +1,59 @@
+{
+ "st": "WA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Seattle",
+   "pop": 780995,
+   "rock": "Till of Younger glacial drift",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Spokane",
+   "pop": 230609,
+   "rock": "Outwash of Younger glacial drift",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Tacoma",
+   "pop": 228202,
+   "rock": "Till of Younger glacial drift",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Vancouver",
+   "pop": 198992,
+   "rock": "Ringold Formation and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Everett",
+   "pop": 113011,
+   "rock": "Alluvium",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Yakima",
+   "pop": 97390,
+   "rock": "Logan Hill Fm., Palouse Fm. and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "WA_uc_1.jpg",
+  "WA_uc_2.jpg",
+  "WA_uc_3.jpg",
+  "WA_uc_4.jpg",
+  "WA_uc_5.jpg",
+  "WA_uc_6.jpg",
+  "WA_uc_7.jpg",
+  "WA_uc_8.jpg",
+  "WA_uc_8_holiday.jpg"
+ ]
+}

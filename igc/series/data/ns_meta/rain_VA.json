@@ -1,0 +1,23 @@
+{
+ "st": "VA",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Atlantic Ocean",
+   "pct": 81.9,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic. Down the rivers of the Southeast to the Atlantic."
+  },
+  {
+   "title": "Gulf of Mexico",
+   "pct": 17.8,
+   "via": "Down the Tennessee, Ohio and Mississippi rivers to the Gulf. Down the Ohio and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "VA_rg_1.jpg",
+  "VA_rg_2.jpg",
+  "VA_rg_3.jpg",
+  "VA_rg_4.jpg",
+  "VA_rg_4_holiday.jpg"
+ ]
+}

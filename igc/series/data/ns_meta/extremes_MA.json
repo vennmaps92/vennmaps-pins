@@ -1,0 +1,44 @@
+{
+ "st": "MA",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "3,489 ft",
+   "sub": "Mount Greylock"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 3492,
+   "high_off_ft": 3489,
+   "low_dem_ft": -243,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Atlantic Ocean"
+  },
+  "oldest": {
+   "name": "Granodiorite of the Indian Head pluton",
+   "age": "More than 420 million years old",
+   "colour": "#b19ca1",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Conglomerate of the Portland Formation",
+   "age": "140 million to 200 million years old",
+   "colour": "#b4c8c0",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "MA_ex_1.jpg",
+  "MA_ex_2.jpg",
+  "MA_ex_3.jpg",
+  "MA_ex_4.jpg",
+  "MA_ex_5.jpg",
+  "MA_ex_6.jpg",
+  "MA_ex_6_holiday.jpg"
+ ]
+}

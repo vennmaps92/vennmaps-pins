@@ -1,0 +1,59 @@
+{
+ "st": "MA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Boston",
+   "pop": 673458,
+   "rock": "Cambridge Argillite",
+   "age": "490 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Worcester",
+   "pop": 211286,
+   "rock": "Worcester Formation",
+   "age": "About 400 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Springfield",
+   "pop": 154888,
+   "rock": "Conglomerate of the Portland Formation",
+   "age": "140 million to 200 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lowell",
+   "pop": 120418,
+   "rock": "Tadmuck Brook Schist",
+   "age": "420 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "New Bedford",
+   "pop": 101318,
+   "rock": "Gneiss and schist near New Bedford",
+   "age": "540 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Barnstable Town",
+   "pop": 49831,
+   "rock": "Granite, gneiss, and schist",
+   "age": "540 million to 1.0 billion years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "MA_uc_1.jpg",
+  "MA_uc_2.jpg",
+  "MA_uc_3.jpg",
+  "MA_uc_4.jpg",
+  "MA_uc_5.jpg",
+  "MA_uc_6.jpg",
+  "MA_uc_7.jpg",
+  "MA_uc_8.jpg",
+  "MA_uc_8_holiday.jpg"
+ ]
+}

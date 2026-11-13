@@ -1,0 +1,22 @@
+{
+ "st": "ID",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Pacific Ocean",
+   "pct": 95.9,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  },
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 3.3,
+   "via": "Into the Great Basin, where it dries up or soaks in."
+  }
+ ],
+ "files": [
+  "ID_rg_1.jpg",
+  "ID_rg_2.jpg",
+  "ID_rg_3.jpg",
+  "ID_rg_4.jpg"
+ ]
+}

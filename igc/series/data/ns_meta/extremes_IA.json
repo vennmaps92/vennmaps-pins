@@ -1,0 +1,43 @@
+{
+ "st": "IA",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "1,671 ft",
+   "sub": "Hawkeye Point"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 1670,
+   "high_off_ft": 1671,
+   "low_dem_ft": 370,
+   "low_off_ft": 480
+  },
+  "low": {
+   "value": "480 ft",
+   "sub": "Where the Des Moines meets the Mississippi"
+  },
+  "oldest": {
+   "name": "Sioux Quartzite",
+   "age": "More than 1.6 billion years old",
+   "colour": "#a58a8f",
+   "label": "Quartzite",
+   "story": "Old sandstone, baked deep underground into hard quartzite."
+  },
+  "youngest": {
+   "name": "Dakota and Windrow Formations",
+   "age": "66 million to 140 million years old",
+   "colour": "#b7a75b",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "IA_ex_1.jpg",
+  "IA_ex_2.jpg",
+  "IA_ex_3.jpg",
+  "IA_ex_4.jpg",
+  "IA_ex_5.jpg",
+  "IA_ex_6.jpg"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "st": "WY",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Cheyenne",
+   "pop": 65704,
+   "rock": "Ogallala Formation and equivalents",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Casper",
+   "pop": 58823,
+   "rock": "Cody Shale",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Gillette",
+   "pop": 33846,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Laramie",
+   "pop": 32957,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Rock Springs",
+   "pop": 22967,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Sheridan",
+   "pop": 19813,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "WY_uc_1.jpg",
+  "WY_uc_2.jpg",
+  "WY_uc_3.jpg",
+  "WY_uc_4.jpg",
+  "WY_uc_5.jpg",
+  "WY_uc_6.jpg",
+  "WY_uc_7.jpg",
+  "WY_uc_8.jpg",
+  "WY_uc_8_holiday.jpg"
+ ]
+}

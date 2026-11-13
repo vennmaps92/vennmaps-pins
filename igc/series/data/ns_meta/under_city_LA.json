@@ -1,0 +1,58 @@
+{
+ "st": "LA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "New Orleans",
+   "pop": 362701,
+   "rock": "Alluvium",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Baton Rouge",
+   "pop": 220907,
+   "rock": "Prairie Terraces - loess",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Shreveport",
+   "pop": 176578,
+   "rock": "Wilcox Group",
+   "age": "About 61 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lafayette",
+   "pop": 122280,
+   "rock": "Prairie Terraces - loess",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lake Charles",
+   "pop": 81157,
+   "rock": "Prairie Terraces",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Monroe",
+   "pop": 46622,
+   "rock": "Natural Levees",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "LA_uc_1.jpg",
+  "LA_uc_2.jpg",
+  "LA_uc_3.jpg",
+  "LA_uc_4.jpg",
+  "LA_uc_5.jpg",
+  "LA_uc_6.jpg",
+  "LA_uc_7.jpg",
+  "LA_uc_8.jpg"
+ ]
+}

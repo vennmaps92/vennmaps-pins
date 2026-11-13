@@ -1,0 +1,43 @@
+{
+ "st": "AR",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "2,753 ft",
+   "sub": "Mount Magazine"
+  },
+  "qa": {
+   "high_gnis_km": "fixed",
+   "high_dem_ft": 2753,
+   "high_off_ft": 2753,
+   "low_dem_ft": 53,
+   "low_off_ft": 55
+  },
+  "low": {
+   "value": "55 ft",
+   "sub": "Ouachita River at the Louisiana border"
+  },
+  "oldest": {
+   "name": "Olistoliths of Metagabbro and Soapston…",
+   "age": "250 million to 540 million years old",
+   "colour": "#a5b1c2",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Jackson Group",
+   "age": "34 million to 56 million years old",
+   "colour": "#e9dcb9",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  }
+ },
+ "files": [
+  "AR_ex_1.jpg",
+  "AR_ex_2.jpg",
+  "AR_ex_3.jpg",
+  "AR_ex_4.jpg",
+  "AR_ex_5.jpg",
+  "AR_ex_6.jpg"
+ ]
+}

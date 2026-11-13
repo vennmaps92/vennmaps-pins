@@ -1,0 +1,40 @@
+{
+ "st": "ME",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Penobscot",
+   "pct": 26.2,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "St. John",
+   "pct": 22.3,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Kennebec",
+   "pct": 18.0,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Maine Coastal",
+   "pct": 17.3,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Androscoggin",
+   "pct": 8.6,
+   "via": "Down the rivers of New England to the Atlantic."
+  }
+ ],
+ "files": [
+  "ME_rg_1.jpg",
+  "ME_rg_2.jpg",
+  "ME_rg_3.jpg",
+  "ME_rg_4.jpg",
+  "ME_rg_5.jpg",
+  "ME_rg_6.jpg",
+  "ME_rg_7.jpg"
+ ]
+}

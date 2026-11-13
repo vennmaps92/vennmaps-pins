@@ -1,0 +1,43 @@
+{
+ "st": "CT",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "2,386 ft",
+   "sub": "Mount Frissell (south slope)"
+  },
+  "qa": {
+   "high_gnis_km": 0.2,
+   "high_dem_ft": 2384,
+   "high_off_ft": 2386,
+   "low_dem_ft": -14,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Long Island Sound"
+  },
+  "oldest": {
+   "name": "Fordham Gneiss",
+   "age": "More than 540 million years old",
+   "colour": "#c8c4ba",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Portland Arkose of the Newark Supergroup",
+   "age": "140 million to 200 million years old",
+   "colour": "#b1c6bb",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "CT_ex_1.jpg",
+  "CT_ex_2.jpg",
+  "CT_ex_3.jpg",
+  "CT_ex_4.jpg",
+  "CT_ex_5.jpg",
+  "CT_ex_6.jpg"
+ ]
+}

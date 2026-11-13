@@ -1,0 +1,43 @@
+{
+ "st": "LA",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "535 ft",
+   "sub": "Driskill Mountain"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 534,
+   "high_off_ft": 535,
+   "low_dem_ft": -44,
+   "low_off_ft": -8
+  },
+  "low": {
+   "value": "8 ft below sea level",
+   "sub": "New Orleans"
+  },
+  "oldest": {
+   "name": "Upper Cretaceous",
+   "age": "66 million to 140 million years old",
+   "colour": "#b8b06a",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  },
+  "youngest": {
+   "name": "Deweyville Formation",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#c8c4ba",
+   "label": "Young sediment",
+   "story": "Sand, silt and clay laid down in the last few million years, much of it still loose."
+  }
+ },
+ "files": [
+  "LA_ex_1.jpg",
+  "LA_ex_2.jpg",
+  "LA_ex_3.jpg",
+  "LA_ex_4.jpg",
+  "LA_ex_5.jpg",
+  "LA_ex_6.jpg"
+ ]
+}

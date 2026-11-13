@@ -1,0 +1,59 @@
+{
+ "st": "NY",
+ "n": 8,
+ "cities": [
+  {
+   "name": "New York",
+   "pop": 8478072,
+   "rock": "Raritan Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Buffalo",
+   "pop": 276617,
+   "rock": "Onondaga and Bois Blanc Limestones",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Rochester",
+   "pop": 207282,
+   "rock": "Guelph, Oak Orchard, Eramosa, Penfield and others",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Syracuse",
+   "pop": 146097,
+   "rock": "Syracuse Formation",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Albany",
+   "pop": 101317,
+   "rock": "Normanskill Shale",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Utica",
+   "pop": 63660,
+   "rock": "Utica Shale",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NY_uc_1.jpg",
+  "NY_uc_2.jpg",
+  "NY_uc_3.jpg",
+  "NY_uc_4.jpg",
+  "NY_uc_5.jpg",
+  "NY_uc_6.jpg",
+  "NY_uc_7.jpg",
+  "NY_uc_8.jpg",
+  "NY_uc_8_holiday.jpg"
+ ]
+}

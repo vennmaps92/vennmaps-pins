@@ -1,0 +1,22 @@
+{
+ "st": "CT",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Connecticut Coastal",
+   "pct": 70.4,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Connecticut",
+   "pct": 28.7,
+   "via": "Down the rivers of New England to the Atlantic."
+  }
+ ],
+ "files": [
+  "CT_rg_1.jpg",
+  "CT_rg_2.jpg",
+  "CT_rg_3.jpg",
+  "CT_rg_4.jpg"
+ ]
+}

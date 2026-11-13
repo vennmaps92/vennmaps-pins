@@ -1,0 +1,40 @@
+{
+ "st": "LA",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Louisiana Coastal",
+   "pct": 28.2,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Lower Mississippi",
+   "pct": 16.1,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Lower Red-Ouachita",
+   "pct": 15.7,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Red-Sulphur",
+   "pct": 13.4,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Lower Mississippi-Lake Maurepas",
+   "pct": 10.1,
+   "via": "Down the lower Mississippi River to the Gulf."
+  }
+ ],
+ "files": [
+  "LA_rg_1.jpg",
+  "LA_rg_2.jpg",
+  "LA_rg_3.jpg",
+  "LA_rg_4.jpg",
+  "LA_rg_5.jpg",
+  "LA_rg_6.jpg",
+  "LA_rg_7.jpg"
+ ]
+}

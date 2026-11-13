@@ -1,0 +1,41 @@
+{
+ "st": "MI",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Southeastern Lake Michigan",
+   "pct": 19.3,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  },
+  {
+   "title": "Northeastern Lake Michigan",
+   "pct": 15.8,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  },
+  {
+   "title": "Southwestern Lake Huron",
+   "pct": 15.7,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  },
+  {
+   "title": "Northwestern Lake Michigan",
+   "pct": 13.3,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  },
+  {
+   "title": "Southern Lake Superior",
+   "pct": 12.1,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  }
+ ],
+ "files": [
+  "MI_rg_1.jpg",
+  "MI_rg_2.jpg",
+  "MI_rg_3.jpg",
+  "MI_rg_4.jpg",
+  "MI_rg_5.jpg",
+  "MI_rg_6.jpg",
+  "MI_rg_7.jpg",
+  "MI_rg_7_holiday.jpg"
+ ]
+}

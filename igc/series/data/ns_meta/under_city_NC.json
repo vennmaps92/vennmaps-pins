@@ -1,0 +1,59 @@
+{
+ "st": "NC",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Charlotte",
+   "pop": 943476,
+   "rock": "Granitic Rock",
+   "age": "About 420 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Raleigh",
+   "pop": 499825,
+   "rock": "Injected Gneiss",
+   "age": "490 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Greensboro",
+   "pop": 307381,
+   "rock": "Metamorphosed Granitic Rock",
+   "age": "490 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Winston-Salem",
+   "pop": 255769,
+   "rock": "Biotite Gneiss and Schist",
+   "age": "490 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fayetteville",
+   "pop": 209496,
+   "rock": "Middendorf Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Wilmington",
+   "pop": 125284,
+   "rock": "Comfort, New Hanover and others",
+   "age": "3 million to 66 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NC_uc_1.jpg",
+  "NC_uc_2.jpg",
+  "NC_uc_3.jpg",
+  "NC_uc_4.jpg",
+  "NC_uc_5.jpg",
+  "NC_uc_6.jpg",
+  "NC_uc_7.jpg",
+  "NC_uc_8.jpg",
+  "NC_uc_8_holiday.jpg"
+ ]
+}

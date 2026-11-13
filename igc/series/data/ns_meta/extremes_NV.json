@@ -1,0 +1,44 @@
+{
+ "st": "NV",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "13,147 ft",
+   "sub": "Boundary Peak"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 13132,
+   "high_off_ft": 13147,
+   "low_dem_ft": 474,
+   "low_off_ft": 479
+  },
+  "low": {
+   "value": "479 ft",
+   "sub": "Colorado River at the California border"
+  },
+  "oldest": {
+   "name": "Metamorphic-igneous complex",
+   "age": "More than 23 million years old",
+   "colour": "#9f7f88",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Basalt flows",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#eae4b8",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "NV_ex_1.jpg",
+  "NV_ex_2.jpg",
+  "NV_ex_3.jpg",
+  "NV_ex_4.jpg",
+  "NV_ex_5.jpg",
+  "NV_ex_6.jpg",
+  "NV_ex_6_holiday.jpg"
+ ]
+}

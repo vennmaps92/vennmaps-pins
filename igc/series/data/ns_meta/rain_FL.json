@@ -1,0 +1,29 @@
+{
+ "st": "FL",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 49.1,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  },
+  {
+   "title": "Both coasts",
+   "pct": 28.9,
+   "via": "Through Lake Okeechobee and the Everglades, out to Florida Bay and Biscayne Bay."
+  },
+  {
+   "title": "Atlantic Ocean",
+   "pct": 22.0,
+   "via": "Down the rivers of the Southeast to the Atlantic."
+  }
+ ],
+ "files": [
+  "FL_rg_1.jpg",
+  "FL_rg_2.jpg",
+  "FL_rg_3.jpg",
+  "FL_rg_4.jpg",
+  "FL_rg_5.jpg",
+  "FL_rg_5_holiday.jpg"
+ ]
+}

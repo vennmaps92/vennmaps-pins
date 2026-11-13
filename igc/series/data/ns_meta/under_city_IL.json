@@ -1,0 +1,59 @@
+{
+ "st": "IL",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Chicago",
+   "pop": 2721308,
+   "rock": "Sexton Creek Ls., St Clair Ls. and equivalents",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Aurora",
+   "pop": 180710,
+   "rock": "Sexton Creek Ls., St Clair Ls. and equivalents",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Rockford",
+   "pop": 147486,
+   "rock": "Ancell Group",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Springfield",
+   "pop": 112949,
+   "rock": "Shelburn-Patoka Formations",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Peoria",
+   "pop": 111696,
+   "rock": "Carbondale Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Champaign",
+   "pop": 91961,
+   "rock": "Tradewater Formation",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "IL_uc_1.jpg",
+  "IL_uc_2.jpg",
+  "IL_uc_3.jpg",
+  "IL_uc_4.jpg",
+  "IL_uc_5.jpg",
+  "IL_uc_6.jpg",
+  "IL_uc_7.jpg",
+  "IL_uc_8.jpg",
+  "IL_uc_8_holiday.jpg"
+ ]
+}

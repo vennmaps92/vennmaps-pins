@@ -1,0 +1,44 @@
+{
+ "st": "UT",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "13,534 ft",
+   "sub": "Kings Peak"
+  },
+  "qa": {
+   "high_gnis_km": 1.3,
+   "high_dem_ft": 13516,
+   "high_off_ft": 13534,
+   "low_dem_ft": 2184,
+   "low_off_ft": 2180
+  },
+  "low": {
+   "value": "2,180 ft",
+   "sub": "Beaver Dam Wash at the Arizona border"
+  },
+  "oldest": {
+   "name": "Green Creek Complex",
+   "age": "More than 2.5 billion years old",
+   "colour": "#86646b",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Basalts",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#ebdd9e",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "UT_ex_1.jpg",
+  "UT_ex_2.jpg",
+  "UT_ex_3.jpg",
+  "UT_ex_4.jpg",
+  "UT_ex_5.jpg",
+  "UT_ex_6.jpg",
+  "UT_ex_6_holiday.jpg"
+ ]
+}

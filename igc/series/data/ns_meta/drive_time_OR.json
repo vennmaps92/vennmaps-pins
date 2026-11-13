@@ -1,0 +1,23 @@
+{
+ "st": "OR",
+ "n": 7,
+ "route": "I-84",
+ "miles": 375,
+ "start": null,
+ "end": "Idaho",
+ "qa": {
+  "route": "I-84",
+  "chain_km": 603,
+  "left_km": 0
+ },
+ "files": [
+  "OR_dt_1.jpg",
+  "OR_dt_2.jpg",
+  "OR_dt_3.jpg",
+  "OR_dt_4.jpg",
+  "OR_dt_5.jpg",
+  "OR_dt_6.jpg",
+  "OR_dt_7.jpg",
+  "OR_dt_7_holiday.jpg"
+ ]
+}

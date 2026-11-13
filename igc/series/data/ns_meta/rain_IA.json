@@ -1,0 +1,40 @@
+{
+ "st": "IA",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Upper Mississippi-Iowa-Skunk-Wapsipinicon",
+   "pct": 34.9,
+   "via": "Down the Mississippi River to the Gulf."
+  },
+  {
+   "title": "Des Moines",
+   "pct": 22.8,
+   "via": "Down the Mississippi River to the Gulf."
+  },
+  {
+   "title": "Missouri-Little Sioux",
+   "pct": 13.7,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Missouri-Nishnabotna",
+   "pct": 10.1,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Upper Mississippi-Maquoketa-Plum",
+   "pct": 10.0,
+   "via": "Down the Mississippi River to the Gulf."
+  }
+ ],
+ "files": [
+  "IA_rg_1.jpg",
+  "IA_rg_2.jpg",
+  "IA_rg_3.jpg",
+  "IA_rg_4.jpg",
+  "IA_rg_5.jpg",
+  "IA_rg_6.jpg",
+  "IA_rg_7.jpg"
+ ]
+}

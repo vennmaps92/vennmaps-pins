@@ -1,0 +1,23 @@
+{
+ "st": "TX",
+ "n": 7,
+ "route": "I-10",
+ "miles": 880,
+ "start": "New Mexico",
+ "end": "Louisiana",
+ "qa": {
+  "route": "I-10",
+  "chain_km": 1416,
+  "left_km": 0
+ },
+ "files": [
+  "TX_dt_1.jpg",
+  "TX_dt_2.jpg",
+  "TX_dt_3.jpg",
+  "TX_dt_4.jpg",
+  "TX_dt_5.jpg",
+  "TX_dt_6.jpg",
+  "TX_dt_7.jpg",
+  "TX_dt_7_holiday.jpg"
+ ]
+}

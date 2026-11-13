@@ -1,0 +1,44 @@
+{
+ "st": "IL",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "1,235 ft",
+   "sub": "Charles Mound"
+  },
+  "qa": {
+   "high_gnis_km": 20.5,
+   "high_dem_ft": 1228,
+   "high_off_ft": 1235,
+   "low_dem_ft": 78,
+   "low_off_ft": 279
+  },
+  "low": {
+   "value": "279 ft",
+   "sub": "Where the Mississippi meets the Ohio"
+  },
+  "oldest": {
+   "name": "Mt. Simon Ss., Eau Claire Fm. and equivalents",
+   "age": "About 510 million years old",
+   "colour": "#b98a8a",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  },
+  "youngest": {
+   "name": "Baylis Fm., McNairy Fm. and equivalents",
+   "age": "3 million to 140 million years old",
+   "colour": "#dac157",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "IL_ex_1.jpg",
+  "IL_ex_2.jpg",
+  "IL_ex_3.jpg",
+  "IL_ex_4.jpg",
+  "IL_ex_5.jpg",
+  "IL_ex_6.jpg",
+  "IL_ex_6_holiday.jpg"
+ ]
+}

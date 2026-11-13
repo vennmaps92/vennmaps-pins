@@ -1,0 +1,20 @@
+{
+ "st": "NJ",
+ "n": 4,
+ "route": "I-95",
+ "miles": 90,
+ "start": null,
+ "end": "Pennsylvania",
+ "qa": {
+  "route": "I-95",
+  "chain_km": 145,
+  "left_km": 0
+ },
+ "files": [
+  "NJ_dt_1.jpg",
+  "NJ_dt_2.jpg",
+  "NJ_dt_3.jpg",
+  "NJ_dt_4.jpg",
+  "NJ_dt_4_holiday.jpg"
+ ]
+}

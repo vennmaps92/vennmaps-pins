@@ -1,0 +1,22 @@
+{
+ "st": "IA",
+ "n": 7,
+ "route": "I-80",
+ "miles": 305,
+ "start": "Nebraska",
+ "end": "Illinois",
+ "qa": {
+  "route": "I-80",
+  "chain_km": 490,
+  "left_km": 0
+ },
+ "files": [
+  "IA_dt_1.jpg",
+  "IA_dt_2.jpg",
+  "IA_dt_3.jpg",
+  "IA_dt_4.jpg",
+  "IA_dt_5.jpg",
+  "IA_dt_6.jpg",
+  "IA_dt_7.jpg"
+ ]
+}

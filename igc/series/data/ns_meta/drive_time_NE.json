@@ -1,0 +1,22 @@
+{
+ "st": "NE",
+ "n": 7,
+ "route": "I-80",
+ "miles": 452,
+ "start": "Wyoming",
+ "end": "Iowa",
+ "qa": {
+  "route": "I-80",
+  "chain_km": 728,
+  "left_km": 0
+ },
+ "files": [
+  "NE_dt_1.jpg",
+  "NE_dt_2.jpg",
+  "NE_dt_3.jpg",
+  "NE_dt_4.jpg",
+  "NE_dt_5.jpg",
+  "NE_dt_6.jpg",
+  "NE_dt_7.jpg"
+ ]
+}

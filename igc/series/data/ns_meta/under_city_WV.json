@@ -1,0 +1,58 @@
+{
+ "st": "WV",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Charleston",
+   "pop": 46482,
+   "rock": "Quaternary Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Huntington",
+   "pop": 44942,
+   "rock": "Quaternary Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Morgantown",
+   "pop": 30490,
+   "rock": "Conemaugh Group",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Parkersburg",
+   "pop": 28834,
+   "rock": "Quaternary Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Wheeling",
+   "pop": 26060,
+   "rock": "Quaternary Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Martinsburg",
+   "pop": 19047,
+   "rock": "Pinesburg Station Dolomite of the Beekmantown",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "WV_uc_1.jpg",
+  "WV_uc_2.jpg",
+  "WV_uc_3.jpg",
+  "WV_uc_4.jpg",
+  "WV_uc_5.jpg",
+  "WV_uc_6.jpg",
+  "WV_uc_7.jpg",
+  "WV_uc_8.jpg"
+ ]
+}

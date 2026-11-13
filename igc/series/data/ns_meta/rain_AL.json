@@ -1,0 +1,41 @@
+{
+ "st": "AL",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Alabama",
+   "pct": 33.5,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  },
+  {
+   "title": "Mobile-Tombigbee",
+   "pct": 29.7,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  },
+  {
+   "title": "Choctawhatchee-Escambia",
+   "pct": 16.4,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  },
+  {
+   "title": "Middle Tennessee-Elk",
+   "pct": 13.1,
+   "via": "Down the Tennessee, Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Apalachicola",
+   "pct": 5.5,
+   "via": "Down the rivers of the Southeast to the Gulf."
+  }
+ ],
+ "files": [
+  "AL_rg_1.jpg",
+  "AL_rg_2.jpg",
+  "AL_rg_3.jpg",
+  "AL_rg_4.jpg",
+  "AL_rg_5.jpg",
+  "AL_rg_6.jpg",
+  "AL_rg_7.jpg",
+  "AL_rg_7_holiday.jpg"
+ ]
+}

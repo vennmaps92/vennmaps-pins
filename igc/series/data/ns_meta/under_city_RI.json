@@ -1,0 +1,42 @@
+{
+ "st": "RI",
+ "n": 6,
+ "cities": [
+  {
+   "name": "Providence",
+   "pop": 194706,
+   "rock": "Rhode Island Formation of the Narragansett Bay",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Warwick",
+   "pop": 83554,
+   "rock": "Rhode Island Formation of the Narragansett Bay",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Woonsocket",
+   "pop": 44508,
+   "rock": "Granite of the Esmond Igneous Suite",
+   "age": "540 million to 1.0 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Newport",
+   "pop": 24482,
+   "rock": "Price Neck Formation of the Newport Group",
+   "age": "540 million to 1.0 billion years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "RI_uc_1.jpg",
+  "RI_uc_2.jpg",
+  "RI_uc_3.jpg",
+  "RI_uc_4.jpg",
+  "RI_uc_5.jpg",
+  "RI_uc_6.jpg"
+ ]
+}

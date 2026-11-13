@@ -1,0 +1,58 @@
+{
+ "st": "DE",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Wilmington",
+   "pop": 73176,
+   "rock": "Potomac Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Dover",
+   "pop": 40191,
+   "rock": "Chesapeake Group",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Middletown",
+   "pop": 25686,
+   "rock": "Rancocas Formation",
+   "age": "34 million to 56 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Seaford",
+   "pop": 8952,
+   "rock": "Chesapeake Group",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Lewes",
+   "pop": 3702,
+   "rock": "Chesapeake Group",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Selbyville",
+   "pop": 3285,
+   "rock": "Chesapeake Group",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "DE_uc_1.jpg",
+  "DE_uc_2.jpg",
+  "DE_uc_3.jpg",
+  "DE_uc_4.jpg",
+  "DE_uc_5.jpg",
+  "DE_uc_6.jpg",
+  "DE_uc_7.jpg",
+  "DE_uc_8.jpg"
+ ]
+}

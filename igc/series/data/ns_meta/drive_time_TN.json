@@ -1,0 +1,23 @@
+{
+ "st": "TN",
+ "n": 7,
+ "route": "I-40",
+ "miles": 453,
+ "start": "Arkansas",
+ "end": "North Carolina",
+ "qa": {
+  "route": "I-40",
+  "chain_km": 729,
+  "left_km": 0
+ },
+ "files": [
+  "TN_dt_1.jpg",
+  "TN_dt_2.jpg",
+  "TN_dt_3.jpg",
+  "TN_dt_4.jpg",
+  "TN_dt_5.jpg",
+  "TN_dt_6.jpg",
+  "TN_dt_7.jpg",
+  "TN_dt_7_holiday.jpg"
+ ]
+}

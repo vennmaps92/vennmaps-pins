@@ -1,0 +1,59 @@
+{
+ "st": "UT",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Salt Lake City",
+   "pop": 217783,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Provo",
+   "pop": 115479,
+   "rock": "Lake Bonneville deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "St. George",
+   "pop": 106288,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Ogden",
+   "pop": 88656,
+   "rock": "Alluvium and colluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Logan",
+   "pop": 56770,
+   "rock": "Lake Bonneville deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Tooele",
+   "pop": 40919,
+   "rock": "Lake Bonneville deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "UT_uc_1.jpg",
+  "UT_uc_2.jpg",
+  "UT_uc_3.jpg",
+  "UT_uc_4.jpg",
+  "UT_uc_5.jpg",
+  "UT_uc_6.jpg",
+  "UT_uc_7.jpg",
+  "UT_uc_8.jpg",
+  "UT_uc_8_holiday.jpg"
+ ]
+}

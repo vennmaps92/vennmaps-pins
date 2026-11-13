@@ -1,0 +1,22 @@
+{
+ "st": "WV",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 85.2,
+   "via": "Down the Ohio and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Atlantic Ocean",
+   "pct": 14.5,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  }
+ ],
+ "files": [
+  "WV_rg_1.jpg",
+  "WV_rg_2.jpg",
+  "WV_rg_3.jpg",
+  "WV_rg_4.jpg"
+ ]
+}

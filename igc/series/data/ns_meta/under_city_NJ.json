@@ -1,0 +1,59 @@
+{
+ "st": "NJ",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Newark",
+   "pop": 317303,
+   "rock": "Mudstone facies of the Passaic Formation",
+   "age": "140 million to 250 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Trenton",
+   "pop": 91193,
+   "rock": "Gneiss granofels and migmatite",
+   "age": "1.0 billion to 1.6 billion years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Camden",
+   "pop": 71749,
+   "rock": "Potomac Formation, unit 3",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Vineland",
+   "pop": 62070,
+   "rock": "Cohansey Formation",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "New Brunswick",
+   "pop": 57487,
+   "rock": "Passaic Formation of the Brunswick Group",
+   "age": "140 million to 250 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Atlantic City",
+   "pop": 38959,
+   "rock": "Belleplain Member",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NJ_uc_1.jpg",
+  "NJ_uc_2.jpg",
+  "NJ_uc_3.jpg",
+  "NJ_uc_4.jpg",
+  "NJ_uc_5.jpg",
+  "NJ_uc_6.jpg",
+  "NJ_uc_7.jpg",
+  "NJ_uc_8.jpg",
+  "NJ_uc_8_holiday.jpg"
+ ]
+}

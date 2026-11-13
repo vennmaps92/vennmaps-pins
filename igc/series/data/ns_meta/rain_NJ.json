@@ -1,0 +1,29 @@
+{
+ "st": "NJ",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Delaware-Mid Atlantic Coastal",
+   "pct": 66.2,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  },
+  {
+   "title": "Lower Hudson-Long Island",
+   "pct": 31.1,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  },
+  {
+   "title": "Upper Hudson",
+   "pct": 2.7,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  }
+ ],
+ "files": [
+  "NJ_rg_1.jpg",
+  "NJ_rg_2.jpg",
+  "NJ_rg_3.jpg",
+  "NJ_rg_4.jpg",
+  "NJ_rg_5.jpg",
+  "NJ_rg_5_holiday.jpg"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "st": "NC",
+ "n": 7,
+ "route": "I-40",
+ "miles": 419,
+ "start": "Tennessee",
+ "end": null,
+ "qa": {
+  "route": "I-40",
+  "chain_km": 674,
+  "left_km": 0
+ },
+ "files": [
+  "NC_dt_1.jpg",
+  "NC_dt_2.jpg",
+  "NC_dt_3.jpg",
+  "NC_dt_4.jpg",
+  "NC_dt_5.jpg",
+  "NC_dt_6.jpg",
+  "NC_dt_7.jpg",
+  "NC_dt_7_holiday.jpg"
+ ]
+}

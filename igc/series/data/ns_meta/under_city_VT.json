@@ -1,0 +1,58 @@
+{
+ "st": "VT",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Burlington",
+   "pop": 44432,
+   "rock": "Dunham Dolostone",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Rutland",
+   "pop": 15565,
+   "rock": "Dunham Dolostone",
+   "age": "About 510 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Barre",
+   "pop": 8304,
+   "rock": "Carbonaceous phyllite and limestone member",
+   "age": "About 400 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "St. Albans",
+   "pop": 7031,
+   "rock": "Saxe Brook Formation and equivalents",
+   "age": "About 490 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Newport",
+   "pop": 4333,
+   "rock": "Carbonaceous phyllite and limestone member",
+   "age": "About 400 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bellows Falls",
+   "pop": 2740,
+   "rock": "Partridge Formation",
+   "age": "About 460 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "VT_uc_1.jpg",
+  "VT_uc_2.jpg",
+  "VT_uc_3.jpg",
+  "VT_uc_4.jpg",
+  "VT_uc_5.jpg",
+  "VT_uc_6.jpg",
+  "VT_uc_7.jpg",
+  "VT_uc_8.jpg"
+ ]
+}

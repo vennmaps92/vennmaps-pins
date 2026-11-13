@@ -1,0 +1,43 @@
+{
+ "st": "KS",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "4,041 ft",
+   "sub": "Mount Sunflower"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 4040,
+   "high_off_ft": 4041,
+   "low_dem_ft": 687,
+   "low_off_ft": 679
+  },
+  "low": {
+   "value": "679 ft",
+   "sub": "Verdigris River at the Oklahoma border"
+  },
+  "oldest": {
+   "name": "Warsaw Limestone and Keokuk Limestone",
+   "age": "About 340 million years old",
+   "colour": "#7aa2a0",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  },
+  "youngest": {
+   "name": "Ogallala Formation",
+   "age": "3 million to 5 million years old",
+   "colour": "#c8c4ba",
+   "label": "Young sediment",
+   "story": "Sand, silt and clay laid down in the last few million years, much of it still loose."
+  }
+ },
+ "files": [
+  "KS_ex_1.jpg",
+  "KS_ex_2.jpg",
+  "KS_ex_3.jpg",
+  "KS_ex_4.jpg",
+  "KS_ex_5.jpg",
+  "KS_ex_6.jpg"
+ ]
+}

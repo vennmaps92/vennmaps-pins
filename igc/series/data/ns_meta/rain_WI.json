@@ -1,0 +1,23 @@
+{
+ "st": "WI",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 69.2,
+   "via": "Down the Mississippi River to the Gulf."
+  },
+  {
+   "title": "Atlantic Ocean",
+   "pct": 30.3,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  }
+ ],
+ "files": [
+  "WI_rg_1.jpg",
+  "WI_rg_2.jpg",
+  "WI_rg_3.jpg",
+  "WI_rg_4.jpg",
+  "WI_rg_4_holiday.jpg"
+ ]
+}

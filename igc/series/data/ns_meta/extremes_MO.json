@@ -1,0 +1,44 @@
+{
+ "st": "MO",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "1,772 ft",
+   "sub": "Taum Sauk Mountain"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 1771,
+   "high_off_ft": 1772,
+   "low_dem_ft": 1,
+   "low_off_ft": 230
+  },
+  "low": {
+   "value": "230 ft",
+   "sub": "St. Francis River at the Arkansas border"
+  },
+  "oldest": {
+   "name": "St. Francois Mountains Intrusive Terrane",
+   "age": "1.0 billion to 1.6 billion years old",
+   "colour": "#8e6a6e",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Marmaton Group",
+   "age": "About 310 million years old",
+   "colour": "#8aa879",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  }
+ },
+ "files": [
+  "MO_ex_1.jpg",
+  "MO_ex_2.jpg",
+  "MO_ex_3.jpg",
+  "MO_ex_4.jpg",
+  "MO_ex_5.jpg",
+  "MO_ex_6.jpg",
+  "MO_ex_6_holiday.jpg"
+ ]
+}

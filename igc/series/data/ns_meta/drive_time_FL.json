@@ -1,0 +1,23 @@
+{
+ "st": "FL",
+ "n": 7,
+ "route": "I-75",
+ "miles": 471,
+ "start": "Georgia",
+ "end": null,
+ "qa": {
+  "route": "I-75",
+  "chain_km": 758,
+  "left_km": 0
+ },
+ "files": [
+  "FL_dt_1.jpg",
+  "FL_dt_2.jpg",
+  "FL_dt_3.jpg",
+  "FL_dt_4.jpg",
+  "FL_dt_5.jpg",
+  "FL_dt_6.jpg",
+  "FL_dt_7.jpg",
+  "FL_dt_7_holiday.jpg"
+ ]
+}

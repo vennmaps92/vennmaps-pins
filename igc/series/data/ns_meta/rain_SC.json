@@ -1,0 +1,29 @@
+{
+ "st": "SC",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Edisto-Santee",
+   "pct": 58.8,
+   "via": "Down the rivers of the Southeast to the Atlantic."
+  },
+  {
+   "title": "Pee Dee",
+   "pct": 25.3,
+   "via": "Down the rivers of the Southeast to the Atlantic."
+  },
+  {
+   "title": "Ogeechee-Savannah",
+   "pct": 15.9,
+   "via": "Down the rivers of the Southeast to the Atlantic."
+  }
+ ],
+ "files": [
+  "SC_rg_1.jpg",
+  "SC_rg_2.jpg",
+  "SC_rg_3.jpg",
+  "SC_rg_4.jpg",
+  "SC_rg_5.jpg",
+  "SC_rg_5_holiday.jpg"
+ ]
+}

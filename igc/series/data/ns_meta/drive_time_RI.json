@@ -1,0 +1,20 @@
+{
+ "st": "RI",
+ "n": 5,
+ "route": "I-95",
+ "miles": 43,
+ "start": "Massachusetts",
+ "end": "Connecticut",
+ "qa": {
+  "route": "I-95",
+  "chain_km": 70,
+  "left_km": 0
+ },
+ "files": [
+  "RI_dt_1.jpg",
+  "RI_dt_2.jpg",
+  "RI_dt_3.jpg",
+  "RI_dt_4.jpg",
+  "RI_dt_5.jpg"
+ ]
+}

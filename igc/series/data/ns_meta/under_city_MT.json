@@ -1,0 +1,59 @@
+{
+ "st": "MT",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Billings",
+   "pop": 121483,
+   "rock": "Gravel",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Missoula",
+   "pop": 78204,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Great Falls",
+   "pop": 60013,
+   "rock": "Upper Kootenai Formation",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bozeman",
+   "pop": 57894,
+   "rock": "Gravel",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Butte",
+   "pop": 35480,
+   "rock": "Sediment or sedimentary rock",
+   "age": "3 million to 66 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Helena",
+   "pop": 34729,
+   "rock": "Gravel",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "MT_uc_1.jpg",
+  "MT_uc_2.jpg",
+  "MT_uc_3.jpg",
+  "MT_uc_4.jpg",
+  "MT_uc_5.jpg",
+  "MT_uc_6.jpg",
+  "MT_uc_7.jpg",
+  "MT_uc_8.jpg",
+  "MT_uc_8_holiday.jpg"
+ ]
+}

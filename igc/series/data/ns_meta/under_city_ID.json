@@ -1,0 +1,58 @@
+{
+ "st": "ID",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Boise",
+   "pop": 237963,
+   "rock": "Sediments and sedimentary rocks",
+   "age": "10 thousand to 5 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Idaho Falls",
+   "pop": 69523,
+   "rock": "Alluvial deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Pocatello",
+   "pop": 58231,
+   "rock": "Lake Bonneville deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Coeur d'Alene",
+   "pop": 57355,
+   "rock": "Missoula Flood deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Twin Falls",
+   "pop": 55589,
+   "rock": "Basalt",
+   "age": "10 thousand to 5 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Rexburg",
+   "pop": 40695,
+   "rock": "Alluvial deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "ID_uc_1.jpg",
+  "ID_uc_2.jpg",
+  "ID_uc_3.jpg",
+  "ID_uc_4.jpg",
+  "ID_uc_5.jpg",
+  "ID_uc_6.jpg",
+  "ID_uc_7.jpg",
+  "ID_uc_8.jpg"
+ ]
+}

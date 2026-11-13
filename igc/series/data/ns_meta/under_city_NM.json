@@ -1,0 +1,59 @@
+{
+ "st": "NM",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Albuquerque",
+   "pop": 560326,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Las Cruces",
+   "pop": 116998,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Santa Fe",
+   "pop": 90551,
+   "rock": "Piedmont alluvial deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Roswell",
+   "pop": 47176,
+   "rock": "Piedmont alluvial deposits",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Farmington",
+   "pop": 46262,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Hobbs",
+   "pop": 41061,
+   "rock": "Ogallala Formation",
+   "age": "3 million to 23 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NM_uc_1.jpg",
+  "NM_uc_2.jpg",
+  "NM_uc_3.jpg",
+  "NM_uc_4.jpg",
+  "NM_uc_5.jpg",
+  "NM_uc_6.jpg",
+  "NM_uc_7.jpg",
+  "NM_uc_8.jpg",
+  "NM_uc_8_holiday.jpg"
+ ]
+}

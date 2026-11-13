@@ -1,0 +1,22 @@
+{
+ "st": "KS",
+ "n": 7,
+ "route": "I-70",
+ "miles": 421,
+ "start": "Colorado",
+ "end": "Missouri",
+ "qa": {
+  "route": "I-70",
+  "chain_km": 677,
+  "left_km": 0
+ },
+ "files": [
+  "KS_dt_1.jpg",
+  "KS_dt_2.jpg",
+  "KS_dt_3.jpg",
+  "KS_dt_4.jpg",
+  "KS_dt_5.jpg",
+  "KS_dt_6.jpg",
+  "KS_dt_7.jpg"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "st": "KY",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "4,139 ft",
+   "sub": "Black Mountain"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 4138,
+   "high_off_ft": 4139,
+   "low_dem_ft": -87,
+   "low_off_ft": 257
+  },
+  "low": {
+   "value": "257 ft",
+   "sub": "Mississippi River at Kentucky Bend"
+  },
+  "oldest": {
+   "name": "Lexington Limestone",
+   "age": "About 460 million years old",
+   "colour": "#cb8a6d",
+   "label": "Limestone",
+   "story": "Shells and lime mud settled on the floor of a warm, shallow sea."
+  },
+  "youngest": {
+   "name": "Jackson and Claiborne Formations",
+   "age": "23 million to 34 million years old",
+   "colour": "#e0c99c",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "KY_ex_1.jpg",
+  "KY_ex_2.jpg",
+  "KY_ex_3.jpg",
+  "KY_ex_4.jpg",
+  "KY_ex_5.jpg",
+  "KY_ex_6.jpg",
+  "KY_ex_6_holiday.jpg"
+ ]
+}

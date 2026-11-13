@@ -1,0 +1,41 @@
+{
+ "st": "MO",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Gasconade-Osage",
+   "pct": 20.5,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Upper White",
+   "pct": 15.2,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Lower Missouri",
+   "pct": 14.6,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Chariton-Grand",
+   "pct": 11.9,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Upper Mississippi-Salt",
+   "pct": 11.1,
+   "via": "Down the Mississippi River to the Gulf."
+  }
+ ],
+ "files": [
+  "MO_rg_1.jpg",
+  "MO_rg_2.jpg",
+  "MO_rg_3.jpg",
+  "MO_rg_4.jpg",
+  "MO_rg_5.jpg",
+  "MO_rg_6.jpg",
+  "MO_rg_7.jpg",
+  "MO_rg_7_holiday.jpg"
+ ]
+}

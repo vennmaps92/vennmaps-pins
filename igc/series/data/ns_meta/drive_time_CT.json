@@ -1,0 +1,22 @@
+{
+ "st": "CT",
+ "n": 7,
+ "route": "I-95",
+ "miles": 111,
+ "start": "New York",
+ "end": "Rhode Island",
+ "qa": {
+  "route": "I-95",
+  "chain_km": 178,
+  "left_km": 0
+ },
+ "files": [
+  "CT_dt_1.jpg",
+  "CT_dt_2.jpg",
+  "CT_dt_3.jpg",
+  "CT_dt_4.jpg",
+  "CT_dt_5.jpg",
+  "CT_dt_6.jpg",
+  "CT_dt_7.jpg"
+ ]
+}

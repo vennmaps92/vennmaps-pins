@@ -1,0 +1,58 @@
+{
+ "st": "MS",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Jackson",
+   "pop": 141449,
+   "rock": "Jackson Group",
+   "age": "34 million to 56 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Gulfport",
+   "pop": 74621,
+   "rock": "Coastal deposits",
+   "age": "About a few thousand years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Southaven",
+   "pop": 57493,
+   "rock": "Kosciusko Formation of the Claiborne Group",
+   "age": "34 million to 56 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Hattiesburg",
+   "pop": 48522,
+   "rock": "Pascagoula and Hattiesburg Formation",
+   "age": "5 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Tupelo",
+   "pop": 37775,
+   "rock": "Coffee Sand of the Selma Group",
+   "age": "66 million to 140 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Meridian",
+   "pop": 33549,
+   "rock": "Wilcox Formation",
+   "age": "34 million to 56 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "MS_uc_1.jpg",
+  "MS_uc_2.jpg",
+  "MS_uc_3.jpg",
+  "MS_uc_4.jpg",
+  "MS_uc_5.jpg",
+  "MS_uc_6.jpg",
+  "MS_uc_7.jpg",
+  "MS_uc_8.jpg"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "st": "KY",
+ "n": 5,
+ "route": "I-75",
+ "miles": 193,
+ "start": "Ohio",
+ "end": "Tennessee",
+ "qa": {
+  "route": "I-75",
+  "chain_km": 311,
+  "left_km": 0
+ },
+ "files": [
+  "KY_dt_1.jpg",
+  "KY_dt_2.jpg",
+  "KY_dt_3.jpg",
+  "KY_dt_4.jpg",
+  "KY_dt_5.jpg",
+  "KY_dt_5_holiday.jpg"
+ ]
+}

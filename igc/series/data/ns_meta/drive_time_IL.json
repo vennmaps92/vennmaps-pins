@@ -1,0 +1,23 @@
+{
+ "st": "IL",
+ "n": 7,
+ "route": "I-57",
+ "miles": 360,
+ "start": null,
+ "end": "Missouri",
+ "qa": {
+  "route": "I-57",
+  "chain_km": 580,
+  "left_km": 0
+ },
+ "files": [
+  "IL_dt_1.jpg",
+  "IL_dt_2.jpg",
+  "IL_dt_3.jpg",
+  "IL_dt_4.jpg",
+  "IL_dt_5.jpg",
+  "IL_dt_6.jpg",
+  "IL_dt_7.jpg",
+  "IL_dt_7_holiday.jpg"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "st": "AR",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Lower Red-Ouachita",
+   "pct": 24.6,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Lower Mississippi-St. Francis",
+   "pct": 22.2,
+   "via": "Down the lower Mississippi River to the Gulf."
+  },
+  {
+   "title": "Upper White",
+   "pct": 22.1,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Lower Arkansas",
+   "pct": 18.8,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Red-Sulphur",
+   "pct": 8.4,
+   "via": "Down the Arkansas, Red and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "AR_rg_1.jpg",
+  "AR_rg_2.jpg",
+  "AR_rg_3.jpg",
+  "AR_rg_4.jpg",
+  "AR_rg_5.jpg",
+  "AR_rg_6.jpg",
+  "AR_rg_7.jpg"
+ ]
+}

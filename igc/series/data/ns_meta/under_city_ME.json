@@ -1,0 +1,58 @@
+{
+ "st": "ME",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Portland",
+   "pop": 69568,
+   "rock": "Cushing Formation",
+   "age": "440 million to 1.0 billion years old",
+   "off_km": 2
+  },
+  {
+   "name": "Lewiston",
+   "pop": 38772,
+   "rock": "Patch Mountain Member",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bangor",
+   "pop": 32446,
+   "rock": "Vassalboro Formation",
+   "age": "About 450 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Sanford",
+   "pop": 22497,
+   "rock": "Muscovite-biotite granite",
+   "age": "About 330 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Augusta",
+   "pop": 19168,
+   "rock": "Vassalboro Formation",
+   "age": "About 450 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Ellsworth",
+   "pop": 8822,
+   "rock": "Biotite granite",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "ME_uc_1.jpg",
+  "ME_uc_2.jpg",
+  "ME_uc_3.jpg",
+  "ME_uc_4.jpg",
+  "ME_uc_5.jpg",
+  "ME_uc_6.jpg",
+  "ME_uc_7.jpg",
+  "ME_uc_8.jpg"
+ ]
+}

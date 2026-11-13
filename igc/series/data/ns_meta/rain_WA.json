@@ -1,0 +1,41 @@
+{
+ "st": "WA",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Upper Columbia",
+   "pct": 32.9,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  },
+  {
+   "title": "Puget Sound",
+   "pct": 20.5,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  },
+  {
+   "title": "Yakima",
+   "pct": 9.1,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  },
+  {
+   "title": "Oregon-Washington Coastal",
+   "pct": 8.8,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  },
+  {
+   "title": "Lower Snake",
+   "pct": 8.4,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  }
+ ],
+ "files": [
+  "WA_rg_1.jpg",
+  "WA_rg_2.jpg",
+  "WA_rg_3.jpg",
+  "WA_rg_4.jpg",
+  "WA_rg_5.jpg",
+  "WA_rg_6.jpg",
+  "WA_rg_7.jpg",
+  "WA_rg_7_holiday.jpg"
+ ]
+}

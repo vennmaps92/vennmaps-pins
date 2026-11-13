@@ -1,0 +1,22 @@
+{
+ "st": "SD",
+ "n": 7,
+ "route": "I-90",
+ "miles": 412,
+ "start": "Wyoming",
+ "end": "Minnesota",
+ "qa": {
+  "route": "I-90",
+  "chain_km": 662,
+  "left_km": 0
+ },
+ "files": [
+  "SD_dt_1.jpg",
+  "SD_dt_2.jpg",
+  "SD_dt_3.jpg",
+  "SD_dt_4.jpg",
+  "SD_dt_5.jpg",
+  "SD_dt_6.jpg",
+  "SD_dt_7.jpg"
+ ]
+}

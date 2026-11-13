@@ -1,0 +1,23 @@
+{
+ "st": "CO",
+ "n": 7,
+ "route": "I-70",
+ "miles": 448,
+ "start": "Utah",
+ "end": "Kansas",
+ "qa": {
+  "route": "I-70",
+  "chain_km": 721,
+  "left_km": 0
+ },
+ "files": [
+  "CO_dt_1.jpg",
+  "CO_dt_2.jpg",
+  "CO_dt_3.jpg",
+  "CO_dt_4.jpg",
+  "CO_dt_5.jpg",
+  "CO_dt_6.jpg",
+  "CO_dt_7.jpg",
+  "CO_dt_7_holiday.jpg"
+ ]
+}

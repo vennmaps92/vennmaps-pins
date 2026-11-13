@@ -1,0 +1,34 @@
+{
+ "st": "NH",
+ "n": 6,
+ "slides": [
+  {
+   "title": "Merrimack",
+   "pct": 40.9,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Connecticut",
+   "pct": 33.0,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Saco",
+   "pct": 18.3,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Androscoggin",
+   "pct": 7.8,
+   "via": "Down the rivers of New England to the Atlantic."
+  }
+ ],
+ "files": [
+  "NH_rg_1.jpg",
+  "NH_rg_2.jpg",
+  "NH_rg_3.jpg",
+  "NH_rg_4.jpg",
+  "NH_rg_5.jpg",
+  "NH_rg_6.jpg"
+ ]
+}

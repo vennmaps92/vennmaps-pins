@@ -1,0 +1,40 @@
+{
+ "st": "SD",
+ "n": 7,
+ "slides": [
+  {
+   "title": "Missouri-White",
+   "pct": 23.9,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Missouri-Oahe",
+   "pct": 21.3,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "James",
+   "pct": 19.0,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Cheyenne",
+   "pct": 16.8,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Missouri-Big Sioux",
+   "pct": 13.6,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  }
+ ],
+ "files": [
+  "SD_rg_1.jpg",
+  "SD_rg_2.jpg",
+  "SD_rg_3.jpg",
+  "SD_rg_4.jpg",
+  "SD_rg_5.jpg",
+  "SD_rg_6.jpg",
+  "SD_rg_7.jpg"
+ ]
+}

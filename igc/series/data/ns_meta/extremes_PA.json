@@ -1,0 +1,44 @@
+{
+ "st": "PA",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "3,213 ft",
+   "sub": "Mount Davis"
+  },
+  "qa": {
+   "high_gnis_km": 0.4,
+   "high_dem_ft": 3211,
+   "high_off_ft": 3213,
+   "low_dem_ft": -281,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Delaware River at the Delaware border"
+  },
+  "oldest": {
+   "name": "Metarhyolite",
+   "age": "More than 540 million years old",
+   "colour": "#816164",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  },
+  "youngest": {
+   "name": "Diabase",
+   "age": "140 million to 200 million years old",
+   "colour": "#78a391",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "PA_ex_1.jpg",
+  "PA_ex_2.jpg",
+  "PA_ex_3.jpg",
+  "PA_ex_4.jpg",
+  "PA_ex_5.jpg",
+  "PA_ex_6.jpg",
+  "PA_ex_6_holiday.jpg"
+ ]
+}

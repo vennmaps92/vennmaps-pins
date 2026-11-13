@@ -1,0 +1,59 @@
+{
+ "st": "CA",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Los Angeles",
+   "pop": 3878704,
+   "rock": "Ocotillo Conglomerate and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "San Diego",
+   "pop": 1404452,
+   "rock": "Older Quaternary alluvium and marine d…",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "San Jose",
+   "pop": 997368,
+   "rock": "Ocotillo Conglomerate and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fresno",
+   "pop": 550105,
+   "rock": "Ocotillo Conglomerate and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Sacramento",
+   "pop": 535798,
+   "rock": "Ocotillo Conglomerate and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Oakland",
+   "pop": 443554,
+   "rock": "Ocotillo Conglomerate and equivalents",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "CA_uc_1.jpg",
+  "CA_uc_2.jpg",
+  "CA_uc_3.jpg",
+  "CA_uc_4.jpg",
+  "CA_uc_5.jpg",
+  "CA_uc_6.jpg",
+  "CA_uc_7.jpg",
+  "CA_uc_8.jpg",
+  "CA_uc_8_holiday.jpg"
+ ]
+}

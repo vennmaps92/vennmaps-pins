@@ -1,0 +1,23 @@
+{
+ "st": "OR",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Pacific Ocean",
+   "pct": 81.2,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific. Down California rivers to the Pacific."
+  },
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 17.2,
+   "via": "Into Oregon's closed desert basins, where it dries up or soaks in."
+  }
+ ],
+ "files": [
+  "OR_rg_1.jpg",
+  "OR_rg_2.jpg",
+  "OR_rg_3.jpg",
+  "OR_rg_4.jpg",
+  "OR_rg_4_holiday.jpg"
+ ]
+}

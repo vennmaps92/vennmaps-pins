@@ -1,0 +1,23 @@
+{
+ "st": "AZ",
+ "n": 7,
+ "route": "I-10",
+ "miles": 391,
+ "start": "California",
+ "end": "New Mexico",
+ "qa": {
+  "route": "I-10",
+  "chain_km": 629,
+  "left_km": 0
+ },
+ "files": [
+  "AZ_dt_1.jpg",
+  "AZ_dt_2.jpg",
+  "AZ_dt_3.jpg",
+  "AZ_dt_4.jpg",
+  "AZ_dt_5.jpg",
+  "AZ_dt_6.jpg",
+  "AZ_dt_7.jpg",
+  "AZ_dt_7_holiday.jpg"
+ ]
+}

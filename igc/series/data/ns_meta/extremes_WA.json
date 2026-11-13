@@ -1,0 +1,44 @@
+{
+ "st": "WA",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "14,400 ft",
+   "sub": "Mount Rainier"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 14411,
+   "high_off_ft": 14400,
+   "low_dem_ft": -15,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Pacific Ocean"
+  },
+  "oldest": {
+   "name": "Mesozoic granitic rocks",
+   "age": "More than 34 million years old",
+   "colour": "#ae999d",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Pleistocene-Recent volcanic rocks",
+   "age": "10 thousand to 5 million years old",
+   "colour": "#d8b450",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "WA_ex_1.jpg",
+  "WA_ex_2.jpg",
+  "WA_ex_3.jpg",
+  "WA_ex_4.jpg",
+  "WA_ex_5.jpg",
+  "WA_ex_6.jpg",
+  "WA_ex_6_holiday.jpg"
+ ]
+}

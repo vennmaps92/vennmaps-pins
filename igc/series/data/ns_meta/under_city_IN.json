@@ -1,0 +1,59 @@
+{
+ "st": "IN",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Indianapolis",
+   "pop": 891484,
+   "rock": "Muscatatuck Group",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fort Wayne",
+   "pop": 273203,
+   "rock": "Muscatatuck Group",
+   "age": "About 390 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Evansville",
+   "pop": 115395,
+   "rock": "Patoka and Shelburn Formations",
+   "age": "About 310 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "South Bend",
+   "pop": 103713,
+   "rock": "Ellsworth Shale",
+   "age": "About 370 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Bloomington",
+   "pop": 79986,
+   "rock": "Sanders Group",
+   "age": "About 340 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Hammond",
+   "pop": 76030,
+   "rock": "Wabash Formation",
+   "age": "About 430 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "IN_uc_1.jpg",
+  "IN_uc_2.jpg",
+  "IN_uc_3.jpg",
+  "IN_uc_4.jpg",
+  "IN_uc_5.jpg",
+  "IN_uc_6.jpg",
+  "IN_uc_7.jpg",
+  "IN_uc_8.jpg",
+  "IN_uc_8_holiday.jpg"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "st": "NV",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Las Vegas",
+   "pop": 678922,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Reno",
+   "pop": 281714,
+   "rock": "Metavolcanic rocks",
+   "age": "140 million to 250 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Carson City",
+   "pop": 58148,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Fernley",
+   "pop": 25508,
+   "rock": "Esmeralda Fm., Siebert Tuff and equivalents",
+   "age": "3 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Mesquite",
+   "pop": 23599,
+   "rock": "Esmeralda Fm., Siebert Tuff and equivalents",
+   "age": "3 million to 23 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Elko",
+   "pop": 20822,
+   "rock": "Alluvium",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "NV_uc_1.jpg",
+  "NV_uc_2.jpg",
+  "NV_uc_3.jpg",
+  "NV_uc_4.jpg",
+  "NV_uc_5.jpg",
+  "NV_uc_6.jpg",
+  "NV_uc_7.jpg",
+  "NV_uc_8.jpg",
+  "NV_uc_8_holiday.jpg"
+ ]
+}

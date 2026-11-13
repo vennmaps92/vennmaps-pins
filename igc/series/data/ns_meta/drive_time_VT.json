@@ -1,0 +1,22 @@
+{
+ "st": "VT",
+ "n": 7,
+ "route": "I-91",
+ "miles": 178,
+ "start": null,
+ "end": "Massachusetts",
+ "qa": {
+  "route": "I-91",
+  "chain_km": 286,
+  "left_km": 0
+ },
+ "files": [
+  "VT_dt_1.jpg",
+  "VT_dt_2.jpg",
+  "VT_dt_3.jpg",
+  "VT_dt_4.jpg",
+  "VT_dt_5.jpg",
+  "VT_dt_6.jpg",
+  "VT_dt_7.jpg"
+ ]
+}

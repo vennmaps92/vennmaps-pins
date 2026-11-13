@@ -1,0 +1,44 @@
+{
+ "st": "MN",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "2,302 ft",
+   "sub": "Eagle Mountain"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 2296,
+   "high_off_ft": 2302,
+   "low_dem_ft": 592,
+   "low_off_ft": 601
+  },
+  "low": {
+   "value": "601 ft",
+   "sub": "Lake Superior"
+  },
+  "oldest": {
+   "name": "Mafic volcanic and hypabyssal intrusiv…",
+   "age": "More than 1.6 billion years old",
+   "colour": "#af9a9d",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  },
+  "youngest": {
+   "name": "Cretaceous",
+   "age": "66 million to 140 million years old",
+   "colour": "#c6c091",
+   "label": "Sandstone",
+   "story": "Sand from old beaches, rivers or dunes was cemented into rock."
+  }
+ },
+ "files": [
+  "MN_ex_1.jpg",
+  "MN_ex_2.jpg",
+  "MN_ex_3.jpg",
+  "MN_ex_4.jpg",
+  "MN_ex_5.jpg",
+  "MN_ex_6.jpg",
+  "MN_ex_6_holiday.jpg"
+ ]
+}

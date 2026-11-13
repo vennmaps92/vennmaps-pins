@@ -1,0 +1,23 @@
+{
+ "st": "GA",
+ "n": 7,
+ "route": "I-75",
+ "miles": 356,
+ "start": "Tennessee",
+ "end": "Florida",
+ "qa": {
+  "route": "I-75",
+  "chain_km": 573,
+  "left_km": 0
+ },
+ "files": [
+  "GA_dt_1.jpg",
+  "GA_dt_2.jpg",
+  "GA_dt_3.jpg",
+  "GA_dt_4.jpg",
+  "GA_dt_5.jpg",
+  "GA_dt_6.jpg",
+  "GA_dt_7.jpg",
+  "GA_dt_7_holiday.jpg"
+ ]
+}

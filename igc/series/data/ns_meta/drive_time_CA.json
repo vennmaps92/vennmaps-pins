@@ -1,0 +1,23 @@
+{
+ "st": "CA",
+ "n": 7,
+ "route": "I-5",
+ "miles": 799,
+ "start": "Oregon",
+ "end": null,
+ "qa": {
+  "route": "I-5",
+  "chain_km": 1287,
+  "left_km": 0
+ },
+ "files": [
+  "CA_dt_1.jpg",
+  "CA_dt_2.jpg",
+  "CA_dt_3.jpg",
+  "CA_dt_4.jpg",
+  "CA_dt_5.jpg",
+  "CA_dt_6.jpg",
+  "CA_dt_7.jpg",
+  "CA_dt_7_holiday.jpg"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "st": "TX",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 97.3,
+   "via": "Down Texas rivers to the Gulf. Down the Rio Grande to the Gulf."
+  },
+  {
+   "title": "Nowhere: it never reaches the sea",
+   "pct": 2.1,
+   "via": "Into closed desert basins, where it dries up or soaks in."
+  }
+ ],
+ "files": [
+  "TX_rg_1.jpg",
+  "TX_rg_2.jpg",
+  "TX_rg_3.jpg",
+  "TX_rg_4.jpg",
+  "TX_rg_4_holiday.jpg"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "st": "RI",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "811 ft",
+   "sub": "Jerimoth Hill"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 811,
+   "high_off_ft": 811,
+   "low_dem_ft": -8,
+   "low_off_ft": 0
+  },
+  "low": {
+   "value": "Sea level",
+   "sub": "Atlantic Ocean"
+  },
+  "oldest": {
+   "name": "Augen granite gneiss of the Esmond Ign…",
+   "age": "540 million to 1.0 billion years old",
+   "colour": "#beadb0",
+   "label": "Metamorphic",
+   "story": "Older rock was baked and squeezed deep inside ancient mountains."
+  },
+  "youngest": {
+   "name": "Monchiquite",
+   "age": "140 million to 200 million years old",
+   "colour": "#8fb0a0",
+   "label": "Bedrock",
+   "story": "Layer on layer of ancient rock, stacked over millions of years."
+  }
+ },
+ "files": [
+  "RI_ex_1.jpg",
+  "RI_ex_2.jpg",
+  "RI_ex_3.jpg",
+  "RI_ex_4.jpg",
+  "RI_ex_5.jpg",
+  "RI_ex_6.jpg"
+ ]
+}

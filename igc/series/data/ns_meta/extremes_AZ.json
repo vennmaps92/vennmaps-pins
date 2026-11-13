@@ -1,0 +1,44 @@
+{
+ "st": "AZ",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "12,637 ft",
+   "sub": "Humphreys Peak"
+  },
+  "qa": {
+   "high_gnis_km": 0.0,
+   "high_dem_ft": 12632,
+   "high_off_ft": 12637,
+   "low_dem_ft": 78,
+   "low_off_ft": 70
+  },
+  "low": {
+   "value": "70 ft",
+   "sub": "Colorado River at the Mexico border"
+  },
+  "oldest": {
+   "name": "Early Proterozoic granitic rocks",
+   "age": "More than 1.6 billion years old",
+   "colour": "#947079",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Basaltic to andesitic lava flows",
+   "age": "10 thousand to 3 million years old",
+   "colour": "#c8c4ba",
+   "label": "Volcanic",
+   "story": "Lava and ash from long-gone volcanoes built this ground."
+  }
+ },
+ "files": [
+  "AZ_ex_1.jpg",
+  "AZ_ex_2.jpg",
+  "AZ_ex_3.jpg",
+  "AZ_ex_4.jpg",
+  "AZ_ex_5.jpg",
+  "AZ_ex_6.jpg",
+  "AZ_ex_6_holiday.jpg"
+ ]
+}

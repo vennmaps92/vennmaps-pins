@@ -1,0 +1,22 @@
+{
+ "st": "AR",
+ "n": 7,
+ "route": "I-40",
+ "miles": 283,
+ "start": "Oklahoma",
+ "end": "Tennessee",
+ "qa": {
+  "route": "I-40",
+  "chain_km": 455,
+  "left_km": 0
+ },
+ "files": [
+  "AR_dt_1.jpg",
+  "AR_dt_2.jpg",
+  "AR_dt_3.jpg",
+  "AR_dt_4.jpg",
+  "AR_dt_5.jpg",
+  "AR_dt_6.jpg",
+  "AR_dt_7.jpg"
+ ]
+}

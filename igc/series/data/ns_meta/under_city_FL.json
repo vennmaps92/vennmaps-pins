@@ -1,0 +1,59 @@
+{
+ "st": "FL",
+ "n": 8,
+ "cities": [
+  {
+   "name": "Jacksonville",
+   "pop": 1009833,
+   "rock": "Undifferentiated sediments",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Miami",
+   "pop": 487014,
+   "rock": "Miami Limestone",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Tampa",
+   "pop": 414547,
+   "rock": "Tampa Member (Arcadia Fm. of the Hawthorn Group)…",
+   "age": "5 million to 34 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Orlando",
+   "pop": 334854,
+   "rock": "Undifferentiated sediments",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Port St. Lucie",
+   "pop": 258575,
+   "rock": "Anastasia Formation",
+   "age": "10 thousand to 3 million years old",
+   "off_km": 0.0
+  },
+  {
+   "name": "Cape Coral",
+   "pop": 233025,
+   "rock": "Caloosahatchee Fm. and equivalents",
+   "age": "10 thousand to 5 million years old",
+   "off_km": 0.0
+  }
+ ],
+ "files": [
+  "FL_uc_1.jpg",
+  "FL_uc_2.jpg",
+  "FL_uc_3.jpg",
+  "FL_uc_4.jpg",
+  "FL_uc_5.jpg",
+  "FL_uc_6.jpg",
+  "FL_uc_7.jpg",
+  "FL_uc_8.jpg",
+  "FL_uc_8_holiday.jpg"
+ ]
+}

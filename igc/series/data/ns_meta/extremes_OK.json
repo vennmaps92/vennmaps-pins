@@ -1,0 +1,43 @@
+{
+ "st": "OK",
+ "n": 6,
+ "data": {
+  "high": {
+   "value": "4,975 ft",
+   "sub": "Black Mesa"
+  },
+  "qa": {
+   "high_gnis_km": "fixed",
+   "high_dem_ft": 4981,
+   "high_off_ft": 4975,
+   "low_dem_ft": 288,
+   "low_off_ft": 289
+  },
+  "low": {
+   "value": "289 ft",
+   "sub": "Little River at the Arkansas border"
+  },
+  "oldest": {
+   "name": "Tishomingo and Troy Granites",
+   "age": "1.0 billion to 1.6 billion years old",
+   "colour": "#bba9ac",
+   "label": "Granite-type",
+   "story": "Magma cooled slowly miles underground, then erosion laid it bare."
+  },
+  "youngest": {
+   "name": "Ogallala Formation",
+   "age": "3 million to 5 million years old",
+   "colour": "#d7bb49",
+   "label": "Young sediment",
+   "story": "Sand, silt and clay laid down in the last few million years, much of it still loose."
+  }
+ },
+ "files": [
+  "OK_ex_1.jpg",
+  "OK_ex_2.jpg",
+  "OK_ex_3.jpg",
+  "OK_ex_4.jpg",
+  "OK_ex_5.jpg",
+  "OK_ex_6.jpg"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "st": "MT",
+ "n": 4,
+ "slides": [
+  {
+   "title": "Gulf of Mexico",
+   "pct": 82.4,
+   "via": "Down the Missouri and Mississippi rivers to the Gulf."
+  },
+  {
+   "title": "Pacific Ocean",
+   "pct": 17.1,
+   "via": "Down the Columbia River and other Northwest rivers to the Pacific."
+  }
+ ],
+ "files": [
+  "MT_rg_1.jpg",
+  "MT_rg_2.jpg",
+  "MT_rg_3.jpg",
+  "MT_rg_4.jpg",
+  "MT_rg_4_holiday.jpg"
+ ]
+}

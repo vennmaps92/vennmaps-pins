@@ -1,0 +1,28 @@
+{
+ "st": "VT",
+ "n": 5,
+ "slides": [
+  {
+   "title": "Middle Saint Lawrence River",
+   "pct": 54.4,
+   "via": "Through the Great Lakes and down the St. Lawrence River to the Atlantic."
+  },
+  {
+   "title": "Connecticut",
+   "pct": 40.9,
+   "via": "Down the rivers of New England to the Atlantic."
+  },
+  {
+   "title": "Upper Hudson",
+   "pct": 4.7,
+   "via": "Down the Hudson, Delaware, Susquehanna or Potomac to the Atlantic."
+  }
+ ],
+ "files": [
+  "VT_rg_1.jpg",
+  "VT_rg_2.jpg",
+  "VT_rg_3.jpg",
+  "VT_rg_4.jpg",
+  "VT_rg_5.jpg"
+ ]
+}

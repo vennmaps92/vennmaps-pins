@@ -1,0 +1,19 @@
+{
+ "st": "DE",
+ "n": 4,
+ "route": "I-95",
+ "miles": 23,
+ "start": "Pennsylvania",
+ "end": "Maryland",
+ "qa": {
+  "route": "I-95",
+  "chain_km": 37,
+  "left_km": 0
+ },
+ "files": [
+  "DE_dt_1.jpg",
+  "DE_dt_2.jpg",
+  "DE_dt_3.jpg",
+  "DE_dt_4.jpg"
+ ]
+}
