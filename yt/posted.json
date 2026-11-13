@@ -119,10 +119,11 @@
   "url": "https://www.youtube.com/watch?v=uBmphdBqsMk"
  },
  "2026-11-12_1900_WY_how_close_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "bd4d49f3-3287-471d-8d48-34993f562e86",
   "for_local": "2026-11-12 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=G4nRf_69cVg"
  },
  "2026-11-13_1200_OH_geology_legend_tiktok": {
   "status": "scheduled",
