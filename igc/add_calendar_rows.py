@@ -32,7 +32,7 @@ def main():
         sys.exit("Excel has the calendar open. Close it and run again.")
     src = os.environ.get("SCHEDULE_FILE")
     data = json.load(open(src, encoding="utf-8")) if src else json.load(urllib.request.urlopen(URL, timeout=60))
-    items = [i for i in data if i.get("series") in SERIES]
+    items = [i for i in data if (i.get("series") or "3 ways") in SERIES]
     print(f"{len(items)} {SERIES} posts in the schedule")
     bak = XLSX.replace(".xlsx", f"_bak_{dt.datetime.now():%Y%m%d_%H%M}_newcarousels.xlsx")
     shutil.copy2(XLSX, bak); print("Backup:", bak)
@@ -114,9 +114,12 @@ def main():
         put(cT, fmt(when, time_f) if time_f else when.time())
         put(cP, v(tmpl, cP))
         n = len(it["images"])
-        if it["series"] == "Rock Layers":
+        if it.get("series") == "Rock Layers":
             what = f"Auto-posts (Blotato): Rock Layers carousel, {n} slides"
             opener = f"{NAMES[it['state']]}: dig down through the rock layers"
+        elif not it.get("series"):
+            what = f"Auto-posts (Blotato): 3 ways carousel, {n} slides"
+            opener = f"{NAMES[it['state']]}, mapped 3 ways"
         elif it["series"] != "Face-off":
             what = f"Auto-posts (Blotato): {it['series']} carousel, {n} slides"
             opener = it["caption"].split("\n")[0][:90]
@@ -124,7 +127,7 @@ def main():
             a, b = it["state"].split("-")
             what = f"Auto-posts (Blotato): Face-off carousel, {n} slides"
             opener = f"{NAMES[a]} vs {NAMES[b]}"
-        put(cWhat, what); put(cS, state_text(it["state"])); put(cSer, it["series"])
+        put(cWhat, what); put(cS, state_text(it["state"])); put(cSer, it.get("series") or "3 ways")
         put(cVid, ", ".join(it["images"][:1]) + f" (+{n - 1} more, reels branch c/)")
         put(cOpen, opener); put(cCap, it["caption"])
         put(cTT, "n/a"); put(cIG, " ".join(re.findall(r"#\w+", it["caption"])))
