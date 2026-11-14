@@ -153,5 +153,11 @@
   "submission_id": "34c2b6e9-87bb-4409-a8ab-b5196566a140",
   "for_local": "2026-11-14 17:00",
   "tries": 0
+ },
+ "2026-11-15_0900_IL_dig_a_hole_voiced_don_tiktok": {
+  "status": "scheduled",
+  "submission_id": "d466a37d-8cc0-4c8f-8c23-2e680ddf30ac",
+  "for_local": "2026-11-15 09:00",
+  "tries": 0
  }
 }

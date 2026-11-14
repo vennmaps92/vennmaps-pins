@@ -154,15 +154,22 @@
   "url": "https://www.youtube.com/watch?v=-u6NYo9BJnI"
  },
  "2026-11-14_1500_GA_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "f15d9bdd-110e-4865-89fe-f69ddc59f1aa",
   "for_local": "2026-11-14 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=RMq3-jmR-6o"
  },
  "2026-11-14_1700_UT_watershed_tiktok": {
   "status": "scheduled",
   "submission_id": "0dd83c88-1d93-4922-ac5a-ae841d3f1d79",
   "for_local": "2026-11-14 17:00",
+  "tries": 0
+ },
+ "2026-11-15_0900_IL_dig_a_hole_voiced_don_tiktok": {
+  "status": "scheduled",
+  "submission_id": "b4876715-e7e8-4dcf-928c-08198724b973",
+  "for_local": "2026-11-15 09:00",
   "tries": 0
  }
 }
