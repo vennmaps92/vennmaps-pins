@@ -139,5 +139,11 @@
   "submission_id": "49320ff7-8453-4253-919c-15ac26799ab8",
   "for_local": "2026-11-13 19:00",
   "tries": 0
+ },
+ "2026-11-14_1200_WI_vintage_tiktok": {
+  "status": "scheduled",
+  "submission_id": "8e440e99-24d8-4100-900e-6de826d8d743",
+  "for_local": "2026-11-14 12:00",
+  "tries": 0
  }
 }
