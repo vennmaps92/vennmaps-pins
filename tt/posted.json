@@ -147,10 +147,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7707841058222198030"
  },
  "2026-11-14_1200_WI_vintage_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "fed02846-c7e9-4977-b851-483de1608aaa",
   "for_local": "2026-11-14 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7708103963370884383"
  },
  "2026-11-14_1500_GA_historical_jessie": {
   "status": "scheduled",

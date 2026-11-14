@@ -147,10 +147,11 @@
   "url": "https://www.youtube.com/watch?v=m6TfHtPzmBI"
  },
  "2026-11-14_1200_WI_vintage_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "5af4a176-abe3-48f8-921c-84a00de87fc6",
   "for_local": "2026-11-14 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=-u6NYo9BJnI"
  },
  "2026-11-14_1500_GA_historical_jessie": {
   "status": "scheduled",

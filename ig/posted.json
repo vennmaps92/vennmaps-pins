@@ -142,10 +142,11 @@
   "url": "https://www.instagram.com/reel/DftFTUlmd7f/"
  },
  "2026-11-14_1200_WI_vintage_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "8e440e99-24d8-4100-900e-6de826d8d743",
   "for_local": "2026-11-14 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/Dfu6H0ED7rr/"
  },
  "2026-11-14_1700_UT_watershed_tiktok": {
   "status": "scheduled",
