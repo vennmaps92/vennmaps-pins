@@ -157,5 +157,11 @@
   "submission_id": "f15d9bdd-110e-4865-89fe-f69ddc59f1aa",
   "for_local": "2026-11-14 15:00",
   "tries": 0
+ },
+ "2026-11-14_1700_UT_watershed_tiktok": {
+  "status": "scheduled",
+  "submission_id": "0dd83c88-1d93-4922-ac5a-ae841d3f1d79",
+  "for_local": "2026-11-14 17:00",
+  "tries": 0
  }
 }
