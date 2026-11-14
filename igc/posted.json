@@ -40,5 +40,11 @@
   "for_local": "2026-11-14 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/DfullsAEfpl/"
+ },
+ "2026-11-15_1000_NY_carousel": {
+  "status": "scheduled",
+  "submission_id": "2307c9ad-ba94-4f4a-8c2d-8b7ef28ad9b6",
+  "for_local": "2026-11-15 10:00",
+  "tries": 0
  }
 }
