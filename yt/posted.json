@@ -172,5 +172,11 @@
   "submission_id": "b4876715-e7e8-4dcf-928c-08198724b973",
   "for_local": "2026-11-15 09:00",
   "tries": 0
+ },
+ "2026-11-15_1500_IL_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "16aab437-92d6-4f81-9590-ebcd9caea9e3",
+  "for_local": "2026-11-15 15:00",
+  "tries": 0
  }
 }
