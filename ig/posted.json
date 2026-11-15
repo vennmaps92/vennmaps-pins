@@ -149,10 +149,11 @@
   "url": "https://www.instagram.com/reel/Dfu6H0ED7rr/"
  },
  "2026-11-14_1700_UT_watershed_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "34c2b6e9-87bb-4409-a8ab-b5196566a140",
   "for_local": "2026-11-14 17:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/Dfvcdj0CFLz/"
  },
  "2026-11-15_0900_IL_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",

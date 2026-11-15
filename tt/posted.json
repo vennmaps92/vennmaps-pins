@@ -161,10 +161,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7708150268004814110"
  },
  "2026-11-14_1700_UT_watershed_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "1a8f48df-054b-4966-86e4-c414facfad59",
   "for_local": "2026-11-14 17:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7708181333264043294"
  },
  "2026-11-15_0900_IL_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",

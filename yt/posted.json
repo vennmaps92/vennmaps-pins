@@ -161,10 +161,11 @@
   "url": "https://www.youtube.com/watch?v=RMq3-jmR-6o"
  },
  "2026-11-14_1700_UT_watershed_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "0dd83c88-1d93-4922-ac5a-ae841d3f1d79",
   "for_local": "2026-11-14 17:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=Iol9rLkep2Q"
  },
  "2026-11-15_0900_IL_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",
