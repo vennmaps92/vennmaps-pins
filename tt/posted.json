@@ -189,10 +189,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7708583241007074591"
  },
  "2026-11-16_1200_NV_then_vs_now_voiced_jessie_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "7c56d5f7-a60c-4190-bdd3-cc8d80c86f4f",
   "for_local": "2026-11-16 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7708846218104917279"
  },
  "2026-11-16_1500_IN_historical_jessie": {
   "status": "scheduled",
