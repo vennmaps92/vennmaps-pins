@@ -196,10 +196,11 @@
   "url": "https://www.youtube.com/watch?v=VZ9mtMJwAnQ"
  },
  "2026-11-16_1500_IN_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "ac52cd87-670d-47bf-8ce2-bfd63fe7a8ea",
   "for_local": "2026-11-16 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=-ByZXsNu7C8"
  },
  "2026-11-16_1900_MT_loading_reveal_tiktok": {
   "status": "scheduled",

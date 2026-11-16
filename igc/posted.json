@@ -53,5 +53,11 @@
   "submission_id": "61b94bd8-9c20-44f5-b5ba-0b858f4bd1ee",
   "for_local": "2026-11-16 18:00",
   "tries": 0
+ },
+ "2026-11-17_0900_TX_layers": {
+  "status": "scheduled",
+  "submission_id": "68e4cb77-cf9c-4c16-9f2e-07471197541a",
+  "for_local": "2026-11-17 09:00",
+  "tries": 0
  }
 }
