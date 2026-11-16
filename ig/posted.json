@@ -163,9 +163,16 @@
   "url": "https://www.instagram.com/reel/DfxKTDDjKYQ/"
  },
  "2026-11-15_1900_MO_every_river_voiced_emma_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "8eec96ce-2f7c-4a84-9331-4fc4c1d58f04",
   "for_local": "2026-11-15 19:00",
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DfyO9DFgVPi/"
+ },
+ "2026-11-16_1200_NV_then_vs_now_voiced_jessie_tiktok": {
+  "status": "scheduled",
+  "submission_id": "3ce45057-b4c0-4172-adbd-2ca5d60be562",
+  "for_local": "2026-11-16 12:00",
   "tries": 0
  }
 }
