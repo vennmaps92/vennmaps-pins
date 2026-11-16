@@ -199,5 +199,11 @@
   "submission_id": "ac52cd87-670d-47bf-8ce2-bfd63fe7a8ea",
   "for_local": "2026-11-16 15:00",
   "tries": 0
+ },
+ "2026-11-16_1900_MT_loading_reveal_tiktok": {
+  "status": "scheduled",
+  "submission_id": "a119a09b-ff3d-448c-8803-d1349d99a15b",
+  "for_local": "2026-11-16 19:00",
+  "tries": 0
  }
 }
