@@ -61,5 +61,11 @@
   "for_local": "2026-11-17 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/Df2T9ycFIFK/"
+ },
+ "2026-11-18_0900_VA_ex": {
+  "status": "scheduled",
+  "submission_id": "a3e96479-c7d1-41f6-8d72-0d283c034717",
+  "for_local": "2026-11-18 09:00",
+  "tries": 0
  }
 }
