@@ -177,10 +177,11 @@
   "url": "https://www.instagram.com/reel/Df0DrXHETv9/"
  },
  "2026-11-16_1900_MT_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "cf3cce1a-ed48-42b3-ad2f-7ae678fa4158",
   "for_local": "2026-11-16 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/Df0zsCSj5PZ/"
  },
  "2026-11-17_1200_GA_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",

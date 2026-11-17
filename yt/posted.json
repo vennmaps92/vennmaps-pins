@@ -203,10 +203,11 @@
   "url": "https://www.youtube.com/watch?v=-ByZXsNu7C8"
  },
  "2026-11-16_1900_MT_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "a119a09b-ff3d-448c-8803-d1349d99a15b",
   "for_local": "2026-11-16 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=HsTE3t5PvRM"
  },
  "2026-11-17_1200_GA_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",

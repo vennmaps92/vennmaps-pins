@@ -203,10 +203,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7708892671586241822"
  },
  "2026-11-16_1900_MT_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "8bc04ba9-9a2c-456f-aed5-4fb6e8cb47ea",
   "for_local": "2026-11-16 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7708954344938294559"
  },
  "2026-11-17_1200_GA_dig_a_hole_voiced_don_tiktok": {
   "status": "scheduled",
