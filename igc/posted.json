@@ -49,10 +49,11 @@
   "url": "https://www.instagram.com/p/DfxRRgaINSs/"
  },
  "2026-11-16_1800_CO_uc": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "61b94bd8-9c20-44f5-b5ba-0b858f4bd1ee",
   "for_local": "2026-11-16 18:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/p/Df0s_YlkXeK/"
  },
  "2026-11-17_0900_TX_layers": {
   "status": "scheduled",

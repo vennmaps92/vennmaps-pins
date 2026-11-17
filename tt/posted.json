@@ -207,5 +207,11 @@
   "submission_id": "8bc04ba9-9a2c-456f-aed5-4fb6e8cb47ea",
   "for_local": "2026-11-16 19:00",
   "tries": 0
+ },
+ "2026-11-17_1200_GA_dig_a_hole_voiced_don_tiktok": {
+  "status": "scheduled",
+  "submission_id": "715eaddc-8b07-4bbd-a660-baa8cc0ee625",
+  "for_local": "2026-11-17 12:00",
+  "tries": 0
  }
 }
