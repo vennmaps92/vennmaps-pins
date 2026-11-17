@@ -214,5 +214,11 @@
   "submission_id": "1d10e73c-0795-4a76-8292-b5a166572d25",
   "for_local": "2026-11-17 12:00",
   "tries": 0
+ },
+ "2026-11-17_1500_KY_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "6ff7945a-4f13-4333-b164-372b084bd56c",
+  "for_local": "2026-11-17 15:00",
+  "tries": 0
  }
 }
