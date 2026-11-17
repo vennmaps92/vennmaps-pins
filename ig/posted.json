@@ -184,10 +184,11 @@
   "url": "https://www.instagram.com/reel/Df0zsCSj5PZ/"
  },
  "2026-11-17_1200_GA_dig_a_hole_voiced_don_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "a2b00f52-c1cc-4b58-a86d-cc78d1802e69",
   "for_local": "2026-11-17 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/Df2oeRhgSVq/"
  },
  "2026-11-17_1900_WI_every_river_voiced_emma_tiktok": {
   "status": "scheduled",
