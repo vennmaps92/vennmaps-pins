@@ -241,5 +241,11 @@
   "submission_id": "0cb7d346-6a0b-48b3-990f-f4930cd88bb9",
   "for_local": "2026-11-18 15:00",
   "tries": 0
+ },
+ "2026-11-18_1900_WY_loading_reveal_tiktok": {
+  "status": "scheduled",
+  "submission_id": "957a15e5-551a-4d0b-88a5-12a89812341a",
+  "for_local": "2026-11-18 19:00",
+  "tries": 0
  }
 }
