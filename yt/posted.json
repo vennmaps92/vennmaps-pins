@@ -231,10 +231,11 @@
   "url": "https://www.youtube.com/watch?v=TaNtJFf2mQQ"
  },
  "2026-11-18_1200_NM_then_vs_now_voiced_jessie_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "6c8680d8-ad41-42ab-9ee8-c4277b454572",
   "for_local": "2026-11-18 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=tBxDH-6DT-o"
  },
  "2026-11-18_1500_MA_historical_jessie": {
   "status": "scheduled",

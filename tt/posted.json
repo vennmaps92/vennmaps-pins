@@ -231,10 +231,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7709325419983490317"
  },
  "2026-11-18_1200_NM_then_vs_now_voiced_jessie_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "0e5b8f27-830d-406c-bb80-6409382b8a2e",
   "for_local": "2026-11-18 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7709588563028872479"
  },
  "2026-11-18_1500_MA_historical_jessie": {
   "status": "scheduled",
