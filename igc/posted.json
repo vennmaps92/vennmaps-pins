@@ -68,5 +68,11 @@
   "for_local": "2026-11-18 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/Df440kMEWJs/"
+ },
+ "2026-11-19_0900_MO_dt": {
+  "status": "scheduled",
+  "submission_id": "9974ccbe-1710-4832-b225-dfbf136d0ab4",
+  "for_local": "2026-11-19 09:00",
+  "tries": 0
  }
 }

@@ -238,10 +238,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7709588563028872479"
  },
  "2026-11-18_1500_MA_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "0cb7d346-6a0b-48b3-990f-f4930cd88bb9",
   "for_local": "2026-11-18 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7709634674175347998"
  },
  "2026-11-18_1900_WY_loading_reveal_tiktok": {
   "status": "scheduled",
