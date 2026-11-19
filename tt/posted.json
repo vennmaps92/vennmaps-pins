@@ -249,5 +249,11 @@
   "submission_id": "957a15e5-551a-4d0b-88a5-12a89812341a",
   "for_local": "2026-11-18 19:00",
   "tries": 0
+ },
+ "2026-11-19_1200_CA_how_close_tiktok": {
+  "status": "scheduled",
+  "submission_id": "c225dd5b-0077-4131-8334-705ff1a7af7a",
+  "for_local": "2026-11-19 12:00",
+  "tries": 0
  }
 }
