@@ -252,10 +252,11 @@
   "url": "https://www.youtube.com/watch?v=7KU5c-eHzEs"
  },
  "2026-11-19_1200_CA_how_close_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "d01877fe-79f9-4a94-9d03-441ef0624933",
   "for_local": "2026-11-19 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=zu9l2rnFHhk"
  },
  "2026-11-19_1500_MD_historical_jessie": {
   "status": "scheduled",

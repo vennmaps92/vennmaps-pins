@@ -252,10 +252,11 @@
   "url": "https://www.tiktok.com/@vennmaps"
  },
  "2026-11-19_1200_CA_how_close_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "c225dd5b-0077-4131-8334-705ff1a7af7a",
   "for_local": "2026-11-19 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7709959654171839774"
  },
  "2026-11-19_1500_MD_historical_jessie": {
   "status": "scheduled",
