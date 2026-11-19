@@ -259,10 +259,11 @@
   "url": "https://www.youtube.com/watch?v=zu9l2rnFHhk"
  },
  "2026-11-19_1500_MD_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "9e1dee61-1ff8-4982-b756-e358f8657ecb",
   "for_local": "2026-11-19 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=luGLr1aBfHs"
  },
  "2026-11-19_1900_IL_geology_legend_tiktok": {
   "status": "scheduled",

@@ -259,10 +259,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7709959654171839774"
  },
  "2026-11-19_1500_MD_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "096faea0-c368-4673-8e7c-9068e227c9b9",
   "for_local": "2026-11-19 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7710005769827142943"
  },
  "2026-11-19_1900_IL_geology_legend_tiktok": {
   "status": "scheduled",
