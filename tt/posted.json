@@ -245,10 +245,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7709634674175347998"
  },
  "2026-11-18_1900_WY_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "957a15e5-551a-4d0b-88a5-12a89812341a",
   "for_local": "2026-11-18 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps"
  },
  "2026-11-19_1200_CA_how_close_tiktok": {
   "status": "scheduled",

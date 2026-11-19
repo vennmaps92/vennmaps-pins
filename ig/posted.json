@@ -205,10 +205,11 @@
   "url": "https://www.instagram.com/reel/Df5NREBDFQR/"
  },
  "2026-11-18_1900_WY_loading_reveal_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "a3ac890d-62e8-4f84-aa70-e93b65daeba5",
   "for_local": "2026-11-18 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/Df59W44DzKn/"
  },
  "2026-11-19_1200_CA_how_close_tiktok": {
   "status": "scheduled",
