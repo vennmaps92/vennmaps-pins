@@ -256,5 +256,11 @@
   "submission_id": "c225dd5b-0077-4131-8334-705ff1a7af7a",
   "for_local": "2026-11-19 12:00",
   "tries": 0
+ },
+ "2026-11-19_1500_MD_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "096faea0-c368-4673-8e7c-9068e227c9b9",
+  "for_local": "2026-11-19 15:00",
+  "tries": 0
  }
 }
