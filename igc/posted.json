@@ -75,5 +75,11 @@
   "for_local": "2026-11-19 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/Df7djF4luXE/"
+ },
+ "2026-11-20_1800_OR_rg": {
+  "status": "scheduled",
+  "submission_id": "d66ab45b-f0e3-467e-82e5-5111e854e283",
+  "for_local": "2026-11-20 18:00",
+  "tries": 0
  }
 }
