@@ -283,5 +283,11 @@
   "submission_id": "0cc3d53f-0404-46ef-833e-80407eb56a5c",
   "for_local": "2026-11-20 15:00",
   "tries": 0
+ },
+ "2026-11-20_1900_1120_1900_CA_tvn_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "1da751a2-ab4e-4db8-aca9-f698bcac2b15",
+  "for_local": "2026-11-20 19:00",
+  "tries": 0
  }
 }
