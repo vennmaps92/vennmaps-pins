@@ -270,5 +270,11 @@
   "submission_id": "2a2fc417-a9f9-495d-9a58-cffda16014c2",
   "for_local": "2026-11-19 19:00",
   "tries": 0
+ },
+ "2026-11-20_1200_1120_1200_TX_dig_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "664e4057-df23-4a19-a06f-0ab6c321e8c3",
+  "for_local": "2026-11-20 12:00",
+  "tries": 0
  }
 }
