@@ -291,5 +291,11 @@
   "submission_id": "1da751a2-ab4e-4db8-aca9-f698bcac2b15",
   "for_local": "2026-11-20 19:00",
   "tries": 0
+ },
+ "2026-11-21_1200_1121_1200_FL_river_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "aab702db-a8aa-4588-aab6-5bb7402747b1",
+  "for_local": "2026-11-21 12:00",
+  "tries": 0
  }
 }
