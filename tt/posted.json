@@ -298,5 +298,11 @@
   "submission_id": "aab702db-a8aa-4588-aab6-5bb7402747b1",
   "for_local": "2026-11-21 12:00",
   "tries": 0
+ },
+ "2026-11-21_1500_MN_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "8d7858bf-0342-414f-81ba-9907c5c9b82d",
+  "for_local": "2026-11-21 15:00",
+  "tries": 0
  }
 }
