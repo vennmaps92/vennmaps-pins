@@ -82,5 +82,11 @@
   "for_local": "2026-11-20 18:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/Df_AE8hjTW0/"
+ },
+ "2026-11-21_1800_CA_uc": {
+  "status": "scheduled",
+  "submission_id": "f7ce970b-e91d-427f-964e-13e8d7d04190",
+  "for_local": "2026-11-21 18:00",
+  "tries": 0
  }
 }
