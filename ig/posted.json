@@ -240,10 +240,11 @@
   "url": "https://www.instagram.com/reel/Df_G8m3ipgo/"
  },
  "2026-11-21_1200_1121_1200_FL_river_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "8a018ad5-e172-4d26-8e94-8c7536596f6d",
   "for_local": "2026-11-21 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DgA7rzqDGTC/"
  },
  "2026-11-21_1700_1121_1900_NY_load_holiday_tiktok": {
   "status": "scheduled",
