@@ -304,5 +304,11 @@
   "submission_id": "729111b6-5b9a-43b6-8f9f-61d5185aac2a",
   "for_local": "2026-11-21 15:00",
   "tries": 0
+ },
+ "2026-11-21_1700_1121_1900_NY_load_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "90b11e91-a723-4d38-b084-106a74154ed7",
+  "for_local": "2026-11-21 17:00",
+  "tries": 0
  }
 }
