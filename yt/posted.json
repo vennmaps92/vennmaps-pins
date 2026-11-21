@@ -301,15 +301,22 @@
   "url": "https://www.youtube.com/watch?v=wyKn76d78-A"
  },
  "2026-11-21_1500_MN_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "729111b6-5b9a-43b6-8f9f-61d5185aac2a",
   "for_local": "2026-11-21 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=djIlLiIoM60"
  },
  "2026-11-21_1700_1121_1900_NY_load_holiday_tiktok": {
   "status": "scheduled",
   "submission_id": "90b11e91-a723-4d38-b084-106a74154ed7",
   "for_local": "2026-11-21 17:00",
+  "tries": 0
+ },
+ "2026-11-22_0900_1122_1200_PA_dig_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "c8d8dff6-55b6-4c6e-b756-b34d687141bf",
+  "for_local": "2026-11-22 09:00",
   "tries": 0
  }
 }

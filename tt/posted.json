@@ -301,15 +301,22 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7710701586082827533"
  },
  "2026-11-21_1500_MN_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "8d7858bf-0342-414f-81ba-9907c5c9b82d",
   "for_local": "2026-11-21 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7710748076046077215"
  },
  "2026-11-21_1700_1121_1900_NY_load_holiday_tiktok": {
   "status": "scheduled",
   "submission_id": "a38e0306-bb95-434b-aca0-c31d74fee7cf",
   "for_local": "2026-11-21 17:00",
+  "tries": 0
+ },
+ "2026-11-22_0900_1122_1200_PA_dig_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "5d133365-26e8-4f87-ad01-7638395fa729",
+  "for_local": "2026-11-22 09:00",
   "tries": 0
  }
 }

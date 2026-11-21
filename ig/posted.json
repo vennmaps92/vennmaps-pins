@@ -251,5 +251,11 @@
   "submission_id": "893074e6-a117-48e3-b157-4f6ff6f439dc",
   "for_local": "2026-11-21 17:00",
   "tries": 0
+ },
+ "2026-11-22_0900_1122_1200_PA_dig_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "0def6276-5d6a-41d2-9021-f86871da26f2",
+  "for_local": "2026-11-22 09:00",
+  "tries": 0
  }
 }
