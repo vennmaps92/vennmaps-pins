@@ -308,10 +308,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7710748076046077215"
  },
  "2026-11-21_1700_1121_1900_NY_load_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "a38e0306-bb95-434b-aca0-c31d74fee7cf",
   "for_local": "2026-11-21 17:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7710778989308054797"
  },
  "2026-11-22_0900_1122_1200_PA_dig_holiday_tiktok": {
   "status": "scheduled",
