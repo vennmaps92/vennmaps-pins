@@ -322,10 +322,11 @@
   "url": "https://www.youtube.com/watch?v=QIZHNvW2pqo"
  },
  "2026-11-22_1500_MO_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "d90441a2-8992-4546-b566-aef9ca5d9ab6",
   "for_local": "2026-11-22 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=FZalkWQxv4M"
  },
  "2026-11-22_1900_1122_1900_OH_tvn_holiday_tiktok": {
   "status": "scheduled",

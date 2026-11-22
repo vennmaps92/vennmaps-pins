@@ -95,5 +95,11 @@
   "submission_id": "6b50574e-5de5-488e-adc1-eae9719a329d",
   "for_local": "2026-11-22 18:00",
   "tries": 0
+ },
+ "2026-11-23_0900_WI_dt": {
+  "status": "scheduled",
+  "submission_id": "7b6c348c-7871-4345-bf3f-bce44dc241d2",
+  "for_local": "2026-11-23 09:00",
+  "tries": 0
  }
 }
