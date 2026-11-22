@@ -315,10 +315,11 @@
   "url": "https://www.youtube.com/watch?v=rv3sD7lcxkY"
  },
  "2026-11-22_0900_1122_1200_PA_dig_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "c8d8dff6-55b6-4c6e-b756-b34d687141bf",
   "for_local": "2026-11-22 09:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=QIZHNvW2pqo"
  },
  "2026-11-22_1500_MO_historical_jessie": {
   "status": "scheduled",
