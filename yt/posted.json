@@ -333,5 +333,11 @@
   "submission_id": "8ae842da-4d7a-4668-bbca-1ea86aa3be91",
   "for_local": "2026-11-22 19:00",
   "tries": 0
+ },
+ "2026-11-23_1200_1123_1200_IL_river_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "fa99ac99-a142-4709-80bb-11f9593b1f26",
+  "for_local": "2026-11-23 12:00",
+  "tries": 0
  }
 }

@@ -91,10 +91,11 @@
   "url": "https://www.instagram.com/p/DgBk5n8I3JZ/"
  },
  "2026-11-22_1800_WA_ex": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "6b50574e-5de5-488e-adc1-eae9719a329d",
   "for_local": "2026-11-22 18:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/p/DgEJuWmFFIr/"
  },
  "2026-11-23_0900_WI_dt": {
   "status": "scheduled",
