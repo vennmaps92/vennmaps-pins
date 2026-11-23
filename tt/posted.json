@@ -343,10 +343,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7711443757144624415"
  },
  "2026-11-23_1500_MT_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "0eac4b22-00f9-4ee7-94f2-23b6ba44b78b",
   "for_local": "2026-11-23 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7711490080833064222"
  },
  "2026-11-23_1900_1123_1900_GA_close_holiday_tiktok": {
   "status": "scheduled",

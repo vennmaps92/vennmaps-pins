@@ -343,10 +343,11 @@
   "url": "https://www.youtube.com/watch?v=fxSN0cUjL7A"
  },
  "2026-11-23_1500_MT_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "664ce752-9241-407c-a1dd-8514725c32a8",
   "for_local": "2026-11-23 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=LI-YaDSBZAI"
  },
  "2026-11-23_1900_1123_1900_GA_close_holiday_tiktok": {
   "status": "scheduled",
