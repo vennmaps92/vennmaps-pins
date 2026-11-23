@@ -336,10 +336,11 @@
   "url": "https://www.youtube.com/watch?v=UBRCMyU_K4w"
  },
  "2026-11-23_1200_1123_1200_IL_river_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "fa99ac99-a142-4709-80bb-11f9593b1f26",
   "for_local": "2026-11-23 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=fxSN0cUjL7A"
  },
  "2026-11-23_1500_MT_historical_jessie": {
   "status": "scheduled",
