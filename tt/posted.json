@@ -346,5 +346,11 @@
   "submission_id": "0eac4b22-00f9-4ee7-94f2-23b6ba44b78b",
   "for_local": "2026-11-23 15:00",
   "tries": 0
+ },
+ "2026-11-23_1900_1123_1900_GA_close_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "9c8820ee-e71e-4a78-a86c-1ae41f00b739",
+  "for_local": "2026-11-23 19:00",
+  "tries": 0
  }
 }
