@@ -98,9 +98,9 @@
   "url": "https://www.instagram.com/p/DgEJuWmFFIr/"
  },
  "2026-11-23_0900_WI_dt": {
-  "status": "scheduled",
-  "submission_id": "7b6c348c-7871-4345-bf3f-bce44dc241d2",
+  "status": "submitted",
+  "submission_id": "bf67a8c3-98a4-4c1f-977e-2c36c1768807",
   "for_local": "2026-11-23 09:00",
-  "tries": 0
+  "tries": 1
  }
 }
