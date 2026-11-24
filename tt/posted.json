@@ -357,10 +357,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7711551897567546637"
  },
  "2026-11-24_1200_1124_1200_NC_dig_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "c98c34bc-f451-46f4-aaad-be812c4a1e27",
   "for_local": "2026-11-24 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7711815080240811295"
  },
  "2026-11-24_1500_NC_historical_jessie": {
   "status": "scheduled",

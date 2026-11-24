@@ -357,10 +357,11 @@
   "url": "https://www.youtube.com/watch?v=1yXHmm3RJIo"
  },
  "2026-11-24_1200_1124_1200_NC_dig_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "6bc278fe-58c9-44a2-aefd-abfeff505205",
   "for_local": "2026-11-24 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=7Abogu4L3Vo"
  },
  "2026-11-24_1500_NC_historical_jessie": {
   "status": "scheduled",
