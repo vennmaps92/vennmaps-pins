@@ -354,5 +354,11 @@
   "submission_id": "9c8820ee-e71e-4a78-a86c-1ae41f00b739",
   "for_local": "2026-11-23 19:00",
   "tries": 0
+ },
+ "2026-11-24_1200_1124_1200_NC_dig_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "c98c34bc-f451-46f4-aaad-be812c4a1e27",
+  "for_local": "2026-11-24 12:00",
+  "tries": 0
  }
 }
