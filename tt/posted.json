@@ -367,5 +367,11 @@
   "submission_id": "a5062fcf-0d5e-4131-9aed-24c27609e2bb",
   "for_local": "2026-11-24 15:00",
   "tries": 0
+ },
+ "2026-11-24_1900_1124_1900_MI_tvn_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "38947020-a6c2-43ca-8109-3c2d3f697482",
+  "for_local": "2026-11-24 19:00",
+  "tries": 0
  }
 }
