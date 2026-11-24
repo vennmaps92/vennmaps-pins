@@ -361,5 +361,11 @@
   "submission_id": "6bc278fe-58c9-44a2-aefd-abfeff505205",
   "for_local": "2026-11-24 12:00",
   "tries": 0
+ },
+ "2026-11-24_1500_NC_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "90bd9f4b-36b5-415f-a0f6-4b9b073eca6e",
+  "for_local": "2026-11-24 15:00",
+  "tries": 0
  }
 }
