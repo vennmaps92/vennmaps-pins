@@ -300,5 +300,11 @@
   "submission_id": "ca3efbb4-be1b-431c-b655-203f8eca2736",
   "for_local": "2026-11-25 12:00",
   "tries": 0
+ },
+ "2026-11-25_1900_1125_1900_VA_load_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "d7b2ac77-76fd-4ea6-830e-c7f3d23e83ec",
+  "for_local": "2026-11-25 19:00",
+  "tries": 0
  }
 }
