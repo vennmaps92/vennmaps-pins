@@ -382,5 +382,11 @@
   "submission_id": "9087c9e1-4a66-4c20-bfd1-b6aeb9d54d7d",
   "for_local": "2026-11-25 12:00",
   "tries": 0
+ },
+ "2026-11-25_1500_NJ_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "5079ac40-ca84-4737-a5df-7bee91642bb3",
+  "for_local": "2026-11-25 15:00",
+  "tries": 0
  }
 }
