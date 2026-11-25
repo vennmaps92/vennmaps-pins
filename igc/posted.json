@@ -117,5 +117,11 @@
   "for_local": "2026-11-25 09:00",
   "tries": 0,
   "url": "https://www.instagram.com/p/DgK6VHnIHAZ/"
+ },
+ "2026-11-26_0900_PA_carousel": {
+  "status": "scheduled",
+  "submission_id": "e386e502-6171-4f10-92c4-75b77b66ca6f",
+  "for_local": "2026-11-26 09:00",
+  "tries": 0
  }
 }

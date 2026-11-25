@@ -385,10 +385,11 @@
   "url": "https://www.youtube.com/watch?v=ibC3p85C6rs"
  },
  "2026-11-25_1500_NJ_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "ceecb578-6788-440a-bd64-05de44f310d6",
   "for_local": "2026-11-25 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=3682x3UhNhE"
  },
  "2026-11-25_1900_1125_1900_VA_load_holiday_tiktok": {
   "status": "scheduled",
