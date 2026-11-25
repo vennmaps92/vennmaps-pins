@@ -371,10 +371,11 @@
   "url": "https://www.youtube.com/watch?v=sUpDtLa71B4"
  },
  "2026-11-24_1900_1124_1900_MI_tvn_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "87ae71cf-2351-4751-8242-1204c37d0401",
   "for_local": "2026-11-24 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=DZVtfH3SYE4"
  },
  "2026-11-25_1200_1125_1200_NJ_river_holiday_tiktok": {
   "status": "scheduled",

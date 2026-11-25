@@ -371,10 +371,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7711861208361569567"
  },
  "2026-11-24_1900_1124_1900_MI_tvn_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "38947020-a6c2-43ca-8109-3c2d3f697482",
   "for_local": "2026-11-24 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7711923134835723550"
  },
  "2026-11-25_1200_1125_1200_NJ_river_holiday_tiktok": {
   "status": "scheduled",

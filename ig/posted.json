@@ -289,10 +289,11 @@
   "url": "https://www.instagram.com/reel/DgIqD3bgZyu/"
  },
  "2026-11-24_1900_1124_1900_MI_tvn_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "f163ac2c-7676-4e23-876d-59141cd19cda",
   "for_local": "2026-11-24 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DgJaLFOhFz8/"
  },
  "2026-11-25_1200_1125_1200_NJ_river_holiday_tiktok": {
   "status": "scheduled",
