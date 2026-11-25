@@ -378,10 +378,11 @@
   "url": "https://www.youtube.com/watch?v=DZVtfH3SYE4"
  },
  "2026-11-25_1200_1125_1200_NJ_river_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "0d7e0057-bf87-4bca-95fc-de7772bdcc61",
   "for_local": "2026-11-25 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=ibC3p85C6rs"
  },
  "2026-11-25_1500_NJ_historical_jessie": {
   "status": "scheduled",
