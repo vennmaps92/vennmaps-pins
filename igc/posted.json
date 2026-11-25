@@ -105,10 +105,11 @@
   "url": "https://www.instagram.com/p/DgF0kxOlSD4/"
  },
  "2026-11-24_1800_UT_rg": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "e28afc30-639d-43f3-9559-8f9e59284671",
   "for_local": "2026-11-24 18:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/p/DgJTPS0Dvzh/"
  },
  "2026-11-25_0900_FL_layers": {
   "status": "scheduled",
