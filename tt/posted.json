@@ -399,10 +399,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7712294077747760414"
  },
  "2026-11-26_1200_1126_1200_WA_dig_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "bf431795-e11f-468d-a709-3dd449f45655",
   "for_local": "2026-11-26 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7712557365320502542"
  },
  "2026-11-26_1500_NM_historical_jessie": {
   "status": "scheduled",
