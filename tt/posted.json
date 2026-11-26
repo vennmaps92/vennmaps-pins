@@ -396,5 +396,11 @@
   "submission_id": "7a937ca0-fe5d-4a67-b365-307c2eb117f9",
   "for_local": "2026-11-25 19:00",
   "tries": 0
+ },
+ "2026-11-26_1200_1126_1200_WA_dig_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "bf431795-e11f-468d-a709-3dd449f45655",
+  "for_local": "2026-11-26 12:00",
+  "tries": 0
  }
 }
