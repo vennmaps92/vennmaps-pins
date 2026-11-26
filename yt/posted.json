@@ -403,5 +403,11 @@
   "submission_id": "ccffe10d-adf8-4be6-b1f9-91171d0b1c76",
   "for_local": "2026-11-26 12:00",
   "tries": 0
+ },
+ "2026-11-26_1500_NM_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "004079b4-523a-4f5a-b4df-bae220c6441b",
+  "for_local": "2026-11-26 15:00",
+  "tries": 0
  }
 }
