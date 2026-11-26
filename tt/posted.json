@@ -406,10 +406,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7712557365320502542"
  },
  "2026-11-26_1500_NM_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "4033b3fc-96f2-4c36-b7ac-ef9fd4e8a59b",
   "for_local": "2026-11-26 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7712603363514387726"
  },
  "2026-11-26_1900_1126_1900_AZ_tvn_holiday_tiktok": {
   "status": "scheduled",

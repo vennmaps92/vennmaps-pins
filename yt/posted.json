@@ -406,10 +406,11 @@
   "url": "https://www.youtube.com/watch?v=bx73nT24Zgk"
  },
  "2026-11-26_1500_NM_historical_jessie": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "004079b4-523a-4f5a-b4df-bae220c6441b",
   "for_local": "2026-11-26 15:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.youtube.com/watch?v=qwwmKQ6mXvU"
  },
  "2026-11-26_1900_1126_1900_AZ_tvn_holiday_tiktok": {
   "status": "scheduled",
