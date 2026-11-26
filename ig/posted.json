@@ -314,5 +314,11 @@
   "submission_id": "dca8944e-28ee-490f-8ebe-c035979a0dad",
   "for_local": "2026-11-26 12:00",
   "tries": 0
+ },
+ "2026-11-26_1900_1126_1900_AZ_tvn_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "bbf5c932-5e55-4ebc-805d-4637bde6d446",
+  "for_local": "2026-11-26 19:00",
+  "tries": 0
  }
 }
