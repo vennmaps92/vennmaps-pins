@@ -392,10 +392,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7712232293225549086"
  },
  "2026-11-25_1900_1125_1900_VA_load_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "7a937ca0-fe5d-4a67-b365-307c2eb117f9",
   "for_local": "2026-11-25 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7712294077747760414"
  },
  "2026-11-26_1200_1126_1200_WA_dig_holiday_tiktok": {
   "status": "scheduled",
