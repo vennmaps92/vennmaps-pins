@@ -420,10 +420,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7712665172556467487"
  },
  "2026-11-27_1200_1127_1200_TN_river_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "ee293384-dfb6-41eb-97b4-fda197c0ecb1",
   "for_local": "2026-11-27 12:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7712928208332672286"
  },
  "2026-11-27_1500_NV_historical_jessie": {
   "status": "scheduled",
