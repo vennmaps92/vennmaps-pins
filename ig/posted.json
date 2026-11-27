@@ -317,10 +317,11 @@
   "url": "https://www.instagram.com/reel/DgNzoxBh0UM/"
  },
  "2026-11-26_1900_1126_1900_AZ_tvn_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "bbf5c932-5e55-4ebc-805d-4637bde6d446",
   "for_local": "2026-11-26 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DgOjosASu0e/"
  },
  "2026-11-27_1200_1127_1200_TN_river_holiday_tiktok": {
   "status": "scheduled",

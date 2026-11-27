@@ -413,10 +413,11 @@
   "url": "https://www.tiktok.com/@vennmaps/video/7712603363514387726"
  },
  "2026-11-26_1900_1126_1900_AZ_tvn_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "3703f8a7-94a0-4f6d-b7ea-2c47fe5f12ce",
   "for_local": "2026-11-26 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.tiktok.com/@vennmaps/video/7712665172556467487"
  },
  "2026-11-27_1200_1127_1200_TN_river_holiday_tiktok": {
   "status": "scheduled",
