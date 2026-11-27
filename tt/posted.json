@@ -430,5 +430,11 @@
   "submission_id": "e1e307db-6b5c-48a0-b083-e211d30aeb7d",
   "for_local": "2026-11-27 15:00",
   "tries": 0
+ },
+ "2026-11-27_1900_1127_1900_MA_close_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "fa871a2e-a530-4e11-8349-3fed33e02ba0",
+  "for_local": "2026-11-27 19:00",
+  "tries": 0
  }
 }
