@@ -321,5 +321,11 @@
   "submission_id": "bbf5c932-5e55-4ebc-805d-4637bde6d446",
   "for_local": "2026-11-26 19:00",
   "tries": 0
+ },
+ "2026-11-27_1200_1127_1200_TN_river_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "33478ac1-bab8-4227-aeec-8940ce696cc9",
+  "for_local": "2026-11-27 12:00",
+  "tries": 0
  }
 }
