@@ -424,5 +424,11 @@
   "submission_id": "918e9cd9-c610-4db8-9e66-41bea016e6ea",
   "for_local": "2026-11-27 12:00",
   "tries": 0
+ },
+ "2026-11-27_1500_NV_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "8ec1fac3-76ea-4616-ac61-eced90876dbe",
+  "for_local": "2026-11-27 15:00",
+  "tries": 0
  }
 }
