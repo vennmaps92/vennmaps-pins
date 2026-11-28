@@ -445,5 +445,11 @@
   "submission_id": "1a4b4c68-a2ef-4b95-b224-93248e0e6844",
   "for_local": "2026-11-28 12:00",
   "tries": 0
+ },
+ "2026-11-28_1500_NY_historical_jessie": {
+  "status": "scheduled",
+  "submission_id": "33c46531-e038-434d-b472-34130c28a4f2",
+  "for_local": "2026-11-28 15:00",
+  "tries": 0
  }
 }
