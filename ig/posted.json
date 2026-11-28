@@ -342,5 +342,11 @@
   "submission_id": "bfb96e65-d02a-48e2-a1fb-6e1e2f75e950",
   "for_local": "2026-11-28 12:00",
   "tries": 0
+ },
+ "2026-11-28_1700_1128_1900_MO_tvn_holiday_tiktok": {
+  "status": "scheduled",
+  "submission_id": "2fe9b2ab-03e3-442a-ae86-45826172aace",
+  "for_local": "2026-11-28 17:00",
+  "tries": 0
  }
 }
