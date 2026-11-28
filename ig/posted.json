@@ -331,10 +331,11 @@
   "url": "https://www.instagram.com/reel/DgQYdCnIqda/"
  },
  "2026-11-27_1900_1127_1900_MA_close_holiday_tiktok": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "1961fb0d-9b7d-4e91-a17b-8f7f73d50455",
   "for_local": "2026-11-27 19:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/reel/DgRIcK3NraO/"
  },
  "2026-11-28_1200_1128_1200_IN_dig_holiday_tiktok": {
   "status": "scheduled",

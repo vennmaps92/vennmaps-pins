@@ -126,10 +126,11 @@
   "url": "https://www.instagram.com/p/DgNfHazFsTG/"
  },
  "2026-11-27_1800_CA-NV_faceoff": {
-  "status": "scheduled",
+  "status": "posted",
   "submission_id": "1ebde520-eeea-48ea-92f4-7039d6e30e1f",
   "for_local": "2026-11-27 18:00",
-  "tries": 0
+  "tries": 0,
+  "url": "https://www.instagram.com/p/DgRBrbJlds8/"
  },
  "2026-11-28_0900_TX_uc": {
   "status": "scheduled",
